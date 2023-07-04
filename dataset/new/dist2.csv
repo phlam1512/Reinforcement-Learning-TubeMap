@@ -1,0 +1,1927 @@
+station1,station2,time,dist,line,flag,id1,id2,direction1,direction2,id0,station1_count,2d
+Kenton (bn),Harrow & Wealdstone (bn),150,1740,b,t,126.1,101.1,n,n,126,8,FALSE
+South Kenton (bn),Kenton (bn),120,1400,b,t,208.1,126.1,n,n,208,6,TRUE
+North Wembley (bn),South Kenton (bn),120,900,b,t,162.1,208.1,n,n,162,6,TRUE
+Wembley Central (bn),North Wembley (bn),120,1270,b,t,251.1,162.1,n,n,251,6,TRUE
+Stonebridge Park (bn),Wembley Central (bn),150,1710,b,t,222.1,251.1,n,n,222,6,TRUE
+Harlesden (bn),Stonebridge Park (bn),150,1530,b,t,100.1,222.1,n,n,100,6,TRUE
+Willesden Junction (bn),Harlesden (bn),120,1050,b,t,266.1,100.1,n,n,266,6,TRUE
+Kensal Green (bn),Willesden Junction (bn),180,1500,b,t,123.1,266.1,n,n,123,6,TRUE
+Queens Park (bn),Kensal Green (bn),180,1320,b,t,185.1,123.1,n,n,185,6,TRUE
+Kilburn Park (bn),Queens Park (bn),150,790,b,t,129.1,185.1,n,n,129,6,TRUE
+Maida Vale (bn),Kilburn Park (bn),120,880,b,t,143.1,129.1,n,n,143,6,TRUE
+Warwick Avenue (bn),Maida Vale (bn),90,790,b,t,248.1,143.1,n,n,248,6,TRUE
+Paddington (BRD) (bn),Warwick Avenue (bn),120,880,b,t,174.1,248.1,n,n,174,13,FALSE
+Edgware Road (B) (bn),Paddington (BRD) (bn),120,720,b,t,71.1,174.1,n,n,71,6,TRUE
+Marylebone (bn),Edgware Road (B) (bn),60,450,b,t,147.1,71.1,n,n,147,6,TRUE
+Baker Street (bn),Marylebone (bn),60,500,b,t,10.1,147.1,n,n,10,24,FALSE
+Regents Park (bn),Baker Street (bn),120,880,b,t,191.1,10.1,n,n,191,6,TRUE
+Oxford Circus (bn),Regents Park (bn),120,870,b,t,173.1,191.1,n,n,173,18,FALSE
+Piccadilly Circus (bn),Oxford Circus (bn),120,970,b,t,179.1,173.1,n,n,179,12,FALSE
+Charing Cross (bn),Piccadilly Circus (bn),120,550,b,t,45.1,179.1,n,n,45,12,FALSE
+Embankment (bn),Charing Cross (bn),60,370,b,t,75.1,45.1,n,n,75,18,FALSE
+Waterloo (bn),Embankment (bn),90,710,b,t,249.1,75.1,n,n,249,21,FALSE
+Lambeth North (bn),Waterloo (bn),120,630,b,t,134.1,249.1,n,n,134,6,TRUE
+Elephant & Castle (bn),Lambeth North (bn),120,820,b,t,73.1,134.1,n,n,73,9,FALSE
+Harrow & Wealdstone (bs),Kenton (bs),150,1740,b,t,101.2,126.2,s,s,101,3,FALSE
+Kenton (bs),South Kenton (bs),120,1400,b,t,126.2,208.2,s,s,126,8,FALSE
+South Kenton (bs),North Wembley (bs),120,900,b,t,208.2,162.2,s,s,208,6,TRUE
+North Wembley (bs),Wembley Central (bs),120,1270,b,t,162.2,251.2,s,s,162,6,TRUE
+Wembley Central (bs),Stonebridge Park (bs),150,1710,b,t,251.2,222.2,s,s,251,6,TRUE
+Stonebridge Park (bs),Harlesden (bs),150,1530,b,t,222.2,100.2,s,s,222,6,TRUE
+Harlesden (bs),Willesden Junction (bs),120,1050,b,t,100.2,266.2,s,s,100,6,TRUE
+Willesden Junction (bs),Kensal Green (bs),180,1500,b,t,266.2,123.2,s,s,266,6,TRUE
+Kensal Green (bs),Queens Park (bs),180,1320,b,t,123.2,185.2,s,s,123,6,TRUE
+Queens Park (bs),Kilburn Park (bs),150,790,b,t,185.2,129.2,s,s,185,6,TRUE
+Kilburn Park (bs),Maida Vale (bs),120,880,b,t,129.2,143.3,s,s,129,6,TRUE
+Maida Vale (bs),Warwick Avenue (bs),90,790,b,t,143.3,248.2,s,s,143,6,TRUE
+Warwick Avenue (bs),Paddington (BRD) (bs),120,880,b,t,248.2,174.2,s,s,248,6,TRUE
+Paddington (BRD) (bs),Edgware Road (B) (bs),120,720,b,t,174.2,71.2,s,s,174,13,FALSE
+Edgware Road (B) (bs),Marylebone (bs),60,450,b,t,71.2,147.2,s,s,71,6,TRUE
+Marylebone (bs),Baker Street (bs),60,500,b,t,147.2,10.2,s,s,147,6,TRUE
+Baker Street (bs),Regents Park (bs),120,880,b,t,10.2,191.2,s,s,10,24,FALSE
+Regents Park (bs),Oxford Circus (bs),120,870,b,t,191.2,173.2,s,s,191,6,TRUE
+Oxford Circus (bs),Piccadilly Circus (bs),120,970,b,t,173.2,179.2,s,s,173,18,FALSE
+Piccadilly Circus (bs),Charing Cross (bs),120,550,b,t,179.2,45.2,s,s,179,12,FALSE
+Charing Cross (bs),Embankment (bs),60,370,b,t,45.2,75.2,s,s,45,12,FALSE
+Embankment (bs),Waterloo (bs),90,710,b,t,75.2,249.2,s,s,75,18,FALSE
+Waterloo (bs),Lambeth North (bs),120,630,b,t,249.2,134.2,s,s,249,21,FALSE
+Lambeth North (bs),Elephant & Castle (bs),120,820,b,t,134.2,73.2,s,s,134,6,TRUE
+Epping (cw),Theydon Bois (cw),165,2540,c,t,76.2,228.2,w,w,76,3,FALSE
+Theydon Bois (cw),Debden (cw),210,3350,c,t,228.2,60.2,w,w,228,6,TRUE
+Debden (cw),Loughton (cw),180,2030,c,t,60.2,142.2,w,w,60,6,TRUE
+Loughton (cw),Buckhurst Hill (cw),150,1830,c,t,142.2,33.2,w,w,142,6,TRUE
+Buckhurst Hill (cw),Woodford (cw1),165,2320,c,t,33.2,271.3,w,w,33,6,TRUE
+Grange Hill (cw),Hainault (cw),120,1130,c,t,90.2,95.2,w,w,90,6,TRUE
+Chigwell (cw),Grange Hill (cw),120,1320,c,t,47.2,90.2,w,w,47,6,TRUE
+Roding Valley (cw),Chigwell (cw),210,2280,c,t,194.2,47.2,w,w,194,6,TRUE
+Woodford (cw2),Roding Valley (cw),150,1340,c,t,271.4,194.2,w,w,271,9,FALSE
+Woodford (cw1),South Woodford (cw),135,1800,c,t,271.3,211.2,w,w,271,9,FALSE
+South Woodford (cw),Snaresbrook (cw),120,1290,c,t,211.2,204.2,w,w,211,6,TRUE
+Snaresbrook (cw),Leytonstone (cw),165,1580,c,t,204.2,139.2,w,w,204,7,FALSE
+Hainault (cw),Fairlop (cw),120,760,c,t,95.2,79.2,w,w,95,6,TRUE
+Fairlop (cw),Barkingside (cw),105,1220,c,t,79.2,15.2,w,w,79,6,TRUE
+Barkingside (cw),Newbury Park (cw),120,1110,c,t,15.2,156.2,w,w,15,6,TRUE
+Newbury Park (cw),Gants Hill (cw),180,2370,c,t,156.2,85.2,w,w,156,6,TRUE
+Gants Hill (cw),Redbridge (cw),105,1270,c,t,85.2,190.2,w,w,85,6,TRUE
+Redbridge (cw),Wanstead (cw),120,1220,c,t,190.2,246.2,w,w,190,6,TRUE
+Wanstead (cw),Leytonstone (cw),165,1720,c,t,246.2,139.2,w,w,246,6,TRUE
+Leytonstone (cw),Leyton (cw),135,1630,c,t,139.2,138.2,w,w,139,7,FALSE
+Leyton (cw),Stratford (cw),165,2090,c,t,138.2,223.2,w,w,138,6,TRUE
+Stratford (cw),Mile End (cw),210,2830,c,t,223.2,148.2,w,w,223,9,FALSE
+Mile End (cw),Bethnal Green (cw),165,1640,c,t,148.2,22.2,w,w,148,12,FALSE
+Bethnal Green (cw),Liverpool Street (cw),195,2270,c,t,22.2,140.2,w,w,22,6,TRUE
+Liverpool Street (cw),Bank (cw),120,740,c,t,140.2,12.2,w,w,140,13,FALSE
+Bank (cw),St Pauls (cw),105,740,c,t,12.2,217.2,w,w,12,16,FALSE
+St Pauls (cw),Chancery Lane (cw),120,1030,c,t,217.2,44.2,w,w,217,6,TRUE
+Chancery Lane (cw),Holborn (cw),75,400,c,t,44.2,113.2,w,w,44,6,TRUE
+Holborn (cw),Tottenham Court Road (cw),105,890,c,t,113.2,231.2,w,w,113,12,FALSE
+Tottenham Court Road (cw),Oxford Circus (cw),75,580,c,t,231.2,173.4,w,w,231,12,FALSE
+Oxford Circus (cw),Bond Street (cw),90,660,c,t,173.4,25.2,w,w,173,18,FALSE
+Bond Street (cw),Marble Arch (cw),90,550,c,t,25.2,146.2,w,w,25,12,FALSE
+Marble Arch (cw),Lancaster Gate (cw),105,1210,c,t,146.2,135.2,w,w,146,6,TRUE
+Lancaster Gate (cw),Queensway (cw),120,900,c,t,135.2,187.2,w,w,135,6,TRUE
+Queensway (cw),Notting Hill Gate (cw),90,690,c,t,187.2,168.2,w,w,187,6,TRUE
+Notting Hill Gate (cw),Holland Park (cw),90,610,c,t,168.2,114.2,w,w,168,12,FALSE
+Holland Park (cw),Shepherds Bush (cw),105,870,c,t,114.2,201.2,w,w,114,6,TRUE
+Shepherds Bush (cw),White City (cw),195,1160,c,t,201.2,263.2,w,w,201,7,FALSE
+White City (cw),East Acton (cw),165,2060,c,t,263.2,65.2,w,w,263,6,TRUE
+East Acton (cw),North Acton (cw),120,1110,c,t,65.2,158.2,w,w,65,6,TRUE
+North Acton (cw),West Acton (cw),165,1770,c,t,158.2,253.2,w,w,158,7,FALSE
+West Acton (cw),Ealing Broadway (cw),165,1530,c,t,253.2,62.2,w,w,253,6,TRUE
+North Acton (cw),Hanger Lane (cw),195,2490,c,t,158.2,99.2,w,w,158,7,FALSE
+Hanger Lane (cw),Perivale (cw),150,2110,c,t,99.2,178.2,w,w,99,8,FALSE
+Perivale (cw),Greenford (cw),135,1690,c,t,178.2,93.2,w,w,178,6,TRUE
+Greenford (cw),Northolt (cw),135,1790,c,t,93.2,164.2,w,w,93,6,TRUE
+Northolt (cw),South Ruislip (cw),150,2290,c,t,164.2,209.2,w,w,164,6,TRUE
+South Ruislip (cw),Ruislip Gardens (cw),105,870,c,t,209.2,197.2,w,w,209,6,TRUE
+Ruislip Gardens (cw),West Ruislip (cw),150,2040,c,t,197.2,260.2,w,w,197,6,TRUE
+Theydon Bois (ce),Epping (ce),165,2540,c,t,228.1,76.1,e,e,228,6,TRUE
+Debden (ce),Theydon Bois (ce),195,3350,c,t,60.1,228.1,e,e,60,6,TRUE
+Loughton (ce),Debden (ce),150,2030,c,t,142.1,60.1,e,e,142,6,TRUE
+Buckhurst Hill (ce),Loughton (ce),150,1830,c,t,33.1,142.1,e,e,33,6,TRUE
+Woodford (ce1),Buckhurst Hill (ce),150,2320,c,t,271.1,33.1,e,e,271,9,FALSE
+Hainault (ce),Grange Hill (ce),135,1130,c,t,95.1,90.1,e,e,95,6,TRUE
+Grange Hill (ce),Chigwell (ce),135,1320,c,t,90.1,47.1,e,e,90,6,TRUE
+Chigwell (ce),Roding Valley (ce),180,2280,c,t,47.1,194.1,e,e,47,6,TRUE
+Roding Valley (ce),Woodford (ce2),150,1340,c,t,194.1,271.2,e,e,194,6,TRUE
+South Woodford (ce),Woodford (ce1),135,1800,c,t,211.1,271.1,e,e,211,6,TRUE
+Snaresbrook (ce),South Woodford (ce),120,1290,c,t,204.1,211.1,e,e,204,7,FALSE
+Leytonstone (ce),Snaresbrook (ce),135,1580,c,t,139.1,204.1,e,e,139,7,FALSE
+Fairlop (ce),Hainault (ce),120,760,c,t,79.1,95.1,e,e,79,6,TRUE
+Barkingside (ce),Fairlop (ce),105,1220,c,t,15.1,79.1,e,e,15,6,TRUE
+Newbury Park (ce),Barkingside (ce),105,1110,c,t,156.1,15.1,e,e,156,6,TRUE
+Gants Hill (ce),Newbury Park (ce),180,2370,c,t,85.1,156.1,e,e,85,6,TRUE
+Redbridge (ce),Gants Hill (ce),120,1270,c,t,190.1,85.1,e,e,190,6,TRUE
+Wanstead (ce),Redbridge (ce),120,1220,c,t,246.1,190.1,e,e,246,6,TRUE
+Leytonstone (ce),Wanstead (ce),135,1720,c,t,139.1,246.1,e,e,139,7,FALSE
+Leyton (ce),Leytonstone (ce),150,1630,c,t,138.1,139.1,e,e,138,6,TRUE
+Stratford (ce),Leyton (ce),165,2090,c,t,223.1,138.1,e,e,223,9,FALSE
+Mile End (ce),Stratford (ce),210,2830,c,t,148.1,223.1,e,e,148,12,FALSE
+Bethnal Green (ce),Mile End (ce),135,1640,c,t,22.1,148.1,e,e,22,6,TRUE
+Liverpool Street (ce),Bethnal Green (ce),180,2270,c,t,140.1,22.1,e,e,140,13,FALSE
+Bank (ce),Liverpool Street (ce),135,740,c,t,12.1,140.1,e,e,12,16,FALSE
+St Pauls (ce),Bank (ce),120,740,c,t,217.1,12.1,e,e,217,6,TRUE
+Chancery Lane (ce),St Pauls (ce),105,1030,c,t,44.1,217.1,e,e,44,6,TRUE
+Holborn (ce),Chancery Lane (ce),75,400,c,t,113.1,44.1,e,e,113,12,FALSE
+Tottenham Court Road (ce),Holborn (ce),120,890,c,t,231.1,113.1,e,e,231,12,FALSE
+Oxford Circus (ce),Tottenham Court Road (ce),75,580,c,t,173.3,231.1,e,e,173,18,FALSE
+Bond Street (ce),Oxford Circus (ce),90,660,c,t,25.1,173.3,e,e,25,12,FALSE
+Marble Arch (ce),Bond Street (ce),75,550,c,t,146.1,25.1,e,e,146,6,TRUE
+Lancaster Gate (ce),Marble Arch (ce),150,1210,c,t,135.1,146.1,e,e,135,6,TRUE
+Queensway (ce),Lancaster Gate (ce),90,900,c,t,187.1,135.1,e,e,187,6,TRUE
+Notting Hill Gate (ce),Queensway (ce),90,690,c,t,168.1,187.1,e,e,168,12,FALSE
+Holland Park (ce),Notting Hill Gate (ce),90,610,c,t,114.1,168.1,e,e,114,6,TRUE
+Shepherds Bush (ce),Holland Park (ce),105,870,c,t,201.1,114.1,e,e,201,7,FALSE
+White City (ce),Shepherds Bush (ce),165,1160,c,t,263.1,201.1,e,e,263,6,TRUE
+East Acton (ce),White City (ce),180,2060,c,t,65.1,263.1,e,e,65,6,TRUE
+North Acton (ce),East Acton (ce),105,1110,c,t,158.1,65.1,e,e,158,7,FALSE
+West Acton (ce),North Acton (ce),180,1770,c,t,253.1,158.1,e,e,253,6,TRUE
+Ealing Broadway (ce),West Acton (ce),135,1530,c,t,62.1,253.1,e,e,62,6,FALSE
+Hanger Lane (ce),North Acton (ce),210,2490,c,t,99.1,158.1,e,e,99,8,FALSE
+Perivale (ce),Hanger Lane (ce),150,2110,c,t,178.1,99.1,e,e,178,6,TRUE
+Greenford (ce),Perivale (ce),120,1690,c,t,93.1,178.1,e,e,93,6,TRUE
+Northolt (ce),Greenford (ce),135,1790,c,t,164.1,93.1,e,e,164,6,TRUE
+South Ruislip (ce),Northolt (ce),165,2290,c,t,209.1,164.1,e,e,209,6,TRUE
+Ruislip Gardens (ce),South Ruislip (ce),90,870,c,t,197.1,209.1,e,e,197,6,TRUE
+West Ruislip (ce),Ruislip Gardens (ce),150,2040,c,t,260.1,197.1,e,e,260,4,FALSE
+Stanmore (je),Canons Park (je),135,1270,j,t,219.1,41.1,e,e,219,3,FALSE
+Canons Park (je),Queensbury (je),120,1710,j,t,41.1,186.1,e,e,41,7,FALSE
+Queensbury (je),Kingsbury (je),120,1330,j,t,186.1,131.1,e,e,186,6,TRUE
+Kingsbury (je),Wembley Park (je),225,2850,j,t,131.1,252.1,e,e,131,6,TRUE
+Wembley Park (je),Neasden (je),150,2290,j,t,252.1,155.1,e,e,252,12,FALSE
+Neasden (je),Dollis Hill (je),90,850,j,t,155.1,61.1,e,e,155,6,TRUE
+Dollis Hill (je),Willesden Green (je),135,1210,j,t,61.1,265.1,e,e,61,6,TRUE
+Willesden Green (je),Kilburn (je),105,1190,j,t,265.1,128.1,e,e,265,6,TRUE
+Kilburn (je),West Hampstead (je),120,1090,j,t,128.1,257.1,e,e,128,6,TRUE
+West Hampstead (je),Finchley Road (je),90,610,j,t,257.1,82.1,e,e,257,6,TRUE
+Finchley Road (je),Swiss Cottage (je),75,610,j,t,82.1,226.1,e,e,82,12,FALSE
+Swiss Cottage (je),St Johns Wood (je),90,920,j,t,226.1,216.1,e,e,226,6,TRUE
+St Johns Wood (je),Baker Street (je),165,2060,j,t,216.1,10.3,e,e,216,6,TRUE
+Baker Street (je),Bond Street (je),150,1660,j,t,10.3,25.3,e,e,10,24,FALSE
+Bond Street (je),Green Park (je),105,1370,j,t,25.3,92.1,e,e,25,12,FALSE
+Green Park (je),Westminster (je),120,1330,j,t,92.1,262.1,e,e,92,18,FALSE
+Westminster (je),Waterloo (je),105,960,j,t,262.1,249.3,e,e,262,12,FALSE
+Waterloo (je),Southwark (je),60,440,j,t,249.3,214.1,e,e,249,21,FALSE
+Southwark (je),London Bridge (je),120,1250,j,t,214.1,141.1,e,e,214,6,TRUE
+London Bridge (je),Bermondsey (je),135,1930,j,t,141.1,21.1,e,e,141,12,FALSE
+Bermondsey (je),Canada Water (je),105,1060,j,t,21.1,37.1,e,e,21,6,TRUE
+Canada Water (je),Canary Wharf (je),150,2410,j,t,37.1,38.1,e,e,37,6,TRUE
+Canary Wharf (je),North Greenwich (je),135,1710,j,t,38.1,160.1,e,e,38,6,TRUE
+North Greenwich (je),Canning Town (je),150,1710,j,t,160.1,39.1,e,e,160,6,TRUE
+Canning Town (je),West Ham (je),135,1580,j,t,39.1,256.3,e,e,39,6,TRUE
+West Ham (je),Stratford (je),195,1540,j,t,256.3,223.3,e,e,256,12,FALSE
+Canons Park (jw),Stanmore (jw),120,1270,j,t,41.2,219.2,w,w,41,7,FALSE
+Queensbury (jw),Canons Park (jw),135,1710,j,t,186.2,41.2,w,w,186,6,TRUE
+Kingsbury (jw),Queensbury (jw),120,1330,j,t,131.2,186.2,w,w,131,6,TRUE
+Wembley Park (jw),Kingsbury (jw),210,2850,j,t,252.2,131.2,w,w,252,12,FALSE
+Neasden (jw),Wembley Park (jw),180,2290,j,t,155.2,252.2,w,w,155,6,TRUE
+Dollis Hill (jw),Neasden (jw),90,850,j,t,61.2,155.2,w,w,61,6,TRUE
+Willesden Green (jw),Dollis Hill (jw),105,1210,j,t,265.2,61.2,w,w,265,6,TRUE
+Kilburn (jw),Willesden Green (jw),135,1190,j,t,128.2,265.2,w,w,128,6,TRUE
+West Hampstead (jw),Kilburn (jw),105,1090,j,t,257.2,128.2,w,w,257,6,TRUE
+Finchley Road (jw),West Hampstead (jw),90,610,j,t,82.2,257.2,w,w,82,12,FALSE
+Swiss Cottage (jw),Finchley Road (jw),75,610,j,t,226.2,82.2,w,w,226,6,TRUE
+St Johns Wood (jw),Swiss Cottage (jw),105,920,j,t,216.2,226.2,w,w,216,6,TRUE
+Baker Street (jw),St Johns Wood (jw),165,2060,j,t,10.4,216.2,w,w,10,24,FALSE
+Bond Street (jw),Baker Street (jw),135,1660,j,t,25.4,10.4,w,w,25,12,FALSE
+Green Park (jw),Bond Street (jw),120,1370,j,t,92.2,25.4,w,w,92,18,FALSE
+Westminster (jw),Green Park (jw),120,1330,j,t,262.2,92.2,w,w,262,12,FALSE
+Waterloo (jw),Westminster (jw),105,960,j,t,249.4,262.2,w,w,249,21,FALSE
+Southwark (jw),Waterloo (jw),75,440,j,t,214.2,249.4,w,w,214,6,TRUE
+London Bridge (jw),Southwark (jw),105,1250,j,t,141.2,214.2,w,w,141,12,FALSE
+Bermondsey (jw),London Bridge (jw),135,1930,j,t,21.2,141.2,w,w,21,6,TRUE
+Canada Water (jw),Bermondsey (jw),105,1060,j,t,37.2,21.2,w,w,37,6,TRUE
+Canary Wharf (jw),Canada Water (jw),150,2410,j,t,38.2,37.2,w,w,38,6,TRUE
+North Greenwich (jw),Canary Wharf (jw),120,1710,j,t,160.2,38.2,w,w,160,6,TRUE
+Canning Town (jw),North Greenwich (jw),135,1710,j,t,39.2,160.2,w,w,39,6,TRUE
+West Ham (jw),Canning Town (jw),135,1580,j,t,256.4,39.2,w,w,256,12,FALSE
+Stratford (jw),West Ham (jw),165,1540,j,t,223.4,256.4,w,w,223,9,FALSE
+Cockfosters (pw),Oakwood (pw),165,1270,p,t,53.2,169.2,w,w,53,4,FALSE
+Oakwood (pw),Southgate (pw),150,1870,p,t,169.2,213.2,w,w,169,6,TRUE
+Southgate (pw),Arnos Grove (pw),240,1950,p,t,213.2,8.2,w,w,213,6,TRUE
+Arnos Grove (pw),Bounds Green (pw),135,1260,p,t,8.2,28.2,w,w,8,6,TRUE
+Bounds Green (pw),Wood Green (pw),150,1530,p,t,28.2,269.2,w,w,28,6,TRUE
+Wood Green (pw),Turnpike Lane (pw),105,980,p,t,269.2,237.2,w,w,269,6,TRUE
+Turnpike Lane (pw),Manor House (pw),195,2320,p,t,237.2,144.2,w,w,237,6,TRUE
+Manor House (pw),Finsbury Park (pw),135,1050,p,t,144.2,83.2,w,w,144,6,TRUE
+Finsbury Park (pw),Arsenal (pw),105,690,p,t,83.2,9.2,w,w,83,12,FALSE
+Arsenal (pw),Holloway Road (pw),90,740,p,t,9.2,115.2,w,w,9,6,TRUE
+Holloway Road (pw),Caledonian Road (pw),60,600,p,t,115.2,35.2,w,w,115,6,TRUE
+Caledonian Road (pw),Kings Cross St Pancras (pw),195,1960,p,t,35.2,130.4,w,w,35,6,TRUE
+Kings Cross St Pancras (pw),Russell Square (pw),120,920,p,t,130.4,199.2,w,w,130,24,FALSE
+Russell Square (pw),Holborn (pw),105,720,p,t,199.2,113.4,w,w,199,6,TRUE
+Holborn (pw),Covent Garden (pw),105,600,p,t,113.4,56.2,w,w,113,12,FALSE
+Covent Garden (pw),Leicester Square (pw),75,260,p,t,56.2,137.3,w,w,56,6,TRUE
+Leicester Square (pw),Piccadilly Circus (pw),90,500,p,t,137.3,179.4,w,w,137,12,FALSE
+Piccadilly Circus (pw),Green Park (pw),90,560,p,t,179.4,92.4,w,w,179,12,FALSE
+Green Park (pw),Hyde Park Corner (pw),120,1060,p,t,92.4,120.2,w,w,92,18,FALSE
+Hyde Park Corner (pw),Knightsbridge (pw),90,510,p,t,120.2,132.2,w,w,120,6,TRUE
+Knightsbridge (pw),South Kensington (pw),165,1220,p,t,132.2,207.2,w,w,132,6,TRUE
+South Kensington (pw),Gloucester Road (pw),105,710,p,t,207.2,86.2,w,w,207,12,FALSE
+Gloucester Road (pw),Earls Court (pw),105,790,p,t,86.2,64.4,w,w,86,13,FALSE
+Earls Court (pw),Barons Court (pw),180,1630,p,t,64.4,16.4,w,w,64,15,FALSE
+Barons Court (pw),Hammersmith (DP) (pw),120,680,p,t,16.4,96.4,w,w,16,12,FALSE
+Hammersmith (DP) (pw),Acton Town (pw),375,4410,p,t,96.4,1.4,w,w,96,12,FALSE
+Acton Town (pw),South Ealing (pw),195,2200,p,t,1.4,205.2,w,w,1,13,FALSE
+South Ealing (pw),Northfields (pw),90,390,p,t,205.2,163.2,w,w,205,6,TRUE
+Northfields (pw),Boston Manor (pw),105,1000,p,t,163.2,27.2,w,w,163,6,TRUE
+Boston Manor (pw),Osterley (pw),195,2430,p,t,27.2,171.2,w,w,27,6,TRUE
+Osterley (pw),Hounslow East (pw),120,970,p,t,171.2,118.2,w,w,171,6,TRUE
+Hounslow East (pw),Hounslow Central (pw),90,740,p,t,118.2,117.2,w,w,118,6,TRUE
+Hounslow Central (pw),Hounslow West (pw),150,1460,p,t,117.2,119.2,w,w,117,6,TRUE
+Hounslow West (pw),Hatton Cross (pw),270,2910,p,t,119.2,103.2,w,w,119,6,TRUE
+Hatton Cross (pw),Heathrow Terminal 4 (pw),150,1830,p,t,103.2,104.2,w,w,103,7,FALSE
+Hatton Cross (pw),Heathrow Terminals 2 & 3 (pw),255,2160,p,t,103.2,106.2,w,w,103,7,FALSE
+Heathrow Terminals 2 & 3 (pw),Heathrow Terminal 5 (pw),210,2480,p,t,106.2,105.2,w,w,106,6,TRUE
+Acton Town (pw),Ealing Common (pw),150,1030,p,t,1.4,63.4,w,w,1,13,FALSE
+Ealing Common (pw),North Ealing (pw),120,950,p,t,63.4,159.2,w,w,63,12,FALSE
+North Ealing (pw),Park Royal (pw),120,1060,p,t,159.2,176.2,w,w,159,6,TRUE
+Park Royal (pw),Alperton (pw),150,1980,p,t,176.2,4.2,w,w,176,8,FALSE
+Alperton (pw),Sudbury Town (pw),150,1580,p,t,4.2,225.2,w,w,4,6,TRUE
+Sudbury Town (pw),Sudbury Hill (pw),150,1660,p,t,225.2,224.2,w,w,225,6,TRUE
+Sudbury Hill (pw),South Harrow (pw),150,1370,p,t,224.2,206.2,w,w,224,6,TRUE
+South Harrow (pw),Rayners Lane (mpn),195,1900,p,t,206.2,189.1,w,n,206,6,TRUE
+Oakwood (pe),Cockfosters (pe),165,1270,p,t,169.1,53.1,e,e,169,6,TRUE
+Southgate (pe),Oakwood (pe),180,1870,p,t,213.1,169.1,e,e,213,6,TRUE
+Arnos Grove (pe),Southgate (pe),165,1950,p,t,8.1,213.1,e,e,8,6,TRUE
+Bounds Green (pe),Arnos Grove (pe),210,1260,p,t,28.1,8.1,e,e,28,6,TRUE
+Wood Green (pe),Bounds Green (pe),150,1530,p,t,269.1,28.1,e,e,269,6,TRUE
+Turnpike Lane (pe),Wood Green (pe),120,980,p,t,237.1,269.1,e,e,237,6,TRUE
+Manor House (pe),Turnpike Lane (pe),195,2320,p,t,144.1,237.1,e,e,144,6,TRUE
+Finsbury Park (pe),Manor House (pe),120,1050,p,t,83.1,144.1,e,e,83,12,FALSE
+Arsenal (pe),Finsbury Park (pe),105,690,p,t,9.1,83.1,e,e,9,6,TRUE
+Holloway Road (pe),Arsenal (pe),90,740,p,t,115.1,9.1,e,e,115,6,TRUE
+Caledonian Road (pe),Holloway Road (pe),90,600,p,t,35.1,115.1,e,e,35,6,TRUE
+Kings Cross St Pancras (pe),Caledonian Road (pe),180,1960,p,t,130.3,35.1,e,e,130,24,FALSE
+Russell Square (pe),Kings Cross St Pancras (pe),135,920,p,t,199.1,130.3,e,e,199,6,TRUE
+Holborn (pe),Russell Square (pe),120,720,p,t,113.3,199.1,e,e,113,12,FALSE
+Covent Garden (pe),Holborn (pe),120,600,p,t,56.1,113.3,e,e,56,6,TRUE
+Leicester Square (pe),Covent Garden (pe),60,260,p,t,137.3,56.1,e,e,137,12,FALSE
+Piccadilly Circus (pe),Leicester Square (pe),105,500,p,t,179.3,137.3,e,e,179,12,FALSE
+Green Park (pe),Piccadilly Circus (pe),90,560,p,t,92.3,179.3,e,e,92,18,FALSE
+Hyde Park Corner (pe),Green Park (pe),135,1060,p,t,120.1,92.3,e,e,120,6,TRUE
+Knightsbridge (pe),Hyde Park Corner (pe),105,510,p,t,132.1,120.1,e,e,132,6,TRUE
+South Kensington (pe),Knightsbridge (pe),165,1220,p,t,207.1,132.1,e,e,207,12,FALSE
+Gloucester Road (pe),South Kensington (pe),90,710,p,t,86.1,207.1,e,e,86,13,FALSE
+Earls Court (pe),Gloucester Road (pe),120,790,p,t,64.3,86.1,e,e,64,15,FALSE
+Barons Court (pe),Earls Court (pe),195,1630,p,t,16.3,64.3,e,e,16,12,FALSE
+Hammersmith (DP) (pe),Barons Court (pe),90,680,p,t,96.3,16.3,e,e,96,12,FALSE
+Acton Town (pe),Hammersmith (DP) (pe),360,4410,p,t,1.3,96.3,e,e,1,13,FALSE
+South Ealing (pe),Acton Town (pe),225,2200,p,t,205.1,1.3,e,e,205,6,TRUE
+Northfields (pe),South Ealing (pe),75,390,p,t,163.1,205.1,e,e,163,6,TRUE
+Boston Manor (pe),Northfields (pe),150,1000,p,t,27.1,163.1,e,e,27,6,TRUE
+Osterley (pe),Boston Manor (pe),195,2430,p,t,171.1,27.1,e,e,171,6,TRUE
+Hounslow East (pe),Osterley (pe),120,970,p,t,118.1,171.1,e,e,118,6,TRUE
+Hounslow Central (pe),Hounslow East (pe),90,740,p,t,117.1,118.1,e,e,117,6,TRUE
+Hounslow West (pe),Hounslow Central (pe),150,1460,p,t,119.1,117.1,e,e,119,6,TRUE
+Hatton Cross (pe),Hounslow West (pe),225,2910,p,t,103.1,119.1,e,e,103,7,FALSE
+Heathrow Terminal 4 (pe),Heathrow Terminals 2 & 3 (pe),315,4310,p,t,104.1,106.1,e,e,104,3,FALSE
+Heathrow Terminals 2 & 3 (pe),Hatton Cross (pe),180,2160,p,t,106.1,103.1,e,e,106,6,TRUE
+Heathrow Terminal 5 (pe),Heathrow Terminals 2 & 3 (pe),210,2480,p,t,105.1,106.1,e,e,105,3,FALSE
+Ealing Common (pe),Acton Town (pe),150,1030,p,t,63.3,1.3,e,e,63,12,FALSE
+North Ealing (pe),Ealing Common (pe),120,950,p,t,159.1,63.3,e,e,159,6,TRUE
+Park Royal (pe),North Ealing (pe),150,1060,p,t,176.1,159.1,e,e,176,8,FALSE
+Alperton (pe),Park Royal (pe),165,1980,p,t,4.1,176.1,e,e,4,6,TRUE
+Sudbury Town (pe),Alperton (pe),150,1580,p,t,225.1,4.1,e,e,225,6,TRUE
+Sudbury Hill (pe),Sudbury Town (pe),150,1660,p,t,224.1,225.1,e,e,224,6,TRUE
+South Harrow (pe),Sudbury Hill (pe),135,1370,p,t,206.1,224.1,e,e,206,6,TRUE
+Rayners Lane (mps),South Harrow (pe),180,1900,p,t,189.2,206.1,s,e,189,8,FALSE
+Walthamstow Central (vs),Blackhorse Road (vs),125,1450,v,t,245.2,24.2,s,s,245,4,FALSE
+Blackhorse Road (vs),Tottenham Hale (vs),115,1370,v,t,24.2,232.2,s,s,24,6,TRUE
+Tottenham Hale (vs),Seven Sisters (vs),110,1050,v,t,232.2,200.2,s,s,232,6,TRUE
+Seven Sisters (vs),Finsbury Park (vs),200,3150,v,t,200.2,83.4,s,s,200,6,TRUE
+Finsbury Park (vs),Highbury & Islington (vs),140,1930,v,t,83.4,110.1,s,s,83,12,FALSE
+Highbury & Islington (vs),Kings Cross St Pancras (vs),175,2450,v,t,110.1,130.8,s,s,110,6,TRUE
+Kings Cross St Pancras (vs),Euston (vs),90,740,v,t,130.8,77.6,s,s,130,24,FALSE
+Euston (vs),Warren Street (vs),90,760,v,t,77.6,247.4,s,s,77,20,FALSE
+Warren Street (vs),Oxford Circus (vs),95,900,v,t,247.4,173.6,s,s,247,12,FALSE
+Oxford Circus (vs),Green Park (vs),115,1140,v,t,173.6,92.6,s,s,173,18,FALSE
+Green Park (vs),Victoria (vs),115,1090,v,t,92.6,244.4,s,s,92,18,FALSE
+Victoria (vs),Pimlico (vs),110,1190,v,t,244.4,180.2,s,s,244,12,FALSE
+Pimlico (vs),Vauxhall (vs),90,800,v,t,180.2,243.2,s,s,180,6,TRUE
+Vauxhall (vs),Stockwell (vs),135,1770,v,t,243.2,221.4,s,s,243,6,TRUE
+Stockwell (vs),Brixton (vs),105,1460,v,t,221.4,31.2,s,s,221,12,FALSE
+Blackhorse Road (vn),Walthamstow Central (vn),105,1450,v,t,24.1,245.1,n,n,24,6,TRUE
+Tottenham Hale (vn),Blackhorse Road (vn),110,1370,v,t,232.1,24.1,n,n,232,6,TRUE
+Seven Sisters (vn),Tottenham Hale (vn),100,1050,v,t,200.1,232.1,n,n,200,6,TRUE
+Finsbury Park (vn),Seven Sisters (vn),205,3150,v,t,83.3,200.1,n,n,83,12,FALSE
+Highbury & Islington (vn),Finsbury Park (vn),145,1930,v,t,110.1,83.3,n,n,110,6,TRUE
+Kings Cross St Pancras (vn),Highbury & Islington (vn),165,2450,v,t,130.7,110.1,n,n,130,24,FALSE
+Euston (vn),Kings Cross St Pancras (vn),90,740,v,t,77.5,130.7,n,n,77,20,FALSE
+Warren Street (vn),Euston (vn),90,760,v,t,247.3,77.5,n,n,247,12,FALSE
+Oxford Circus (vn),Warren Street (vn),100,900,v,t,173.5,247.3,n,n,173,18,FALSE
+Green Park (vn),Oxford Circus (vn),120,1140,v,t,92.5,173.5,n,n,92,18,FALSE
+Victoria (vn),Green Park (vn),110,1090,v,t,244.3,92.5,n,n,244,12,FALSE
+Pimlico (vn),Victoria (vn),120,1190,v,t,180.1,244.3,n,n,180,6,TRUE
+Vauxhall (vn),Pimlico (vn),85,800,v,t,243.1,180.1,n,n,243,6,TRUE
+Stockwell (vn),Vauxhall (vn),130,1770,v,t,221.3,243.1,n,n,221,12,FALSE
+Brixton (vn),Stockwell (vn),120,1460,v,t,31.1,221.3,n,n,31,3,FALSE
+Bank (ws),Waterloo (ws),240,2220,w,t,12.6,249.8,s,s,12,16,FALSE
+Waterloo (wn),Bank (wn),240,2220,w,t,249.7,12.5,n,n,249,21,FALSE
+Great Portland Street (rhmw),Baker Street (mn),150,970,m,t,91.2,10.5,w,n,91,7,FALSE
+Baker Street (mn),Finchley Road (mn),345,3380,m,t,10.5,82.3,n,n,10,24,FALSE
+Finchley Road (mn),Wembley Park (mn),420,7240,m,t,82.3,252.3,n,n,82,12,FALSE
+Wembley Park (mn),Preston Road (mn),120,1460,m,t,252.3,183.1,n,n,252,12,FALSE
+Preston Road (mn),Northwick Park (mn),150,1640,m,t,183.1,165.1,n,n,183,6,TRUE
+Northwick Park (mn),Harrow-on-the-Hill (mn),150,1290,m,t,165.1,102.1,n,n,165,8,FALSE
+Harrow-on-the-Hill (mn),West Harrow (mn),120,1260,m,t,102.1,258.1,n,n,102,7,FALSE
+West Harrow (mn),Rayners Lane (mpn),150,1380,m,t,258.1,189.1,n,n,258,6,TRUE
+Rayners Lane (mpn),Eastcote (mpn),150,1720,"m,p",t,189.1,69.1,n,n,189,8,FALSE
+Eastcote (mpn),Ruislip Manor (mpn),120,1140,"m,p",t,69.1,198.1,n,n,69,6,TRUE
+Ruislip Manor (mpn),Ruislip (mpn),90,720,"m,p",t,198.1,196.1,n,n,198,6,TRUE
+Ruislip (mpn),Ickenham (mpn),150,1850,"m,p",t,196.1,121.1,n,n,196,6,TRUE
+Ickenham (mpn),Hillingdon (mpn),90,1080,"m,p",t,121.1,112.1,n,n,121,7,FALSE
+Hillingdon (mpn),Uxbridge (mpn),240,2030,"m,p",t,112.1,242.1,n,n,112,6,TRUE
+Harrow-on-the-Hill (mn),North Harrow (mn),180,2000,m,t,102.1,161.1,n,n,102,7,FALSE
+North Harrow (mn),Pinner (mn),120,1480,m,t,161.1,181.1,n,n,161,7,FALSE
+Pinner (mn),Northwood Hills (mn),150,2080,m,t,181.1,167.1,n,n,181,6,TRUE
+Northwood Hills (mn),Northwood (mn),150,1610,m,t,167.1,166.1,n,n,167,6,TRUE
+Northwood (mn),Moor Park (mn),150,2220,m,t,166.1,151.1,n,n,166,6,TRUE
+Moor Park (mn),Croxley (mn),240,2940,m,t,151.1,57.1,n,n,151,7,FALSE
+Croxley (mn),Watford (mn),210,1900,m,t,57.1,250.1,n,n,57,6,TRUE
+Moor Park (mn),Rickmansworth (mn),240,3490,m,t,151.1,193.1,n,n,151,7,FALSE
+Rickmansworth (mn),Chorleywood (mn),210,3380,m,t,193.1,49.1,n,n,193,6,TRUE
+Chorleywood (mn),Chalfont & Latimer (mn),240,3430,m,t,49.1,42.1,n,n,49,6,TRUE
+Chalfont & Latimer (mn),Chesham (mn),510,6200,m,t,42.1,46.1,n,n,42,7,FALSE
+Chalfont & Latimer (mn),Amersham (mn),240,3270,m,t,42.1,5.1,n,n,42,7,FALSE
+Baker Street (ms),Great Portland Street (rhme),120,970,m,t,10.6,91.1,s,e,10,24,FALSE
+Finchley Road (ms),Baker Street (ms),360,3380,m,t,82.4,10.6,s,s,82,12,FALSE
+Wembley Park (ms),Finchley Road (ms),420,7240,m,t,252.4,82.4,s,s,252,12,FALSE
+Preston Road (ms),Wembley Park (ms),150,1460,m,t,183.2,252.4,s,s,183,6,TRUE
+Northwick Park (ms),Preston Road (ms),150,1640,m,t,165.2,183.2,s,s,165,8,FALSE
+Harrow-on-the-Hill (ms),Northwick Park (ms),120,1290,m,t,102.2,165.2,s,s,102,7,FALSE
+West Harrow (ms),Harrow-on-the-Hill (ms),150,1260,m,t,258.2,102.2,s,s,258,6,TRUE
+Rayners Lane (mps),West Harrow (ms),120,1380,m,t,189.2,258.2,s,s,189,8,FALSE
+Eastcote (mps),Rayners Lane (mps),180,1720,"m,p",t,69.2,189.2,s,s,69,6,TRUE
+Ruislip Manor (mps),Eastcote (mps),120,1140,"m,p",t,198.2,69.2,s,s,198,6,TRUE
+Ruislip (mps),Ruislip Manor (mps),90,720,"m,p",t,196.2,198.2,s,s,196,6,TRUE
+Ickenham (mps),Ruislip (mps),150,1850,"m,p",t,121.2,196.2,s,s,121,7,FALSE
+Hillingdon (mps),Ickenham (mps),120,1080,"m,p",t,112.2,121.2,s,s,112,6,TRUE
+Uxbridge (mps),Hillingdon (mps),150,2030,"m,p",t,242.2,112.2,s,s,242,3,FALSE
+North Harrow (ms),Harrow-on-the-Hill (ms),180,2000,m,t,161.2,102.2,s,s,161,7,FALSE
+Pinner (ms),North Harrow (ms),120,1480,m,t,181.2,161.2,s,s,181,6,TRUE
+Northwood Hills (ms),Pinner (ms),150,2080,m,t,167.2,181.2,s,s,167,6,TRUE
+Northwood (ms),Northwood Hills (ms),150,1610,m,t,166.2,167.2,s,s,166,6,TRUE
+Moor Park (ms),Northwood (ms),150,2220,m,t,151.2,166.2,s,s,151,7,FALSE
+Croxley (ms),Moor Park (ms),270,2940,m,t,57.2,151.2,s,s,57,6,TRUE
+Watford (ms),Croxley (ms),150,1900,m,t,250.2,57.2,s,s,250,4,FALSE
+Rickmansworth (ms),Moor Park (ms),210,3490,m,t,193.2,151.2,s,s,193,6,TRUE
+Chorleywood (ms),Rickmansworth (ms),240,3380,m,t,49.2,193.2,s,s,49,6,TRUE
+Chalfont & Latimer (ms),Chorleywood (ms),210,3430,m,t,42.2,49.2,s,s,42,7,FALSE
+Chesham (ms),Chalfont & Latimer (ms),510,6200,m,t,46.2,42.2,s,s,46,3,FALSE
+Amersham (ms),Chalfont & Latimer (ms),210,3270,m,t,5.2,42.2,s,s,5,3,FALSE
+Burnt Oak (nn),Edgware (nn),135,1480,n,t,34.1,70.1,n,n,34,6,TRUE
+Colindale (nn),Burnt Oak (nn),135,1320,n,t,54.1,34.1,n,n,54,6,TRUE
+Hendon Central (nn),Colindale (nn),165,2110,n,t,107.1,54.1,n,n,107,6,TRUE
+Brent Cross (nn),Hendon Central (nn),120,1110,n,t,30.1,107.1,n,n,30,6,TRUE
+Golders Green (nn),Brent Cross (nn),135,1560,n,t,87.1,30.1,n,n,87,6,TRUE
+Hampstead (nn),Golders Green (nn),255,2350,n,t,98.1,87.1,n,n,98,6,TRUE
+Belsize Park (nn),Hampstead (nn),135,1210,n,t,20.1,98.1,n,n,20,6,TRUE
+Chalk Farm (nn),Belsize Park (nn),105,1110,n,t,43.1,20.1,n,n,43,6,TRUE
+Camden Town (nn),Chalk Farm (nn),90,850,n,t,36.1,43.1,n,n,36,8,FALSE
+Finchley Central (nn),Mill Hill East (nn),120,1530,n,t,81.1,149.1,n,n,81,7,FALSE
+Totteridge & Whetstone (nn),High Barnet (nn),210,2480,n,t,233.1,108.1,n,n,233,6,TRUE
+Woodside Park (nn),Totteridge & Whetstone (nn),135,1510,n,t,272.1,233.1,n,n,272,6,TRUE
+West Finchley (nn),Woodside Park (nn),105,980,n,t,255.1,272.1,n,n,255,6,TRUE
+Finchley Central (nn),West Finchley (nn),135,1140,n,t,81.1,255.1,n,n,81,7,FALSE
+East Finchley (nn),Finchley Central (nn),210,2430,n,t,66.1,81.1,n,n,66,6,TRUE
+Highgate (nn),East Finchley (nn),150,1640,n,t,111.1,66.1,n,n,111,7,FALSE
+Archway (nn),Highgate (nn),135,1710,n,t,7.1,111.1,n,n,7,6,TRUE
+Tufnell Park (nn),Archway (nn),105,890,n,t,235.1,7.1,n,n,235,6,TRUE
+Kentish Town (nn),Tufnell Park (nn),90,800,n,t,125.1,235.1,n,n,125,6,TRUE
+Camden Town (nn),Kentish Town (nn),105,1160,n,t,36.1,125.1,n,n,36,8,FALSE
+Mornington Crescent (nn),Camden Town (nn),105,640,n,t,154.1,36.1,n,n,154,6,TRUE
+Euston (nn2),Mornington Crescent (nn),120,820,n,t,77.2,154.1,n,n,77,20,FALSE
+Warren Street (nn),Euston (nn2),90,580,n,t,247.1,77.2,n,n,247,12,FALSE
+Goodge Street (nn),Warren Street (nn),75,470,n,t,89.1,247.1,n,n,89,6,TRUE
+Tottenham Court Road (nn),Goodge Street (nn),75,630,n,t,231.3,89.1,n,n,231,12,FALSE
+Leicester Square (nn),Tottenham Court Road (nn),75,400,n,t,137.1,231.3,n,n,137,12,FALSE
+Charing Cross (nn),Leicester Square (nn),90,470,n,t,45.3,137.1,n,n,45,12,FALSE
+Embankment (nn),Charing Cross (nn),60,270,n,t,75.3,45.3,n,n,75,18,FALSE
+Waterloo (nn),Embankment (nn),90,710,n,t,249.5,75.3,n,n,249,21,FALSE
+Kennington (nn),Waterloo (nn),150,1900,n,t,122.1,249.5,n,n,122,8,FALSE
+Nine Elms (nn),Kennington (nn),135,2100,n,t,157.1,122.1,n,n,157,6,TRUE
+Battersea Power Station (nn),Nine Elms (nn),135,1040,n,t,17.1,157.1,n,n,17,3,FALSE
+Euston (nn1),Camden Town (nn),180,1720,n,t,77.1,36.1,n,n,77,20,FALSE
+Kings Cross St Pancras (nn),Euston (nn1),120,610,n,t,130.1,77.1,n,n,130,24,FALSE
+Angel (nn),Kings Cross St Pancras (nn),135,1380,n,t,6.1,130.1,n,n,6,6,TRUE
+Old Street (nn),Angel (nn),135,1450,n,t,170.1,6.1,n,n,170,6,TRUE
+Moorgate (nn),Old Street (nn),90,690,n,t,152.1,170.1,n,n,152,12,FALSE
+Bank (nn),Moorgate (nn),120,820,n,t,12.3,152.1,n,n,12,16,FALSE
+London Bridge (nn),Bank (nn),105,690,n,t,141.3,12.3,n,n,141,12,FALSE
+Borough (nn),London Bridge (nn),105,680,n,t,26.1,141.3,n,n,26,6,TRUE
+Elephant & Castle (nn),Borough (nn),120,850,n,t,73.3,26.1,n,n,73,9,FALSE
+Kennington (nn),Elephant & Castle (nn),105,900,n,t,122.1,73.3,n,n,122,8,FALSE
+Oval (nn),Kennington (nn),105,820,n,t,172.1,122.1,n,n,172,6,TRUE
+Stockwell (nn),Oval (nn),120,1370,n,t,221.1,172.1,n,n,221,12,FALSE
+Clapham North (nn),Stockwell (nn),105,820,n,t,51.1,221.1,n,n,51,6,TRUE
+Clapham Common (nn),Clapham North (nn),105,630,n,t,50.1,51.1,n,n,50,6,TRUE
+Clapham South (nn),Clapham Common (nn),105,1260,n,t,52.1,50.1,n,n,52,6,TRUE
+Balham (nn),Clapham South (nn),120,1160,n,t,11.1,52.1,n,n,11,6,TRUE
+Tooting Bec (nn),Balham (nn),105,980,n,t,229.1,11.1,n,n,229,6,TRUE
+Tooting Broadway (nn),Tooting Bec (nn),105,1110,n,t,230.1,229.1,n,n,230,6,TRUE
+Colliers Wood (nn),Tooting Broadway (nn),120,1210,n,t,55.1,230.1,n,n,55,6,TRUE
+South Wimbledon (nn),Colliers Wood (nn),120,1140,n,t,210.1,55.1,n,n,210,6,TRUE
+Morden (nn),South Wimbledon (nn),135,1460,n,t,153.1,210.1,n,n,153,4,FALSE
+Edgware (ns),Burnt Oak (ns),165,1480,n,t,70.2,34.2,s,s,70,3,FALSE
+Burnt Oak (ns),Colindale (ns),135,1320,n,t,34.2,54.2,s,s,34,6,TRUE
+Colindale (ns),Hendon Central (ns),165,2110,n,t,54.2,107.2,s,s,54,6,TRUE
+Hendon Central (ns),Brent Cross (ns),120,1110,n,t,107.2,30.2,s,s,107,6,TRUE
+Brent Cross (ns),Golders Green (ns),150,1560,n,t,30.2,87.2,s,s,30,6,TRUE
+Golders Green (ns),Hampstead (ns),195,2350,n,t,87.2,98.2,s,s,87,6,TRUE
+Hampstead (ns),Belsize Park (ns),120,1210,n,t,98.2,20.2,s,s,98,6,TRUE
+Belsize Park (ns),Chalk Farm (ns),105,1110,n,t,20.2,43.2,s,s,20,6,TRUE
+Chalk Farm (ns),Camden Town (ns),105,850,n,t,43.2,36.2,s,s,43,6,TRUE
+Mill Hill East (ns),Finchley Central (ns),165,1530,n,t,149.2,81.2,s,s,149,3,FALSE
+High Barnet (ns),Totteridge & Whetstone (ns),225,2480,n,t,108.2,233.2,s,s,108,4,FALSE
+Totteridge & Whetstone (ns),Woodside Park (ns),135,1510,n,t,233.2,272.2,s,s,233,6,TRUE
+Woodside Park (ns),West Finchley (ns),105,980,n,t,272.2,255.2,s,s,272,6,TRUE
+West Finchley (ns),Finchley Central (ns),135,1140,n,t,255.2,81.2,s,s,255,6,TRUE
+Finchley Central (ns),East Finchley (ns),195,2430,n,t,81.2,66.2,s,s,81,7,FALSE
+East Finchley (ns),Highgate (ns),135,1640,n,t,66.2,111.2,s,s,66,6,TRUE
+Highgate (ns),Archway (ns),150,1710,n,t,111.2,7.2,s,s,111,7,FALSE
+Archway (ns),Tufnell Park (ns),90,890,n,t,7.2,235.2,s,s,7,6,TRUE
+Tufnell Park (ns),Kentish Town (ns),90,800,n,t,235.2,125.2,s,s,235,6,TRUE
+Kentish Town (ns),Camden Town (ns),135,1160,n,t,125.2,36.2,s,s,125,6,TRUE
+Camden Town (ns),Mornington Crescent (ns),90,640,n,t,36.2,154.2,s,s,36,8,FALSE
+Mornington Crescent (ns),Euston (ns2),105,820,n,t,154.2,77.4,s,s,154,6,TRUE
+Euston (ns2),Warren Street (ns),75,580,n,t,77.4,247.2,s,s,77,20,FALSE
+Warren Street (ns),Goodge Street (ns),75,470,n,t,247.2,89.2,s,s,247,12,FALSE
+Goodge Street (ns),Tottenham Court Road (ns),75,630,n,t,89.2,231.4,s,s,89,6,TRUE
+Tottenham Court Road (ns),Leicester Square (ns),75,400,n,t,231.4,137.2,s,s,231,12,FALSE
+Leicester Square (ns),Charing Cross (ns),75,470,n,t,137.2,45.4,s,s,137,12,FALSE
+Charing Cross (ns),Embankment (ns),60,270,n,t,45.4,75.4,s,s,45,12,FALSE
+Embankment (ns),Waterloo (ns),90,710,n,t,75.4,249.6,s,s,75,18,FALSE
+Waterloo (ns),Kennington (ns),165,1900,n,t,249.6,122.2,s,s,249,21,FALSE
+Kennington (ns),Nine Elms (ns),135,2100,n,t,122.2,157.2,s,s,122,8,FALSE
+Nine Elms (ns),Battersea Power Station (ns),135,1040,n,t,157.2,17.2,s,s,157,6,TRUE
+Camden Town (ns),Euston (ns1),180,1720,n,t,36.2,77.3,s,s,36,8,FALSE
+Euston (ns1),Kings Cross St Pancras (ns),90,610,n,t,77.3,130.2,s,s,77,20,FALSE
+Kings Cross St Pancras (ns),Angel (ns),135,1380,n,t,130.2,6.2,s,s,130,24,FALSE
+Angel (ns),Old Street (ns),150,1450,n,t,6.2,170.2,s,s,6,6,TRUE
+Old Street (ns),Moorgate (ns),90,690,n,t,170.2,152.2,s,s,170,6,TRUE
+Moorgate (ns),Bank (ns),120,820,n,t,152.2,12.4,s,s,152,12,FALSE
+Bank (ns),London Bridge (ns),105,690,n,t,12.4,141.4,s,s,12,16,FALSE
+London Bridge (ns),Borough (ns),90,680,n,t,141.4,26.2,s,s,141,12,FALSE
+Borough (ns),Elephant & Castle (ns),120,850,n,t,26.2,73.4,s,s,26,6,TRUE
+Elephant & Castle (ns),Kennington (ns),105,900,n,t,73.4,122.2,s,s,73,9,FALSE
+Kennington (ns),Oval (ns),90,820,n,t,122.2,172.2,s,s,122,8,FALSE
+Oval (ns),Stockwell (ns),135,1370,n,t,172.2,221.2,s,s,172,6,TRUE
+Stockwell (ns),Clapham North (ns),75,820,n,t,221.2,51.2,s,s,221,12,FALSE
+Clapham North (ns),Clapham Common (ns),90,630,n,t,51.2,50.2,s,s,51,6,TRUE
+Clapham Common (ns),Clapham South (ns),120,1260,n,t,50.2,52.2,s,s,50,6,TRUE
+Clapham South (ns),Balham (ns),120,1160,n,t,52.2,11.2,s,s,52,6,TRUE
+Balham (ns),Tooting Bec (ns),105,980,n,t,11.2,229.2,s,s,11,6,TRUE
+Tooting Bec (ns),Tooting Broadway (ns),120,1110,n,t,229.2,230.2,s,s,229,6,TRUE
+Tooting Broadway (ns),Colliers Wood (ns),120,1210,n,t,230.2,55.2,s,s,230,6,TRUE
+Colliers Wood (ns),South Wimbledon (ns),135,1140,n,t,55.2,210.2,s,s,55,6,TRUE
+South Wimbledon (ns),Morden (ns),135,1460,n,t,210.2,153.2,s,s,210,6,TRUE
+Aldgate East (dhw),Liverpool Street (rhmw),150,920,h,t,3.2,140.4,w,w,3,8,FALSE
+Liverpool Street (rhmw),Moorgate (rhmw),90,510,"r,h,m",t,140.4,152.4,w,w,140,13,FALSE
+Moorgate (rhmw),Barbican (rhmw),90,630,"r,h,m",t,152.4,13.2,w,w,152,12,FALSE
+Barbican (rhmw),Farringdon (rhmw),90,510,"r,h,m",t,13.2,80.2,w,w,13,6,TRUE
+Farringdon (rhmw),Kings Cross St Pancras (rhmw),195,1850,"r,h,m",t,80.2,130.6,w,w,80,6,TRUE
+Kings Cross St Pancras (rhmw),Euston Square (rhmw),105,850,"r,h,m",t,130.6,78.2,w,w,130,24,FALSE
+Euston Square (rhmw),Great Portland Street (rhmw),90,610,"r,h,m",t,78.2,91.2,w,w,78,8,FALSE
+Great Portland Street (rhmw),Baker Street (rhw),120,920,"r,h",t,91.2,10.8,w,w,91,7,FALSE
+Baker Street (rhw),Edgware Road (RDH) (rhw1),135,720,"r,h",t,10.8,72.4,w,w,10,24,FALSE
+Edgware Road (RDH) (rhw1),Paddington (RH) (rhw),135,930,"r,h",t,72.4,175.2,w,w,72,9,FALSE
+Paddington (RH) (rhw),Royal Oak (rhw),90,640,"r,h",t,175.2,195.2,w,w,175,7,FALSE
+Royal Oak (rhw),Westbourne Park (rhw),120,980,"r,h",t,195.2,261.2,w,w,195,6,TRUE
+Westbourne Park (rhw),Ladbroke Grove (rhw),105,790,"r,h",t,261.2,133.2,w,w,261,6,TRUE
+Ladbroke Grove (rhw),Latimer Road (rhw),90,660,"r,h",t,133.2,136.2,w,w,133,6,TRUE
+Latimer Road (rhw),Wood Lane (rhw),90,540,"r,h",t,136.2,270.2,w,w,136,6,TRUE
+Wood Lane (rhw),Shepherds Bush Market (rhw),90,470,"r,h",t,270.2,202.2,w,w,270,6,TRUE
+Shepherds Bush Market (rhw),Goldhawk Road (rhw),90,510,"r,h",t,202.2,88.2,w,w,202,6,TRUE
+Goldhawk Road (rhw),Hammersmith (RH) (rhw),120,820,"r,h",t,88.2,97.2,w,w,88,6,TRUE
+High Street Kensington (rdw),Gloucester Road (rde),135,930,r,t,109.2,86.3,w,e,109,7,FALSE
+Tower Hill (rde),Aldgate (rmw),120,500,r,t,234.1,2.2,e,w,234,7,FALSE
+Aldgate (rmw),Liverpool Street (rhmw),120,610,"r,m",t,2.2,140.4,w,w,2,7,FALSE
+Liverpool Street (rhme),Aldgate East (dhe),135,920,h,t,140.3,3.1,e,e,140,13,FALSE
+Moorgate (rhme),Liverpool Street (rhme),105,510,"r,h,m",t,152.3,140.3,e,e,152,12,FALSE
+Barbican (rhme),Moorgate (rhme),90,630,"r,h,m",t,13.1,152.3,e,e,13,6,TRUE
+Farringdon (rhme),Barbican (rhme),90,510,"r,h,m",t,80.1,13.1,e,e,80,6,TRUE
+Kings Cross St Pancras (rhme),Farringdon (rhme),180,1850,"r,h,m",t,130.5,80.1,e,e,130,24,FALSE
+Euston Square (rhme),Kings Cross St Pancras (rhme),120,850,"r,h,m",t,78.1,130.5,e,e,78,8,FALSE
+Great Portland Street (rhme),Euston Square (rhme),90,610,"r,h,m",t,91.1,78.1,e,e,91,7,FALSE
+Baker Street (rhe),Great Portland Street (rhme),105,920,"r,h",t,10.7,91.1,e,e,10,24,FALSE
+Edgware Road (RDH) (rhe1),Baker Street (rhe),135,720,"r,h",t,72.3,10.7,e,e,72,9,FALSE
+Paddington (RH) (rhe),Edgware Road (RDH) (rhe1),150,930,"r,h",t,175.1,72.3,e,e,175,7,FALSE
+Royal Oak (rhe),Paddington (RH) (rhe),120,640,"r,h",t,195.1,175.1,e,e,195,6,TRUE
+Westbourne Park (rhe),Royal Oak (rhe),120,980,"r,h",t,261.1,195.1,e,e,261,6,TRUE
+Ladbroke Grove (rhe),Westbourne Park (rhe),105,790,"r,h",t,133.1,261.1,e,e,133,6,TRUE
+Latimer Road (rhe),Ladbroke Grove (rhe),90,660,"r,h",t,136.1,133.1,e,e,136,6,TRUE
+Wood Lane (rhe),Latimer Road (rhe),90,540,"r,h",t,270.1,136.1,e,e,270,6,TRUE
+Shepherds Bush Market (rhe),Wood Lane (rhe),75,470,"r,h",t,202.1,270.1,e,e,202,6,TRUE
+Goldhawk Road (rhe),Shepherds Bush Market (rhe),90,510,"r,h",t,88.1,202.1,e,e,88,6,TRUE
+Hammersmith (RH) (rhe),Goldhawk Road (rhe),135,820,"r,h",t,97.1,88.1,e,e,97,3,FALSE
+Gloucester Road (rdw),High Street Kensington (rde),135,930,r,t,86.4,109.1,w,e,86,13,FALSE
+Aldgate (rme),Tower Hill (rdw),120,500,r,t,2.1,234.2,e,w,2,7,FALSE
+Liverpool Street (rhme),Aldgate (rme),135,610,"r,m",t,140.3,2.1,e,e,140,13,FALSE
+Upminster Bridge (de),Upminster (de),150,1240,d,t,239.1,238.1,e,e,239,6,TRUE
+Hornchurch (de),Upminster Bridge (de),120,1260,d,t,116.1,239.1,e,e,116,6,TRUE
+Elm Park (de),Hornchurch (de),120,1500,d,t,74.1,116.1,e,e,74,6,TRUE
+Dagenham East (de),Elm Park (de),180,2370,d,t,58.1,74.1,e,e,58,6,TRUE
+Dagenham Heathway (de),Dagenham East (de),150,1350,d,t,59.1,58.1,e,e,59,6,TRUE
+Becontree (de),Dagenham Heathway (de),120,1370,d,t,19.1,59.1,e,e,19,6,TRUE
+Upney (de),Becontree (de),150,1870,d,t,240.1,19.1,e,e,240,6,TRUE
+Barking (dhe),Upney (de),120,1380,d,t,14.1,240.1,e,e,14,6,FALSE
+East Ham (dhe),Barking (dhe),210,2290,"d,h",t,67.1,14.1,e,e,67,6,TRUE
+Upton Park (dhe),East Ham (dhe),150,1400,"d,h",t,241.1,67.1,e,e,241,6,TRUE
+Plaistow (dhe),Upton Park (dhe),120,1290,"d,h",t,182.1,241.1,e,e,182,6,TRUE
+West Ham (dhe),Plaistow (dhe),90,760,"d,h",t,256.1,182.1,e,e,256,12,FALSE
+Bromley-by-Bow (dhe),West Ham (dhe),150,1370,"d,h",t,32.1,256.1,e,e,32,6,TRUE
+Bow Road (dhe),Bromley-by-Bow (dhe),120,1010,"d,h",t,29.1,32.1,e,e,29,6,TRUE
+Mile End (dhe),Bow Road (dhe),90,550,"d,h",t,148.3,29.1,e,e,148,12,FALSE
+Stepney Green (dhe),Mile End (dhe),120,1050,"d,h",t,220.1,148.3,e,e,220,6,TRUE
+Whitechapel (dhe),Stepney Green (dhe),120,1000,"d,h",t,264.1,220.1,e,e,264,6,TRUE
+Aldgate East (dhe),Whitechapel (dhe),120,820,"d,h",t,3.1,264.1,e,e,3,8,FALSE
+Tower Hill (rde),Aldgate East (dhe),120,800,d,t,234.1,3.1,e,e,234,7,FALSE
+Monument (rde),Tower Hill (rde),120,680,"r,d",t,150.1,234.1,e,e,150,7,FALSE
+Cannon Street (rde),Monument (rde),90,340,"r,d",t,40.1,150.1,e,e,40,6,TRUE
+Mansion House (rde),Cannon Street (rde),75,310,"r,d",t,145.1,40.1,e,e,145,6,TRUE
+Blackfriars (rde),Mansion House (rde),120,610,"r,d",t,23.1,145.1,e,e,23,6,TRUE
+Temple (rde),Blackfriars (rde),90,760,"r,d",t,227.1,23.1,e,e,227,6,TRUE
+Embankment (rde),Temple (rde),90,710,"r,d",t,75.5,227.1,e,e,75,18,FALSE
+Westminster (rde),Embankment (rde),60,690,"r,d",t,262.3,75.5,e,e,262,12,FALSE
+St Jamess Park (rde),Westminster (rde),105,760,"r,d",t,215.1,262.3,e,e,215,6,TRUE
+Victoria (rde),St Jamess Park (rde),90,720,"r,d",t,244.1,215.1,e,e,244,12,FALSE
+Sloane Square (rde),Victoria (rde),120,1050,"r,d",t,203.1,244.1,e,e,203,6,TRUE
+South Kensington (rde),Sloane Square (rde),120,1220,"r,d",t,207.3,203.1,e,e,207,12,FALSE
+Gloucester Road (rde),South Kensington (rde),105,740,"r,d",t,86.3,207.3,e,e,86,13,FALSE
+Earls Court (de),Gloucester Road (rde),105,930,"r,d",t,64.1,86.3,e,e,64,15,FALSE
+Paddington (BRD) (rde),Edgware Road (RDH) (rde2),120,820,"r,d",t,174.3,72.1,e,e,174,13,FALSE
+Bayswater (rde),Paddington (BRD) (rde),120,980,"r,d",t,18.1,174.3,e,e,18,6,TRUE
+Notting Hill Gate (rde),Bayswater (rde),105,790,"r,d",t,168.3,18.1,e,e,168,12,FALSE
+High Street Kensington (rde),Notting Hill Gate (rde),105,930,"r,d",t,109.1,168.3,e,e,109,7,FALSE
+Earls Court (de),High Street Kensington (rde),165,1230,d,t,64.1,109.1,e,e,64,15,FALSE
+West Brompton (de),Earls Court (de),120,600,d,t,254.1,64.1,e,e,254,6,TRUE
+Fulham Broadway (de),West Brompton (de),120,840,d,t,84.1,254.1,e,e,84,6,TRUE
+Parsons Green (de),Fulham Broadway (de),60,790,d,t,177.1,84.1,e,e,177,6,TRUE
+Putney Bridge (de),Parsons Green (de),120,950,d,t,184.1,177.1,e,e,184,6,TRUE
+East Putney (de),Putney Bridge (de),150,1110,d,t,68.1,184.1,e,e,68,6,TRUE
+Southfields (de),East Putney (de),150,1530,d,t,212.1,68.1,e,e,212,6,TRUE
+Wimbledon Park (de),Southfields (de),150,1450,d,t,268.1,212.1,e,e,268,6,TRUE
+Wimbledon (de),Wimbledon Park (de),150,1500,d,t,267.1,268.1,e,e,267,4,FALSE
+Kensington (Olympia) (de),Earls Court (de),195,1540,d,t,124.1,64.1,e,e,124,5,FALSE
+West Kensington (de),Earls Court (de),135,900,d,t,259.1,64.1,e,e,259,6,TRUE
+Barons Court (de),West Kensington (de),90,640,d,t,16.1,259.1,e,e,16,12,FALSE
+Hammersmith (DP) (de),Barons Court (de),75,680,d,t,96.1,16.1,e,e,96,12,FALSE
+Ravenscourt Park (de),Hammersmith (DP) (de),135,930,d,t,188.1,96.1,e,e,188,6,TRUE
+Stamford Brook (de),Ravenscourt Park (de),105,770,d,t,218.1,188.1,e,e,218,6,TRUE
+Turnham Green (de),Stamford Brook (de),75,550,d,t,236.1,218.1,e,e,236,7,FALSE
+Gunnersbury (de),Turnham Green (de),180,1590,d,t,94.1,236.1,e,e,94,6,TRUE
+Kew Gardens (de),Gunnersbury (de),180,1710,d,t,127.1,94.1,e,e,127,6,TRUE
+Richmond (de),Kew Gardens (de),210,2140,d,t,192.1,127.1,e,e,192,3,FALSE
+Chiswick Park (de),Turnham Green (de),120,950,d,t,48.1,236.1,e,e,48,6,TRUE
+Acton Town (de),Chiswick Park (de),120,1210,d,t,1.1,48.1,e,e,1,13,FALSE
+Ealing Common (de),Acton Town (de),150,1030,d,t,63.1,1.1,e,e,63,12,FALSE
+Ealing Broadway (de),Ealing Common (de),195,1500,d,t,62.3,63.1,e,e,62,6,FALSE
+Upminster (dw),Upminster Bridge (dw),120,1240,d,t,238.2,239.2,w,w,238,3,FALSE
+Upminster Bridge (dw),Hornchurch (dw),120,1260,d,t,239.2,116.2,w,w,239,6,TRUE
+Hornchurch (dw),Elm Park (dw),120,1500,d,t,116.2,74.2,w,w,116,6,TRUE
+Elm Park (dw),Dagenham East (dw),180,2370,d,t,74.2,58.2,w,w,74,6,TRUE
+Dagenham East (dw),Dagenham Heathway (dw),120,1350,d,t,58.2,59.2,w,w,58,6,TRUE
+Dagenham Heathway (dw),Becontree (dw),150,1370,d,t,59.2,19.2,w,w,59,6,TRUE
+Becontree (dw),Upney (dw),150,1870,d,t,19.2,240.2,w,w,19,6,TRUE
+Upney (dw),Barking (dhw),150,1380,d,t,240.2,14.2,w,w,240,6,TRUE
+Barking (dhw),East Ham (dhw),210,2290,"d,h",t,14.2,67.2,w,w,14,6,FALSE
+East Ham (dhw),Upton Park (dhw),120,1400,"d,h",t,67.2,241.2,w,w,67,6,TRUE
+Upton Park (dhw),Plaistow (dhw),120,1290,"d,h",t,241.2,182.2,w,w,241,6,TRUE
+Plaistow (dhw),West Ham (dhw),120,760,"d,h",t,182.2,256.2,w,w,182,6,TRUE
+West Ham (dhw),Bromley-by-Bow (dhw),120,1370,"d,h",t,256.2,32.2,w,w,256,12,FALSE
+Bromley-by-Bow (dhw),Bow Road (dhw),150,1010,"d,h",t,32.2,29.2,w,w,32,6,TRUE
+Bow Road (dhw),Mile End (dhw),90,550,"d,h",t,29.2,148.4,w,w,29,6,TRUE
+Mile End (dhw),Stepney Green (dhw),120,1050,"d,h",t,148.4,220.2,w,w,148,12,FALSE
+Stepney Green (dhw),Whitechapel (dhw),120,1000,"d,h",t,220.2,264.2,w,w,220,6,TRUE
+Whitechapel (dhw),Aldgate East (dhw),135,820,"d,h",t,264.2,3.2,w,w,264,6,TRUE
+Aldgate East (dhw),Tower Hill (rdw),120,800,d,t,3.2,234.2,w,w,3,8,FALSE
+Tower Hill (rdw),Monument (rdw),105,680,"r,d",t,234.2,150.2,w,w,234,7,FALSE
+Monument (rdw),Cannon Street (rdw),75,340,"r,d",t,150.2,40.2,w,w,150,7,FALSE
+Cannon Street (rdw),Mansion House (rdw),75,310,"r,d",t,40.2,145.2,w,w,40,6,TRUE
+Mansion House (rdw),Blackfriars (rdw),105,610,"r,d",t,145.2,23.2,w,w,145,6,TRUE
+Blackfriars (rdw),Temple (rdw),90,760,"r,d",t,23.2,227.2,w,w,23,6,TRUE
+Temple (rdw),Embankment (rdw),105,710,"r,d",t,227.2,75.6,w,w,227,6,TRUE
+Embankment (rdw),Westminster (rdw),90,690,"r,d",t,75.6,262.4,w,w,75,18,FALSE
+Westminster (rdw),St Jamess Park (rdw),105,760,"r,d",t,262.4,215.2,w,w,262,12,FALSE
+St Jamess Park (rdw),Victoria (rdw),60,720,"r,d",t,215.2,244.2,w,w,215,6,TRUE
+Victoria (rdw),Sloane Square (rdw),120,1050,"r,d",t,244.2,203.2,w,w,244,12,FALSE
+Sloane Square (rdw),South Kensington (rdw),120,1220,"r,d",t,203.2,207.4,w,w,203,6,TRUE
+South Kensington (rdw),Gloucester Road (rdw),105,740,"r,d",t,207.4,86.4,w,w,207,12,FALSE
+Gloucester Road (rdw),Earls Court (dw),120,930,"r,d",t,86.4,64.2,w,w,86,13,FALSE
+Edgware Road (RDH) (rdw2),Paddington (BRD) (rdw),135,820,"r,d",t,72.2,174.4,2,w,72,9,FALSE
+Paddington (BRD) (rdw),Bayswater (rdw),120,980,"r,d",t,174.4,18.2,w,w,174,13,FALSE
+Bayswater (rdw),Notting Hill Gate (rdw),105,790,"r,d",t,18.2,168.4,w,w,18,6,TRUE
+Notting Hill Gate (rdw),High Street Kensington (rdw),120,930,"r,d",t,168.4,109.2,w,w,168,12,FALSE
+High Street Kensington (rdw),Earls Court (dw),195,1230,d,t,109.2,64.2,w,w,109,7,FALSE
+Earls Court (dw),West Brompton (dw),90,600,d,t,64.2,254.2,w,w,64,15,FALSE
+West Brompton (dw),Fulham Broadway (dw),135,840,d,t,254.2,84.2,w,w,254,6,TRUE
+Fulham Broadway (dw),Parsons Green (dw),90,790,d,t,84.2,177.2,w,w,84,6,TRUE
+Parsons Green (dw),Putney Bridge (dw),120,950,d,t,177.2,184.2,w,w,177,6,TRUE
+Putney Bridge (dw),East Putney (dw),120,1110,d,t,184.2,68.2,w,w,184,6,TRUE
+East Putney (dw),Southfields (dw),150,1530,d,t,68.2,212.2,w,w,68,6,TRUE
+Southfields (dw),Wimbledon Park (dw),150,1450,d,t,212.2,268.2,w,w,212,6,TRUE
+Wimbledon Park (dw),Wimbledon (dw),210,1500,d,t,268.2,267.2,w,w,268,6,TRUE
+Earls Court (dw),Kensington (Olympia) (dw),180,1540,d,t,64.2,124.2,w,w,64,15,FALSE
+Earls Court (dw),West Kensington (dw),120,900,d,t,64.2,259.2,w,w,64,15,FALSE
+West Kensington (dw),Barons Court (dw),105,640,d,t,259.2,16.2,w,w,259,6,TRUE
+Barons Court (dw),Hammersmith (DP) (dw),105,680,d,t,16.2,96.2,w,w,16,12,FALSE
+Hammersmith (DP) (dw),Ravenscourt Park (dw),120,930,d,t,96.2,188.2,w,w,96,12,FALSE
+Ravenscourt Park (dw),Stamford Brook (dw),90,770,d,t,188.2,218.2,w,w,188,6,TRUE
+Stamford Brook (dw),Turnham Green (dw),90,550,d,t,218.2,236.2,w,w,218,6,TRUE
+Turnham Green (dw),Gunnersbury (dw),210,1590,d,t,236.2,94.2,w,w,236,7,FALSE
+Gunnersbury (dw),Kew Gardens (dw),150,1710,d,t,94.2,127.2,w,w,94,6,TRUE
+Kew Gardens (dw),Richmond (dw),240,2140,d,t,127.2,192.2,w,w,127,6,TRUE
+Turnham Green (dw),Chiswick Park (dw),105,950,d,t,236.2,48.2,w,w,236,7,FALSE
+Chiswick Park (dw),Acton Town (dw),150,1210,d,t,48.2,1.2,w,w,48,6,TRUE
+Acton Town (dw),Ealing Common (dw),135,1030,d,t,1.2,63.2,w,w,1,13,FALSE
+Ealing Common (dw),Ealing Broadway (dw),210,1500,d,t,63.2,62.4,w,w,63,12,FALSE
+Acton Town,Acton Town (de),180,250,d,s,1,1.1,,e,1,13,FALSE
+Acton Town,Acton Town (dw),180,250,d,s,1,1.2,,w,1,13,FALSE
+Acton Town,Acton Town (pe),180,250,p,s,1,1.3,,e,1,13,FALSE
+Acton Town,Acton Town (pw),180,250,p,s,1,1.4,,w,1,13,FALSE
+Acton Town (de),Acton Town,180,250,d,s,1.1,1,e,,1,13,FALSE
+Acton Town (dw),Acton Town,180,250,d,s,1.2,1,w,,1,13,FALSE
+Acton Town (pe),Acton Town,180,250,p,s,1.3,1,e,,1,13,FALSE
+Acton Town (pw),Acton Town,180,250,p,s,1.4,1,w,,1,13,FALSE
+Aldgate,Aldgate (rme),180,250,"r,m",s,2,2.1,,e,2,7,FALSE
+Aldgate,Aldgate (rmw),180,250,"r,m",s,2,2.2,,w,2,7,FALSE
+Aldgate (rme),Aldgate,180,250,"r,m",s,2.1,2,e,,2,7,FALSE
+Aldgate (rmw),Aldgate,180,250,"r,m",s,2.2,2,w,,2,7,FALSE
+Aldgate East,Aldgate East (dhe),180,250,"d,h",s,3,3.1,,e,3,8,FALSE
+Aldgate East,Aldgate East (dhw),180,250,"d,h",s,3,3.2,,w,3,8,FALSE
+Aldgate East (dhe),Aldgate East,180,250,"d,h",s,3.1,3,e,,3,8,FALSE
+Aldgate East (dhw),Aldgate East,180,250,"d,h",s,3.2,3,w,,3,8,FALSE
+Alperton,Alperton (pe),180,250,p,s,4,4.1,,e,4,6,TRUE
+Alperton,Alperton (pw),180,250,p,s,4,4.2,,w,4,6,TRUE
+Alperton (pe),Alperton,180,250,p,s,4.1,4,e,,4,6,TRUE
+Alperton (pw),Alperton,180,250,p,s,4.2,4,w,,4,6,TRUE
+Amersham,Amersham (ms),180,250,m,s,5,5.2,,s,5,3,FALSE
+Amersham (mn),Amersham,180,250,m,s,5.1,5,n,,5,3,FALSE
+Angel,Angel (nn),180,250,n,s,6,6.1,,n,6,6,TRUE
+Angel,Angel (ns),180,250,n,s,6,6.2,,s,6,6,TRUE
+Angel (nn),Angel,180,250,n,s,6.1,6,n,,6,6,TRUE
+Angel (ns),Angel,180,250,n,s,6.2,6,s,,6,6,TRUE
+Archway,Archway (nn),180,250,n,s,7,7.1,,n,7,6,TRUE
+Archway,Archway (ns),180,250,n,s,7,7.2,,s,7,6,TRUE
+Archway (nn),Archway,180,250,n,s,7.1,7,n,,7,6,TRUE
+Archway (ns),Archway,180,250,n,s,7.2,7,s,,7,6,TRUE
+Arnos Grove,Arnos Grove (pe),180,250,p,s,8,8.1,,e,8,6,TRUE
+Arnos Grove,Arnos Grove (pw),180,250,p,s,8,8.2,,w,8,6,TRUE
+Arnos Grove (pe),Arnos Grove,180,250,p,s,8.1,8,e,,8,6,TRUE
+Arnos Grove (pw),Arnos Grove,180,250,p,s,8.2,8,w,,8,6,TRUE
+Arsenal,Arsenal (pe),180,250,p,s,9,9.1,,e,9,6,TRUE
+Arsenal,Arsenal (pw),180,250,p,s,9,9.2,,w,9,6,TRUE
+Arsenal (pe),Arsenal,180,250,p,s,9.1,9,e,,9,6,TRUE
+Arsenal (pw),Arsenal,180,250,p,s,9.2,9,w,,9,6,TRUE
+Baker Street,Baker Street (bn),180,250,b,s,10,10.1,,n,10,24,FALSE
+Baker Street,Baker Street (bs),180,250,b,s,10,10.2,,s,10,24,FALSE
+Baker Street,Baker Street (je),180,250,j,s,10,10.3,,e,10,24,FALSE
+Baker Street,Baker Street (jw),180,250,j,s,10,10.4,,w,10,24,FALSE
+Baker Street,Baker Street (mn),180,250,m,s,10,10.5,,n,10,24,FALSE
+Baker Street,Baker Street (ms),180,250,m,s,10,10.6,,s,10,24,FALSE
+Baker Street,Baker Street (rhe),180,250,"r,h",s,10,10.7,,e,10,24,FALSE
+Baker Street,Baker Street (rhw),180,250,"r,h",s,10,10.8,,w,10,24,FALSE
+Baker Street (bn),Baker Street,180,250,b,s,10.1,10,n,,10,24,FALSE
+Baker Street (bs),Baker Street,180,250,b,s,10.2,10,s,,10,24,FALSE
+Baker Street (je),Baker Street,180,250,j,s,10.3,10,e,,10,24,FALSE
+Baker Street (jw),Baker Street,180,250,j,s,10.4,10,w,,10,24,FALSE
+Baker Street (mn),Baker Street,180,250,m,s,10.5,10,n,,10,24,FALSE
+Baker Street (ms),Baker Street,180,250,m,s,10.6,10,s,,10,24,FALSE
+Baker Street (rhe),Baker Street,180,250,"r,h",s,10.7,10,e,,10,24,FALSE
+Baker Street (rhw),Baker Street,180,250,"r,h",s,10.8,10,w,,10,24,FALSE
+Balham,Balham (nn),180,250,n,s,11,11.1,,n,11,6,TRUE
+Balham,Balham (ns),180,250,n,s,11,11.2,,s,11,6,TRUE
+Balham (nn),Balham,180,250,n,s,11.1,11,n,,11,6,TRUE
+Balham (ns),Balham,180,250,n,s,11.2,11,s,,11,6,TRUE
+Bank,Bank (ce),180,250,c,s,12,12.1,,e,12,16,FALSE
+Bank,Bank (cw),180,250,c,s,12,12.2,,w,12,16,FALSE
+Bank,Bank (nn),180,250,n,s,12,12.3,,n,12,16,FALSE
+Bank,Bank (ns),180,250,n,s,12,12.4,,s,12,16,FALSE
+Bank,Bank (ws),180,250,v,s,12,12.6,,s,12,16,FALSE
+Bank (ce),Bank,180,250,c,s,12.1,12,e,,12,16,FALSE
+Bank (cw),Bank,180,250,c,s,12.2,12,w,,12,16,FALSE
+Bank (nn),Bank,180,250,n,s,12.3,12,n,,12,16,FALSE
+Bank (ns),Bank,180,250,n,s,12.4,12,s,,12,16,FALSE
+Bank (wn),Bank,180,250,v,s,12.5,12,n,,12,16,FALSE
+Barbican,Barbican (rhme),180,250,"r,h,m",s,13,13.1,,e,13,6,TRUE
+Barbican,Barbican (rhmw),180,250,"r,h,m",s,13,13.2,,w,13,6,TRUE
+Barbican (rhme),Barbican,180,250,"r,h,m",s,13.1,13,e,,13,6,TRUE
+Barbican (rhmw),Barbican,180,250,"r,h,m",s,13.2,13,w,,13,6,TRUE
+Barking,Barking (dhe),180,250,"d,h",s,14,14.1,,e,14,6,FALSE
+Barking,Barking (dhw),180,250,"d,h",s,14,14.2,,w,14,6,FALSE
+Barking (dhe),Barking,180,250,"d,h",s,14.1,14,e,,14,6,FALSE
+Barking (dhw),Barking,180,250,"d,h",s,14.2,14,w,,14,6,FALSE
+Barkingside,Barkingside (ce),180,250,c,s,15,15.1,,e,15,6,TRUE
+Barkingside,Barkingside (cw),180,250,c,s,15,15.2,,w,15,6,TRUE
+Barkingside (ce),Barkingside,180,250,c,s,15.1,15,e,,15,6,TRUE
+Barkingside (cw),Barkingside,180,250,c,s,15.2,15,w,,15,6,TRUE
+Barons Court,Barons Court (de),180,250,d,s,16,16.1,,e,16,12,FALSE
+Barons Court,Barons Court (dw),180,250,d,s,16,16.2,,w,16,12,FALSE
+Barons Court,Barons Court (pe),180,250,p,s,16,16.3,,e,16,12,FALSE
+Barons Court,Barons Court (pw),180,250,p,s,16,16.4,,w,16,12,FALSE
+Barons Court (de),Barons Court,180,250,d,s,16.1,16,e,,16,12,FALSE
+Barons Court (dw),Barons Court,180,250,d,s,16.2,16,w,,16,12,FALSE
+Barons Court (pe),Barons Court,180,250,p,s,16.3,16,e,,16,12,FALSE
+Barons Court (pw),Barons Court,180,250,p,s,16.4,16,w,,16,12,FALSE
+Bayswater,Bayswater (rde),180,250,"r,d",s,18,18.1,,e,18,6,TRUE
+Bayswater,Bayswater (rdw),180,250,"r,d",s,18,18.2,,w,18,6,TRUE
+Bayswater (rde),Bayswater,180,250,"r,d",s,18.1,18,e,,18,6,TRUE
+Bayswater (rdw),Bayswater,180,250,"r,d",s,18.2,18,w,,18,6,TRUE
+Becontree,Becontree (de),180,250,d,s,19,19.1,,e,19,6,TRUE
+Becontree,Becontree (dw),180,250,d,s,19,19.2,,w,19,6,TRUE
+Becontree (de),Becontree,180,250,d,s,19.1,19,e,,19,6,TRUE
+Becontree (dw),Becontree,180,250,d,s,19.2,19,w,,19,6,TRUE
+Belsize Park,Belsize Park (nn),180,250,n,s,20,20.1,,n,20,6,TRUE
+Belsize Park,Belsize Park (ns),180,250,n,s,20,20.2,,s,20,6,TRUE
+Belsize Park (nn),Belsize Park,180,250,n,s,20.1,20,n,,20,6,TRUE
+Belsize Park (ns),Belsize Park,180,250,n,s,20.2,20,s,,20,6,TRUE
+Bermondsey,Bermondsey (je),180,250,j,s,21,21.1,,e,21,6,TRUE
+Bermondsey,Bermondsey (jw),180,250,j,s,21,21.2,,w,21,6,TRUE
+Bermondsey (je),Bermondsey,180,250,j,s,21.1,21,e,,21,6,TRUE
+Bermondsey (jw),Bermondsey,180,250,j,s,21.2,21,w,,21,6,TRUE
+Bethnal Green,Bethnal Green (ce),180,250,c,s,22,22.1,,e,22,6,TRUE
+Bethnal Green,Bethnal Green (cw),180,250,c,s,22,22.2,,w,22,6,TRUE
+Bethnal Green (ce),Bethnal Green,180,250,c,s,22.1,22,e,,22,6,TRUE
+Bethnal Green (cw),Bethnal Green,180,250,c,s,22.2,22,w,,22,6,TRUE
+Blackfriars,Blackfriars (rde),180,250,"r,d",s,23,23.1,,e,23,6,TRUE
+Blackfriars,Blackfriars (rdw),180,250,"r,d",s,23,23.2,,w,23,6,TRUE
+Blackfriars (rde),Blackfriars,180,250,"r,d",s,23.1,23,e,,23,6,TRUE
+Blackfriars (rdw),Blackfriars,180,250,"r,d",s,23.2,23,w,,23,6,TRUE
+Blackhorse Road,Blackhorse Road (vn),180,250,v,s,24,24.1,,n,24,6,TRUE
+Blackhorse Road,Blackhorse Road (vs),180,250,v,s,24,24.2,,s,24,6,TRUE
+Blackhorse Road (vn),Blackhorse Road,180,250,v,s,24.1,24,n,,24,6,TRUE
+Blackhorse Road (vs),Blackhorse Road,180,250,v,s,24.2,24,s,,24,6,TRUE
+Bond Street,Bond Street (ce),180,250,c,s,25,25.1,,e,25,12,FALSE
+Bond Street,Bond Street (cw),180,250,c,s,25,25.2,,w,25,12,FALSE
+Bond Street,Bond Street (je),180,250,j,s,25,25.3,,e,25,12,FALSE
+Bond Street,Bond Street (jw),180,250,j,s,25,25.4,,w,25,12,FALSE
+Bond Street (ce),Bond Street,180,250,c,s,25.1,25,e,,25,12,FALSE
+Bond Street (cw),Bond Street,180,250,c,s,25.2,25,w,,25,12,FALSE
+Bond Street (je),Bond Street,180,250,j,s,25.3,25,e,,25,12,FALSE
+Bond Street (jw),Bond Street,180,250,j,s,25.4,25,w,,25,12,FALSE
+Borough,Borough (nn),180,250,n,s,26,26.1,,n,26,6,TRUE
+Borough,Borough (ns),180,250,n,s,26,26.2,,s,26,6,TRUE
+Borough (nn),Borough,180,250,n,s,26.1,26,n,,26,6,TRUE
+Borough (ns),Borough,180,250,n,s,26.2,26,s,,26,6,TRUE
+Boston Manor,Boston Manor (pe),180,250,p,s,27,27.1,,e,27,6,TRUE
+Boston Manor,Boston Manor (pw),180,250,p,s,27,27.2,,w,27,6,TRUE
+Boston Manor (pe),Boston Manor,180,250,p,s,27.1,27,e,,27,6,TRUE
+Boston Manor (pw),Boston Manor,180,250,p,s,27.2,27,w,,27,6,TRUE
+Bounds Green,Bounds Green (pe),180,250,p,s,28,28.1,,e,28,6,TRUE
+Bounds Green,Bounds Green (pw),180,250,p,s,28,28.2,,w,28,6,TRUE
+Bounds Green (pe),Bounds Green,180,250,p,s,28.1,28,e,,28,6,TRUE
+Bounds Green (pw),Bounds Green,180,250,p,s,28.2,28,w,,28,6,TRUE
+Bow Road,Bow Road (dhe),180,250,"d,h",s,29,29.1,,e,29,6,TRUE
+Bow Road,Bow Road (dhw),180,250,"d,h",s,29,29.2,,w,29,6,TRUE
+Bow Road (dhe),Bow Road,180,250,"d,h",s,29.1,29,e,,29,6,TRUE
+Bow Road (dhw),Bow Road,180,250,"d,h",s,29.2,29,w,,29,6,TRUE
+Brent Cross,Brent Cross (nn),180,250,n,s,30,30.1,,n,30,6,TRUE
+Brent Cross,Brent Cross (ns),180,250,n,s,30,30.2,,s,30,6,TRUE
+Brent Cross (nn),Brent Cross,180,250,n,s,30.1,30,n,,30,6,TRUE
+Brent Cross (ns),Brent Cross,180,250,n,s,30.2,30,s,,30,6,TRUE
+Brixton,Brixton (vn),180,250,v,s,31,31.1,,n,31,3,FALSE
+Brixton (vs),Brixton,180,250,v,s,31.2,31,s,,31,3,FALSE
+Bromley-by-Bow,Bromley-by-Bow (dhe),180,250,"d,h",s,32,32.1,,e,32,6,TRUE
+Bromley-by-Bow,Bromley-by-Bow (dhw),180,250,"d,h",s,32,32.2,,w,32,6,TRUE
+Bromley-by-Bow (dhe),Bromley-by-Bow,180,250,"d,h",s,32.1,32,e,,32,6,TRUE
+Bromley-by-Bow (dhw),Bromley-by-Bow,180,250,"d,h",s,32.2,32,w,,32,6,TRUE
+Buckhurst Hill,Buckhurst Hill (ce),180,250,c,s,33,33.1,,e,33,6,TRUE
+Buckhurst Hill,Buckhurst Hill (cw),180,250,c,s,33,33.2,,w,33,6,TRUE
+Buckhurst Hill (ce),Buckhurst Hill,180,250,c,s,33.1,33,e,,33,6,TRUE
+Buckhurst Hill (cw),Buckhurst Hill,180,250,c,s,33.2,33,w,,33,6,TRUE
+Burnt Oak,Burnt Oak (nn),180,250,n,s,34,34.1,,n,34,6,TRUE
+Burnt Oak,Burnt Oak (ns),180,250,n,s,34,34.2,,s,34,6,TRUE
+Burnt Oak (nn),Burnt Oak,180,250,n,s,34.1,34,n,,34,6,TRUE
+Burnt Oak (ns),Burnt Oak,180,250,n,s,34.2,34,s,,34,6,TRUE
+Caledonian Road,Caledonian Road (pe),180,250,p,s,35,35.1,,e,35,6,TRUE
+Caledonian Road,Caledonian Road (pw),180,250,p,s,35,35.2,,w,35,6,TRUE
+Caledonian Road (pe),Caledonian Road,180,250,p,s,35.1,35,e,,35,6,TRUE
+Caledonian Road (pw),Caledonian Road,180,250,p,s,35.2,35,w,,35,6,TRUE
+Camden Town,Camden Town (nn),180,250,n,s,36,36.1,,n,36,8,FALSE
+Camden Town,Camden Town (ns),180,250,n,s,36,36.2,,s,36,8,FALSE
+Camden Town (nn),Camden Town,180,250,n,s,36.1,36,n,,36,8,FALSE
+Camden Town (ns),Camden Town,180,250,n,s,36.2,36,s,,36,8,FALSE
+Canada Water,Canada Water (je),180,250,j,s,37,37.1,,e,37,6,TRUE
+Canada Water,Canada Water (jw),180,250,j,s,37,37.2,,w,37,6,TRUE
+Canada Water (je),Canada Water,180,250,j,s,37.1,37,e,,37,6,TRUE
+Canada Water (jw),Canada Water,180,250,j,s,37.2,37,w,,37,6,TRUE
+Canary Wharf,Canary Wharf (je),180,250,j,s,38,38.1,,e,38,6,TRUE
+Canary Wharf,Canary Wharf (jw),180,250,j,s,38,38.2,,w,38,6,TRUE
+Canary Wharf (je),Canary Wharf,180,250,j,s,38.1,38,e,,38,6,TRUE
+Canary Wharf (jw),Canary Wharf,180,250,j,s,38.2,38,w,,38,6,TRUE
+Canning Town,Canning Town (je),180,250,j,s,39,39.1,,e,39,6,TRUE
+Canning Town,Canning Town (jw),180,250,j,s,39,39.2,,w,39,6,TRUE
+Canning Town (je),Canning Town,180,250,j,s,39.1,39,e,,39,6,TRUE
+Canning Town (jw),Canning Town,180,250,j,s,39.2,39,w,,39,6,TRUE
+Cannon Street,Cannon Street (rde),180,250,"r,d",s,40,40.1,,e,40,6,TRUE
+Cannon Street,Cannon Street (rdw),180,250,"r,d",s,40,40.2,,w,40,6,TRUE
+Cannon Street (rde),Cannon Street,180,250,"r,d",s,40.1,40,e,,40,6,TRUE
+Cannon Street (rdw),Cannon Street,180,250,"r,d",s,40.2,40,w,,40,6,TRUE
+Canons Park,Canons Park (je),180,250,j,s,41,41.1,,e,41,7,FALSE
+Canons Park,Canons Park (jw),180,250,j,s,41,41.2,,w,41,7,FALSE
+Canons Park (je),Canons Park,180,250,j,s,41.1,41,e,,41,7,FALSE
+Canons Park (jw),Canons Park,180,250,j,s,41.2,41,w,,41,7,FALSE
+Chalfont & Latimer,Chalfont & Latimer (mn),180,250,m,s,42,42.1,,n,42,7,FALSE
+Chalfont & Latimer,Chalfont & Latimer (ms),180,250,m,s,42,42.2,,s,42,7,FALSE
+Chalfont & Latimer (mn),Chalfont & Latimer,180,250,m,s,42.1,42,n,,42,7,FALSE
+Chalfont & Latimer (ms),Chalfont & Latimer,180,250,m,s,42.2,42,s,,42,7,FALSE
+Chalk Farm,Chalk Farm (nn),180,250,n,s,43,43.1,,n,43,6,TRUE
+Chalk Farm,Chalk Farm (ns),180,250,n,s,43,43.2,,s,43,6,TRUE
+Chalk Farm (nn),Chalk Farm,180,250,n,s,43.1,43,n,,43,6,TRUE
+Chalk Farm (ns),Chalk Farm,180,250,n,s,43.2,43,s,,43,6,TRUE
+Chancery Lane,Chancery Lane (ce),180,250,c,s,44,44.1,,e,44,6,TRUE
+Chancery Lane,Chancery Lane (cw),180,250,c,s,44,44.2,,w,44,6,TRUE
+Chancery Lane (ce),Chancery Lane,180,250,c,s,44.1,44,e,,44,6,TRUE
+Chancery Lane (cw),Chancery Lane,180,250,c,s,44.2,44,w,,44,6,TRUE
+Charing Cross,Charing Cross (bn),180,250,b,s,45,45.1,,n,45,12,FALSE
+Charing Cross,Charing Cross (bs),180,250,b,s,45,45.2,,s,45,12,FALSE
+Charing Cross,Charing Cross (nn),180,250,n,s,45,45.3,,n,45,12,FALSE
+Charing Cross,Charing Cross (ns),180,250,n,s,45,45.4,,s,45,12,FALSE
+Charing Cross (bn),Charing Cross,180,250,b,s,45.1,45,n,,45,12,FALSE
+Charing Cross (bs),Charing Cross,180,250,b,s,45.2,45,s,,45,12,FALSE
+Charing Cross (nn),Charing Cross,180,250,n,s,45.3,45,n,,45,12,FALSE
+Charing Cross (ns),Charing Cross,180,250,n,s,45.4,45,s,,45,12,FALSE
+Chesham,Chesham (ms),180,250,c,s,46,46.2,,s,46,3,FALSE
+Chesham (mn),Chesham,180,250,c,s,46.1,46,n,,46,3,FALSE
+Chigwell,Chigwell (ce),180,250,c,s,47,47.1,,e,47,6,TRUE
+Chigwell,Chigwell (cw),180,250,c,s,47,47.2,,w,47,6,TRUE
+Chigwell (ce),Chigwell,180,250,c,s,47.1,47,e,,47,6,TRUE
+Chigwell (cw),Chigwell,180,250,c,s,47.2,47,w,,47,6,TRUE
+Chiswick Park,Chiswick Park (de),180,250,d,s,48,48.1,,e,48,6,TRUE
+Chiswick Park,Chiswick Park (dw),180,250,d,s,48,48.2,,w,48,6,TRUE
+Chiswick Park (de),Chiswick Park,180,250,d,s,48.1,48,e,,48,6,TRUE
+Chiswick Park (dw),Chiswick Park,180,250,d,s,48.2,48,w,,48,6,TRUE
+Chorleywood,Chorleywood (mn),180,250,m,s,49,49.1,,n,49,6,TRUE
+Chorleywood,Chorleywood (ms),180,250,m,s,49,49.2,,s,49,6,TRUE
+Chorleywood (mn),Chorleywood,180,250,m,s,49.1,49,n,,49,6,TRUE
+Chorleywood (ms),Chorleywood,180,250,m,s,49.2,49,s,,49,6,TRUE
+Clapham Common,Clapham Common (nn),180,250,n,s,50,50.1,,n,50,6,TRUE
+Clapham Common,Clapham Common (ns),180,250,n,s,50,50.2,,s,50,6,TRUE
+Clapham Common (nn),Clapham Common,180,250,n,s,50.1,50,n,,50,6,TRUE
+Clapham Common (ns),Clapham Common,180,250,n,s,50.2,50,s,,50,6,TRUE
+Clapham North,Clapham North (nn),180,250,n,s,51,51.1,,n,51,6,TRUE
+Clapham North,Clapham North (ns),180,250,n,s,51,51.2,,s,51,6,TRUE
+Clapham North (nn),Clapham North,180,250,n,s,51.1,51,n,,51,6,TRUE
+Clapham North (ns),Clapham North,180,250,n,s,51.2,51,s,,51,6,TRUE
+Clapham South,Clapham South (nn),180,250,n,s,52,52.1,,n,52,6,TRUE
+Clapham South,Clapham South (ns),180,250,n,s,52,52.2,,s,52,6,TRUE
+Clapham South (nn),Clapham South,180,250,n,s,52.1,52,n,,52,6,TRUE
+Clapham South (ns),Clapham South,180,250,n,s,52.2,52,s,,52,6,TRUE
+Cockfosters,Cockfosters (pw),180,250,p,s,53,53.2,,w,53,4,FALSE
+Cockfosters (pe),Cockfosters,180,250,p,s,53.1,53,e,,53,4,FALSE
+Colindale,Colindale (nn),180,250,n,s,54,54.1,,n,54,6,TRUE
+Colindale,Colindale (ns),180,250,n,s,54,54.2,,s,54,6,TRUE
+Colindale (nn),Colindale,180,250,n,s,54.1,54,n,,54,6,TRUE
+Colindale (ns),Colindale,180,250,n,s,54.2,54,s,,54,6,TRUE
+Colliers Wood,Colliers Wood (nn),180,250,n,s,55,55.1,,n,55,6,TRUE
+Colliers Wood,Colliers Wood (ns),180,250,n,s,55,55.2,,s,55,6,TRUE
+Colliers Wood (nn),Colliers Wood,180,250,n,s,55.1,55,n,,55,6,TRUE
+Colliers Wood (ns),Colliers Wood,180,250,n,s,55.2,55,s,,55,6,TRUE
+Covent Garden,Covent Garden (pe),180,250,p,s,56,56.1,,e,56,6,TRUE
+Covent Garden,Covent Garden (pw),180,250,p,s,56,56.2,,w,56,6,TRUE
+Covent Garden (pe),Covent Garden,180,250,p,s,56.1,56,e,,56,6,TRUE
+Covent Garden (pw),Covent Garden,180,250,p,s,56.2,56,w,,56,6,TRUE
+Croxley,Croxley (mn),180,250,m,s,57,57.1,,n,57,6,TRUE
+Croxley,Croxley (ms),180,250,m,s,57,57.2,,s,57,6,TRUE
+Croxley (mn),Croxley,180,250,m,s,57.1,57,n,,57,6,TRUE
+Croxley (ms),Croxley,180,250,m,s,57.2,57,s,,57,6,TRUE
+Dagenham East,Dagenham East (de),180,250,d,s,58,58.1,,e,58,6,TRUE
+Dagenham East,Dagenham East (dw),180,250,d,s,58,58.2,,w,58,6,TRUE
+Dagenham East (de),Dagenham East,180,250,d,s,58.1,58,e,,58,6,TRUE
+Dagenham East (dw),Dagenham East,180,250,d,s,58.2,58,w,,58,6,TRUE
+Dagenham Heathway,Dagenham Heathway (de),180,250,d,s,59,59.1,,e,59,6,TRUE
+Dagenham Heathway,Dagenham Heathway (dw),180,250,d,s,59,59.2,,w,59,6,TRUE
+Dagenham Heathway (de),Dagenham Heathway,180,250,d,s,59.1,59,e,,59,6,TRUE
+Dagenham Heathway (dw),Dagenham Heathway,180,250,d,s,59.2,59,w,,59,6,TRUE
+Debden,Debden (ce),180,250,c,s,60,60.1,,e,60,6,TRUE
+Debden,Debden (cw),180,250,c,s,60,60.2,,w,60,6,TRUE
+Debden (ce),Debden,180,250,c,s,60.1,60,e,,60,6,TRUE
+Debden (cw),Debden,180,250,c,s,60.2,60,w,,60,6,TRUE
+Dollis Hill,Dollis Hill (je),180,250,j,s,61,61.1,,e,61,6,TRUE
+Dollis Hill,Dollis Hill (jw),180,250,j,s,61,61.2,,w,61,6,TRUE
+Dollis Hill (je),Dollis Hill,180,250,j,s,61.1,61,e,,61,6,TRUE
+Dollis Hill (jw),Dollis Hill,180,250,j,s,61.2,61,w,,61,6,TRUE
+Ealing Broadway,Ealing Broadway (ce),180,250,d,s,62,62.1,,e,62,6,FALSE
+Ealing Broadway,Ealing Broadway (de),180,250,d,s,62,62.3,,e,62,6,FALSE
+Ealing Broadway (cw),Ealing Broadway,180,250,d,s,62.2,62,w,,62,6,FALSE
+Ealing Broadway (dw),Ealing Broadway,180,250,d,s,62.4,62,w,,62,6,FALSE
+Ealing Common,Ealing Common (de),180,250,d,s,63,63.1,,e,63,12,FALSE
+Ealing Common,Ealing Common (dw),180,250,d,s,63,63.2,,w,63,12,FALSE
+Ealing Common,Ealing Common (pe),180,250,p,s,63,63.3,,e,63,12,FALSE
+Ealing Common,Ealing Common (pw),180,250,p,s,63,63.4,,w,63,12,FALSE
+Ealing Common (de),Ealing Common,180,250,d,s,63.1,63,e,,63,12,FALSE
+Ealing Common (dw),Ealing Common,180,250,d,s,63.2,63,w,,63,12,FALSE
+Ealing Common (pe),Ealing Common,180,250,p,s,63.3,63,e,,63,12,FALSE
+Ealing Common (pw),Ealing Common,180,250,p,s,63.4,63,w,,63,12,FALSE
+Earls Court,Earls Court (de),180,250,d,s,64,64.1,,e,64,15,FALSE
+Earls Court,Earls Court (dw),180,250,d,s,64,64.2,,w,64,15,FALSE
+Earls Court,Earls Court (pe),180,250,p,s,64,64.3,,e,64,15,FALSE
+Earls Court,Earls Court (pw),180,250,p,s,64,64.4,,w,64,15,FALSE
+Earls Court (de),Earls Court,180,250,d,s,64.1,64,e,,64,15,FALSE
+Earls Court (dw),Earls Court,180,250,d,s,64.2,64,w,,64,15,FALSE
+Earls Court (pe),Earls Court,180,250,p,s,64.3,64,e,,64,15,FALSE
+Earls Court (pw),Earls Court,180,250,p,s,64.4,64,w,,64,15,FALSE
+East Acton,East Acton (ce),180,250,c,s,65,65.1,,e,65,6,TRUE
+East Acton,East Acton (cw),180,250,c,s,65,65.2,,w,65,6,TRUE
+East Acton (ce),East Acton,180,250,c,s,65.1,65,e,,65,6,TRUE
+East Acton (cw),East Acton,180,250,c,s,65.2,65,w,,65,6,TRUE
+East Finchley,East Finchley (nn),180,250,n,s,66,66.1,,n,66,6,TRUE
+East Finchley,East Finchley (ns),180,250,n,s,66,66.2,,s,66,6,TRUE
+East Finchley (nn),East Finchley,180,250,n,s,66.1,66,n,,66,6,TRUE
+East Finchley (ns),East Finchley,180,250,n,s,66.2,66,s,,66,6,TRUE
+East Ham,East Ham (dhe),180,250,"d,h",s,67,67.1,,e,67,6,TRUE
+East Ham,East Ham (dhw),180,250,"d,h",s,67,67.2,,w,67,6,TRUE
+East Ham (dhe),East Ham,180,250,"d,h",s,67.1,67,e,,67,6,TRUE
+East Ham (dhw),East Ham,180,250,"d,h",s,67.2,67,w,,67,6,TRUE
+East Putney,East Putney (de),180,250,d,s,68,68.1,,e,68,6,TRUE
+East Putney,East Putney (dw),180,250,d,s,68,68.2,,w,68,6,TRUE
+East Putney (de),East Putney,180,250,d,s,68.1,68,e,,68,6,TRUE
+East Putney (dw),East Putney,180,250,d,s,68.2,68,w,,68,6,TRUE
+Eastcote,Eastcote (mpn),180,250,m,s,69,69.1,,n,69,6,TRUE
+Eastcote,Eastcote (mps),180,250,m,s,69,69.2,,s,69,6,TRUE
+Eastcote (mpn),Eastcote,180,250,m,s,69.1,69,n,,69,6,TRUE
+Eastcote (mps),Eastcote,180,250,m,s,69.2,69,s,,69,6,TRUE
+Edgware,Edgware (ns),180,250,n,s,70,70.2,,s,70,3,FALSE
+Edgware (nn),Edgware,180,250,n,s,70.1,70,n,,70,3,FALSE
+Edgware Road (B),Edgware Road (B) (bn),180,250,b,s,71,71.1,B,n,71,6,TRUE
+Edgware Road (B),Edgware Road (B) (bs),180,250,b,s,71,71.2,B,s,71,6,TRUE
+Edgware Road (B) (bn),Edgware Road (B),180,250,b,s,71.1,71,n,B,71,6,TRUE
+Edgware Road (B) (bs),Edgware Road (B),180,250,b,s,71.2,71,s,B,71,6,TRUE
+Edgware Road (RDH),Edgware Road (RDH) (rdw2),180,250,"r,d",s,72,72.2,H,2,72,9,FALSE
+Edgware Road (RDH),Edgware Road (RDH) (rhe1),180,250,"r,h",s,72,72.3,H,1,72,9,FALSE
+Edgware Road (RDH),Edgware Road (RDH) (rhw1),180,250,"r,h",s,72,72.4,H,1,72,9,FALSE
+Edgware Road (RDH) (rde2),Edgware Road (RDH),180,250,"r,d",s,72.1,72,2,H,72,9,FALSE
+Edgware Road (RDH) (rhe1),Edgware Road (RDH),180,250,"r,h",s,72.3,72,1,H,72,9,FALSE
+Edgware Road (RDH) (rhw1),Edgware Road (RDH),180,250,"r,h",s,72.4,72,1,H,72,9,FALSE
+Elephant & Castle,Elephant & Castle (bn),180,250,b,s,73,73.1,,n,73,9,FALSE
+Elephant & Castle,Elephant & Castle (nn),180,250,n,s,73,73.3,,n,73,9,FALSE
+Elephant & Castle,Elephant & Castle (ns),180,250,n,s,73,73.4,,s,73,9,FALSE
+Elephant & Castle (bs),Elephant & Castle,180,250,b,s,73.2,73,n,,73,9,FALSE
+Elephant & Castle (nn),Elephant & Castle,180,250,n,s,73.3,73,n,,73,9,FALSE
+Elephant & Castle (ns),Elephant & Castle,180,250,n,s,73.4,73,s,,73,9,FALSE
+Elm Park,Elm Park (de),180,250,d,s,74,74.1,,e,74,6,TRUE
+Elm Park,Elm Park (dw),180,250,d,s,74,74.2,,w,74,6,TRUE
+Elm Park (de),Elm Park,180,250,d,s,74.1,74,e,,74,6,TRUE
+Elm Park (dw),Elm Park,180,250,d,s,74.2,74,w,,74,6,TRUE
+Embankment,Embankment (bn),180,250,b,s,75,75.1,,n,75,18,FALSE
+Embankment,Embankment (bs),180,250,b,s,75,75.2,,s,75,18,FALSE
+Embankment,Embankment (nn),180,250,n,s,75,75.3,,n,75,18,FALSE
+Embankment,Embankment (ns),180,250,n,s,75,75.4,,s,75,18,FALSE
+Embankment,Embankment (rde),180,250,"r,d",s,75,75.5,,e,75,18,FALSE
+Embankment,Embankment (rdw),180,250,"r,d",s,75,75.6,,w,75,18,FALSE
+Embankment (bn),Embankment,180,250,b,s,75.1,75,n,,75,18,FALSE
+Embankment (bs),Embankment,180,250,b,s,75.2,75,s,,75,18,FALSE
+Embankment (nn),Embankment,180,250,n,s,75.3,75,n,,75,18,FALSE
+Embankment (ns),Embankment,180,250,n,s,75.4,75,s,,75,18,FALSE
+Embankment (rde),Embankment,180,250,"r,d",s,75.5,75,e,,75,18,FALSE
+Embankment (rdw),Embankment,180,250,"r,d",s,75.6,75,w,,75,18,FALSE
+Epping,Epping (cw),180,250,c,s,76,76.2,,w,76,3,FALSE
+Epping (ce),Epping,180,250,c,s,76.1,76,e,,76,3,FALSE
+Euston,Euston (nn1),180,250,n,s,77,77.1,,1,77,20,FALSE
+Euston,Euston (nn2),180,250,n,s,77,77.2,,2,77,20,FALSE
+Euston,Euston (ns1),180,250,n,s,77,77.3,,1,77,20,FALSE
+Euston,Euston (ns2),180,250,n,s,77,77.4,,2,77,20,FALSE
+Euston,Euston (vn),180,250,v,s,77,77.5,,n,77,20,FALSE
+Euston,Euston (vs),180,250,v,s,77,77.6,,s,77,20,FALSE
+Euston (nn1),Euston,180,250,n,s,77.1,77,1,,77,20,FALSE
+Euston (nn2),Euston,180,250,n,s,77.2,77,2,,77,20,FALSE
+Euston (ns1),Euston,180,250,n,s,77.3,77,1,,77,20,FALSE
+Euston (ns2),Euston,180,250,n,s,77.4,77,2,,77,20,FALSE
+Euston (vn),Euston,180,250,v,s,77.5,77,n,,77,20,FALSE
+Euston (vs),Euston,180,250,v,s,77.6,77,s,,77,20,FALSE
+Euston Square,Euston Square (rhme),180,250,"r,h,m",s,78,78.1,,e,78,8,FALSE
+Euston Square,Euston Square (rhmw),180,250,"r,h,m",s,78,78.2,,w,78,8,FALSE
+Euston Square (rhme),Euston Square,180,250,"r,h,m",s,78.1,78,e,,78,8,FALSE
+Euston Square (rhmw),Euston Square,180,250,"r,h,m",s,78.2,78,w,,78,8,FALSE
+Fairlop,Fairlop (ce),180,250,c,s,79,79.1,,e,79,6,TRUE
+Fairlop,Fairlop (cw),180,250,c,s,79,79.2,,w,79,6,TRUE
+Fairlop (ce),Fairlop,180,250,c,s,79.1,79,e,,79,6,TRUE
+Fairlop (cw),Fairlop,180,250,c,s,79.2,79,w,,79,6,TRUE
+Farringdon,Farringdon (rhme),180,250,"r,h,m",s,80,80.1,,e,80,6,TRUE
+Farringdon,Farringdon (rhmw),180,250,"r,h,m",s,80,80.2,,w,80,6,TRUE
+Farringdon (rhme),Farringdon,180,250,"r,h,m",s,80.1,80,e,,80,6,TRUE
+Farringdon (rhmw),Farringdon,180,250,"r,h,m",s,80.2,80,w,,80,6,TRUE
+Finchley Central,Finchley Central (nn),180,250,n,s,81,81.1,,n,81,7,FALSE
+Finchley Central,Finchley Central (ns),180,250,n,s,81,81.2,,s,81,7,FALSE
+Finchley Central (nn),Finchley Central,180,250,n,s,81.1,81,n,,81,7,FALSE
+Finchley Central (ns),Finchley Central,180,250,n,s,81.2,81,s,,81,7,FALSE
+Finchley Road,Finchley Road (je),180,250,j,s,82,82.1,,e,82,12,FALSE
+Finchley Road,Finchley Road (jw),180,250,j,s,82,82.2,,w,82,12,FALSE
+Finchley Road,Finchley Road (mn),180,250,m,s,82,82.3,,n,82,12,FALSE
+Finchley Road,Finchley Road (ms),180,250,m,s,82,82.4,,s,82,12,FALSE
+Finchley Road (je),Finchley Road,180,250,j,s,82.1,82,e,,82,12,FALSE
+Finchley Road (jw),Finchley Road,180,250,j,s,82.2,82,w,,82,12,FALSE
+Finchley Road (mn),Finchley Road,180,250,m,s,82.3,82,n,,82,12,FALSE
+Finchley Road (ms),Finchley Road,180,250,m,s,82.4,82,s,,82,12,FALSE
+Finsbury Park,Finsbury Park (pe),180,250,p,s,83,83.1,,e,83,12,FALSE
+Finsbury Park,Finsbury Park (pw),180,250,p,s,83,83.2,,w,83,12,FALSE
+Finsbury Park,Finsbury Park (vn),180,250,v,s,83,83.3,,n,83,12,FALSE
+Finsbury Park,Finsbury Park (vs),180,250,v,s,83,83.4,,s,83,12,FALSE
+Finsbury Park (pe),Finsbury Park,180,250,p,s,83.1,83,e,,83,12,FALSE
+Finsbury Park (pw),Finsbury Park,180,250,p,s,83.2,83,w,,83,12,FALSE
+Finsbury Park (vn),Finsbury Park,180,250,v,s,83.3,83,n,,83,12,FALSE
+Finsbury Park (vs),Finsbury Park,180,250,v,s,83.4,83,s,,83,12,FALSE
+Fulham Broadway,Fulham Broadway (de),180,250,d,s,84,84.1,,e,84,6,TRUE
+Fulham Broadway,Fulham Broadway (dw),180,250,d,s,84,84.2,,w,84,6,TRUE
+Fulham Broadway (de),Fulham Broadway,180,250,d,s,84.1,84,e,,84,6,TRUE
+Fulham Broadway (dw),Fulham Broadway,180,250,d,s,84.2,84,w,,84,6,TRUE
+Gants Hill,Gants Hill (ce),180,250,c,s,85,85.1,,e,85,6,TRUE
+Gants Hill,Gants Hill (cw),180,250,c,s,85,85.2,,w,85,6,TRUE
+Gants Hill (ce),Gants Hill,180,250,c,s,85.1,85,e,,85,6,TRUE
+Gants Hill (cw),Gants Hill,180,250,c,s,85.2,85,w,,85,6,TRUE
+Gloucester Road,Gloucester Road (pe),180,250,p,s,86,86.1,,e,86,13,FALSE
+Gloucester Road,Gloucester Road (pw),180,250,p,s,86,86.2,,w,86,13,FALSE
+Gloucester Road,Gloucester Road (rde),180,250,"r,d",s,86,86.3,,e,86,13,FALSE
+Gloucester Road,Gloucester Road (rdw),180,250,"r,d",s,86,86.4,,w,86,13,FALSE
+Gloucester Road (pe),Gloucester Road,180,250,p,s,86.1,86,e,,86,13,FALSE
+Gloucester Road (pw),Gloucester Road,180,250,p,s,86.2,86,w,,86,13,FALSE
+Gloucester Road (rde),Gloucester Road,180,250,"r,d",s,86.3,86,e,,86,13,FALSE
+Gloucester Road (rdw),Gloucester Road,180,250,"r,d",s,86.4,86,w,,86,13,FALSE
+Golders Green,Golders Green (nn),180,250,n,s,87,87.1,,n,87,6,TRUE
+Golders Green,Golders Green (ns),180,250,n,s,87,87.2,,s,87,6,TRUE
+Golders Green (nn),Golders Green,180,250,n,s,87.1,87,n,,87,6,TRUE
+Golders Green (ns),Golders Green,180,250,n,s,87.2,87,s,,87,6,TRUE
+Goldhawk Road,Goldhawk Road (rhe),180,250,"r,h",s,88,88.1,,e,88,6,TRUE
+Goldhawk Road,Goldhawk Road (rhw),180,250,"r,h",s,88,88.2,,w,88,6,TRUE
+Goldhawk Road (rhe),Goldhawk Road,180,250,"r,h",s,88.1,88,e,,88,6,TRUE
+Goldhawk Road (rhw),Goldhawk Road,180,250,"r,h",s,88.2,88,w,,88,6,TRUE
+Goodge Street,Goodge Street (nn),180,250,n,s,89,89.1,,n,89,6,TRUE
+Goodge Street,Goodge Street (ns),180,250,n,s,89,89.2,,s,89,6,TRUE
+Goodge Street (nn),Goodge Street,180,250,n,s,89.1,89,n,,89,6,TRUE
+Goodge Street (ns),Goodge Street,180,250,n,s,89.2,89,s,,89,6,TRUE
+Grange Hill,Grange Hill (ce),180,250,c,s,90,90.1,,e,90,6,TRUE
+Grange Hill,Grange Hill (cw),180,250,c,s,90,90.2,,w,90,6,TRUE
+Grange Hill (ce),Grange Hill,180,250,c,s,90.1,90,e,,90,6,TRUE
+Grange Hill (cw),Grange Hill,180,250,c,s,90.2,90,w,,90,6,TRUE
+Great Portland Street,Great Portland Street (rhme),180,250,"r,h,m",s,91,91.1,,e,91,7,FALSE
+Great Portland Street,Great Portland Street (rhmw),180,250,"r,h,m",s,91,91.2,,w,91,7,FALSE
+Great Portland Street (rhme),Great Portland Street,180,250,"r,h,m",s,91.1,91,e,,91,7,FALSE
+Great Portland Street (rhmw),Great Portland Street,180,250,"r,h,m",s,91.2,91,w,,91,7,FALSE
+Green Park,Green Park (je),180,250,j,s,92,92.1,,e,92,18,FALSE
+Green Park,Green Park (jw),180,250,j,s,92,92.2,,w,92,18,FALSE
+Green Park,Green Park (pe),180,250,p,s,92,92.3,,e,92,18,FALSE
+Green Park,Green Park (pw),180,250,p,s,92,92.4,,w,92,18,FALSE
+Green Park,Green Park (vn),180,250,v,s,92,92.5,,n,92,18,FALSE
+Green Park,Green Park (vs),180,250,v,s,92,92.6,,s,92,18,FALSE
+Green Park (je),Green Park,180,250,j,s,92.1,92,e,,92,18,FALSE
+Green Park (jw),Green Park,180,250,j,s,92.2,92,w,,92,18,FALSE
+Green Park (pe),Green Park,180,250,p,s,92.3,92,e,,92,18,FALSE
+Green Park (pw),Green Park,180,250,p,s,92.4,92,w,,92,18,FALSE
+Green Park (vn),Green Park,180,250,v,s,92.5,92,n,,92,18,FALSE
+Green Park (vs),Green Park,180,250,v,s,92.6,92,s,,92,18,FALSE
+Greenford,Greenford (ce),180,250,c,s,93,93.1,,e,93,6,TRUE
+Greenford,Greenford (cw),180,250,c,s,93,93.2,,w,93,6,TRUE
+Greenford (ce),Greenford,180,250,c,s,93.1,93,e,,93,6,TRUE
+Greenford (cw),Greenford,180,250,c,s,93.2,93,w,,93,6,TRUE
+Gunnersbury,Gunnersbury (de),180,250,d,s,94,94.1,,e,94,6,TRUE
+Gunnersbury,Gunnersbury (dw),180,250,d,s,94,94.2,,w,94,6,TRUE
+Gunnersbury (de),Gunnersbury,180,250,d,s,94.1,94,e,,94,6,TRUE
+Gunnersbury (dw),Gunnersbury,180,250,d,s,94.2,94,w,,94,6,TRUE
+Hainault,Hainault (ce),180,250,c,s,95,95.1,,e,95,6,TRUE
+Hainault,Hainault (cw),180,250,c,s,95,95.2,,w,95,6,TRUE
+Hainault (ce),Hainault,180,250,c,s,95.1,95,e,,95,6,TRUE
+Hainault (cw),Hainault,180,250,c,s,95.2,95,w,,95,6,TRUE
+Hammersmith (DP),Hammersmith (DP) (pe),180,250,p,s,96,96.3,,e,96,12,FALSE
+Hammersmith (DP),Hammersmith (DP) (pw),180,250,p,s,96,96.4,,w,96,12,FALSE
+Hammersmith (DP),Hammersmith (DP) (de),180,250,d,s,96,96.1,,e,96,12,FALSE
+Hammersmith (DP),Hammersmith (DP) (dw),180,250,d,s,96,96.2,,w,96,12,FALSE
+Hammersmith (DP) (de),Hammersmith (DP),180,250,d,s,96.1,96,e,,96,12,FALSE
+Hammersmith (DP) (dw),Hammersmith (DP),180,250,d,s,96.2,96,w,,96,12,FALSE
+Hammersmith (DP) (pe),Hammersmith (DP),180,250,p,s,96.3,96,e,,96,12,FALSE
+Hammersmith (DP) (pw),Hammersmith (DP),180,250,p,s,96.4,96,w,,96,12,FALSE
+Hammersmith (RH),Hammersmith (RH) (rhe),180,250,"r,h",s,97,97.1,,e,97,3,FALSE
+Hammersmith (RH) (rhw),Hammersmith (RH),180,250,"r,h",s,97.2,97,w,,97,3,FALSE
+Hampstead,Hampstead (nn),180,250,n,s,98,98.1,,n,98,6,TRUE
+Hampstead,Hampstead (ns),180,250,n,s,98,98.2,,s,98,6,TRUE
+Hampstead (nn),Hampstead,180,250,n,s,98.1,98,n,,98,6,TRUE
+Hampstead (ns),Hampstead,180,250,n,s,98.2,98,s,,98,6,TRUE
+Hanger Lane,Hanger Lane (ce),180,250,c,s,99,99.1,,e,99,8,FALSE
+Hanger Lane,Hanger Lane (cw),180,250,c,s,99,99.2,,w,99,8,FALSE
+Hanger Lane (ce),Hanger Lane,180,250,c,s,99.1,99,e,,99,8,FALSE
+Hanger Lane (cw),Hanger Lane,180,250,c,s,99.2,99,w,,99,8,FALSE
+Harlesden,Harlesden (bn),180,250,b,s,100,100.1,,n,100,6,TRUE
+Harlesden,Harlesden (bs),180,250,b,s,100,100.2,,s,100,6,TRUE
+Harlesden (bn),Harlesden,180,250,b,s,100.1,100,n,,100,6,TRUE
+Harlesden (bs),Harlesden,180,250,b,s,100.2,100,s,,100,6,TRUE
+Harrow & Wealdstone,Harrow & Wealdstone (bs),180,250,b,s,101,101.2,,s,101,3,FALSE
+Harrow & Wealdstone (bn),Harrow & Wealdstone,180,250,b,s,101.1,101,n,,101,3,FALSE
+Harrow-on-the-Hill,Harrow-on-the-Hill (mn),180,250,m,s,102,102.1,,n,102,7,FALSE
+Harrow-on-the-Hill,Harrow-on-the-Hill (ms),180,250,m,s,102,102.2,,s,102,7,FALSE
+Harrow-on-the-Hill (mn),Harrow-on-the-Hill,180,250,m,s,102.1,102,n,,102,7,FALSE
+Harrow-on-the-Hill (ms),Harrow-on-the-Hill,180,250,m,s,102.2,102,s,,102,7,FALSE
+Hatton Cross,Hatton Cross (pe),180,250,p,s,103,103.1,,e,103,7,FALSE
+Hatton Cross,Hatton Cross (pw),180,250,p,s,103,103.2,,w,103,7,FALSE
+Hatton Cross (pe),Hatton Cross,180,250,p,s,103.1,103,e,,103,7,FALSE
+Hatton Cross (pw),Hatton Cross,180,250,p,s,103.2,103,w,,103,7,FALSE
+Heathrow Terminal 4,Heathrow Terminal 4 (pe),180,250,p,s,104,104.1,,e,104,3,FALSE
+Heathrow Terminal 4 (pw),Heathrow Terminal 4,180,250,p,s,104.2,104,w,,104,3,FALSE
+Heathrow Terminal 5,Heathrow Terminal 5 (pe),180,250,p,s,105,105.1,,e,105,3,FALSE
+Heathrow Terminal 5 (pw),Heathrow Terminal 5,180,250,p,s,105.2,105,w,,105,3,FALSE
+Heathrow Terminals 2 & 3,Heathrow Terminals 2 & 3 (pe),180,250,p,s,106,106.1,,e,106,6,TRUE
+Heathrow Terminals 2 & 3,Heathrow Terminals 2 & 3 (pw),180,250,p,s,106,106.2,,w,106,6,TRUE
+Heathrow Terminals 2 & 3 (pe),Heathrow Terminals 2 & 3,180,250,p,s,106.1,106,e,,106,6,TRUE
+Heathrow Terminals 2 & 3 (pw),Heathrow Terminals 2 & 3,180,250,p,s,106.2,106,w,,106,6,TRUE
+Hendon Central,Hendon Central (nn),180,250,n,s,107,107.1,,n,107,6,TRUE
+Hendon Central,Hendon Central (ns),180,250,n,s,107,107.2,,s,107,6,TRUE
+Hendon Central (nn),Hendon Central,180,250,n,s,107.1,107,n,,107,6,TRUE
+Hendon Central (ns),Hendon Central,180,250,n,s,107.2,107,s,,107,6,TRUE
+High Barnet,High Barnet (ns),180,250,n,s,108,108.2,,s,108,4,FALSE
+High Barnet (nn),High Barnet,180,250,n,s,108.1,108,n,,108,4,FALSE
+High Street Kensington,High Street Kensington (rde),180,250,"r,d",s,109,109.1,,e,109,7,FALSE
+High Street Kensington,High Street Kensington (rdw),180,250,"r,d",s,109,109.2,,w,109,7,FALSE
+High Street Kensington (rde),High Street Kensington,180,250,"r,d",s,109.1,109,e,,109,7,FALSE
+High Street Kensington (rdw),High Street Kensington,180,250,"r,d",s,109.2,109,w,,109,7,FALSE
+Highbury & Islington,Highbury & Islington (vn),180,250,v,s,110,110.1,,n,110,6,TRUE
+Highbury & Islington,Highbury & Islington (vs),180,250,v,s,110,110.1,,s,110,6,TRUE
+Highbury & Islington (vn),Highbury & Islington,180,250,v,s,110.1,110,n,,110,6,TRUE
+Highbury & Islington (vs),Highbury & Islington,180,250,v,s,110.1,110,s,,110,6,TRUE
+Highgate,Highgate (nn),180,250,n,s,111,111.1,,n,111,7,FALSE
+Highgate,Highgate (ns),180,250,n,s ,111,111.2,,s,111,7,FALSE
+Highgate (nn),Highgate,180,250,n,s,111.1,111,n,,111,7,FALSE
+Highgate (ns),Highgate,180,250,n,s,111.2,111,s,,111,7,FALSE
+Hillingdon,Hillingdon (mpn),180,250,m,s,112,112.1,,n,112,6,TRUE
+Hillingdon,Hillingdon (mps),180,250,m,s,112,112.2,,s,112,6,TRUE
+Hillingdon (mpn),Hillingdon,180,250,m,s,112.1,112,n,,112,6,TRUE
+Hillingdon (mps),Hillingdon,180,250,m,s,112.2,112,s,,112,6,TRUE
+Holborn,Holborn (ce),180,250,c,s,113,113.1,,e,113,12,FALSE
+Holborn,Holborn (cw),180,250,c,s,113,113.2,,w,113,12,FALSE
+Holborn,Holborn (pe),180,250,p,s,113,113.3,,e,113,12,FALSE
+Holborn,Holborn (pw),180,250,p,s,113,113.4,,w,113,12,FALSE
+Holborn (ce),Holborn,180,250,c,s,113.1,113,e,,113,12,FALSE
+Holborn (cw),Holborn,180,250,c,s,113.2,113,w,,113,12,FALSE
+Holborn (pe),Holborn,180,250,p,s,113.3,113,e,,113,12,FALSE
+Holborn (pw),Holborn,180,250,p,s,113.4,113,w,,113,12,FALSE
+Holland Park,Holland Park (ce),180,250,c,s,114,114.1,,e,114,6,TRUE
+Holland Park,Holland Park (cw),180,250,c,s,114,114.2,,w,114,6,TRUE
+Holland Park (ce),Holland Park,180,250,c,s,114.1,114,e,,114,6,TRUE
+Holland Park (cw),Holland Park,180,250,c,s,114.2,114,w,,114,6,TRUE
+Holloway Road,Holloway Road (pe),180,250,p,s,115,115.1,,e,115,6,TRUE
+Holloway Road,Holloway Road (pw),180,250,p,s,115,115.2,,w,115,6,TRUE
+Holloway Road (pe),Holloway Road,180,250,p,s,115.1,115,e,,115,6,TRUE
+Holloway Road (pw),Holloway Road,180,250,p,s,115.2,115,w,,115,6,TRUE
+Hornchurch,Hornchurch (de),180,250,d,s,116,116.1,,e,116,6,TRUE
+Hornchurch,Hornchurch (dw),180,250,d,s,116,116.2,,w,116,6,TRUE
+Hornchurch (de),Hornchurch,180,250,d,s,116.1,116,e,,116,6,TRUE
+Hornchurch (dw),Hornchurch,180,250,d,s,116.2,116,w,,116,6,TRUE
+Hounslow Central,Hounslow Central (pe),180,250,p,s,117,117.1,,e,117,6,TRUE
+Hounslow Central,Hounslow Central (pw),180,250,p,s,117,117.2,,w,117,6,TRUE
+Hounslow Central (pe),Hounslow Central,180,250,p,s,117.1,117,e,,117,6,TRUE
+Hounslow Central (pw),Hounslow Central,180,250,p,s,117.2,117,w,,117,6,TRUE
+Hounslow East,Hounslow East (pe),180,250,p,s,118,118.1,,e,118,6,TRUE
+Hounslow East,Hounslow East (pw),180,250,p,s,118,118.2,,w,118,6,TRUE
+Hounslow East (pe),Hounslow East,180,250,p,s,118.1,118,e,,118,6,TRUE
+Hounslow East (pw),Hounslow East,180,250,p,s,118.2,118,w,,118,6,TRUE
+Hounslow West,Hounslow West (pe),180,250,p,s,119,119.1,,e,119,6,TRUE
+Hounslow West,Hounslow West (pw),180,250,p,s,119,119.2,,w,119,6,TRUE
+Hounslow West (pe),Hounslow West,180,250,p,s,119.1,119,e,,119,6,TRUE
+Hounslow West (pw),Hounslow West,180,250,p,s,119.2,119,w,,119,6,TRUE
+Hyde Park Corner,Hyde Park Corner (pe),180,250,p,s,120,120.1,,e,120,6,TRUE
+Hyde Park Corner,Hyde Park Corner (pw),180,250,p,s,120,120.2,,w,120,6,TRUE
+Hyde Park Corner (pe),Hyde Park Corner,180,250,p,s,120.1,120,e,,120,6,TRUE
+Hyde Park Corner (pw),Hyde Park Corner,180,250,p,s,120.2,120,w,,120,6,TRUE
+Ickenham,Ickenham (mpn),180,250,m,s,121,121.1,,n,121,7,FALSE
+Ickenham,Ickenham (mps),180,250,m,s,121,121.2,,s,121,7,FALSE
+Ickenham (mpn),Ickenham,180,250,m,s,121.1,121,n,,121,7,FALSE
+Ickenham (mps),Ickenham,180,250,m,s,121.2,121,s,,121,7,FALSE
+Kennington,Kennington (nn),180,250,n,s,122,122.1,,n,122,8,FALSE
+Kennington,Kennington (ns),180,250,n,s,122,122.2,,s,122,8,FALSE
+Kennington (nn),Kennington,180,250,n,s,122.1,122,n,,122,8,FALSE
+Kennington (ns),Kennington,180,250,n,s,122.2,122,s,,122,8,FALSE
+Kensal Green,Kensal Green (bn),180,250,b,s,123,123.1,,n,123,6,TRUE
+Kensal Green,Kensal Green (bs),180,250,b,s,123,123.2,,s,123,6,TRUE
+Kensal Green (bn),Kensal Green,180,250,b,s,123.1,123,n,,123,6,TRUE
+Kensal Green (bs),Kensal Green,180,250,b,s,123.2,123,s,,123,6,TRUE
+Kensington (Olympia),Kensington (Olympia) (de),180,250,b,s,124,124.1,a,e,124,5,FALSE
+Kensington (Olympia) (dw),Kensington (Olympia),180,250,b,s,124.2,124,w,a,124,5,FALSE
+Kentish Town,Kentish Town (nn),180,250,n,s,125,125.1,,n,125,6,TRUE
+Kentish Town,Kentish Town (ns),180,250,n,s,125,125.2,,s,125,6,TRUE
+Kentish Town (nn),Kentish Town,180,250,n,s,125.1,125,n,,125,6,TRUE
+Kentish Town (ns),Kentish Town,180,250,n,s,125.2,125,s,,125,6,TRUE
+Kenton,Kenton (bn),180,250,b,s,126,126.1,,n,126,8,FALSE
+Kenton,Kenton (bs),180,250,b,s,126,126.2,,s,126,8,FALSE
+Kenton (bn),Kenton,180,250,b,s,126.1,126,n,,126,8,FALSE
+Kenton (bs),Kenton,180,250,b,s,126.2,126,s,,126,8,FALSE
+Kew Gardens,Kew Gardens (de),180,250,d,s,127,127.1,,e,127,6,TRUE
+Kew Gardens,Kew Gardens (dw),180,250,d,s,127,127.2,,w,127,6,TRUE
+Kew Gardens (de),Kew Gardens,180,250,d,s,127.1,127,e,,127,6,TRUE
+Kew Gardens (dw),Kew Gardens,180,250,d,s,127.2,127,w,,127,6,TRUE
+Kilburn,Kilburn (je),180,250,j,s,128,128.1,,e,128,6,TRUE
+Kilburn,Kilburn (jw),180,250,j,s,128,128.2,,w,128,6,TRUE
+Kilburn (je),Kilburn,180,250,j,s,128.1,128,e,,128,6,TRUE
+Kilburn (jw),Kilburn,180,250,j,s,128.2,128,w,,128,6,TRUE
+Kilburn Park,Kilburn Park (bn),180,250,b,s,129,129.1,,n,129,6,TRUE
+Kilburn Park,Kilburn Park (bs),180,250,b,s,129,129.2,,s,129,6,TRUE
+Kilburn Park (bn),Kilburn Park,180,250,b,s,129.1,129,n,,129,6,TRUE
+Kilburn Park (bs),Kilburn Park,180,250,b,s,129.2,129,s,,129,6,TRUE
+Kings Cross St Pancras,Kings Cross St Pancras (nn),180,250,n,s,130,130.1,,n,130,24,FALSE
+Kings Cross St Pancras,Kings Cross St Pancras (ns),180,250,n,s,130,130.2,,s,130,24,FALSE
+Kings Cross St Pancras,Kings Cross St Pancras (rhme),180,250,"r,h,m",s,130,130.5,,e,130,24,FALSE
+Kings Cross St Pancras,Kings Cross St Pancras (rhmw),180,250,"r,h,m",s,130,130.6,,w,130,24,FALSE
+Kings Cross St Pancras,Kings Cross St Pancras (pe),180,250,p,s,130,130.3,,e,130,24,FALSE
+Kings Cross St Pancras,Kings Cross St Pancras (pw),180,250,p,s,130,130.4,,w,130,24,FALSE
+Kings Cross St Pancras,Kings Cross St Pancras (vn),180,250,v,s,130,130.7,,n,130,24,FALSE
+Kings Cross St Pancras,Kings Cross St Pancras (vs),180,250,v,s,130,130.8,,s,130,24,FALSE
+Kings Cross St Pancras (nn),Kings Cross St Pancras,180,250,n,s,130.1,130,n,,130,24,FALSE
+Kings Cross St Pancras (ns),Kings Cross St Pancras,180,250,n,s,130.2,130,s,,130,24,FALSE
+Kings Cross St Pancras (rhme),Kings Cross St Pancras,180,250,"r,h,m",s,130.5,130,e,,130,24,FALSE
+Kings Cross St Pancras (rhmw),Kings Cross St Pancras,180,250,"r,h,m",s,130.6,130,w,,130,24,FALSE
+Kings Cross St Pancras (pe),Kings Cross St Pancras,180,250,p,s,130.3,130,e,,130,24,FALSE
+Kings Cross St Pancras (pw),Kings Cross St Pancras,180,250,p,s,130.4,130,w,,130,24,FALSE
+Kings Cross St Pancras (vn),Kings Cross St Pancras,180,250,v,s,130.7,130,n,,130,24,FALSE
+Kings Cross St Pancras (vs),Kings Cross St Pancras,180,250,v,s,130.8,130,s,,130,24,FALSE
+Kingsbury,Kingsbury (je),180,250,j,s,131,131.1,,e,131,6,TRUE
+Kingsbury,Kingsbury (jw),180,250,j,s,131,131.2,,w,131,6,TRUE
+Kingsbury (je),Kingsbury,180,250,j,s,131.1,131,e,,131,6,TRUE
+Kingsbury (jw),Kingsbury,180,250,j,s,131.2,131,w,,131,6,TRUE
+Knightsbridge,Knightsbridge (pe),180,250,p,s,132,132.1,,e,132,6,TRUE
+Knightsbridge,Knightsbridge (pw),180,250,p,s,132,132.2,,w,132,6,TRUE
+Knightsbridge (pe),Knightsbridge,180,250,p,s,132.1,132,e,,132,6,TRUE
+Knightsbridge (pw),Knightsbridge,180,250,p,s,132.2,132,w,,132,6,TRUE
+Ladbroke Grove,Ladbroke Grove (rhe),180,250,"r,h",s,133,133.1,,e,133,6,TRUE
+Ladbroke Grove,Ladbroke Grove (rhw),180,250,"r,h",s,133,133.2,,w,133,6,TRUE
+Ladbroke Grove (rhe),Ladbroke Grove,180,250,"r,h",s,133.1,133,e,,133,6,TRUE
+Ladbroke Grove (rhw),Ladbroke Grove,180,250,"r,h",s,133.2,133,w,,133,6,TRUE
+Lambeth North,Lambeth North (bn),180,250,b,s,134,134.1,,n,134,6,TRUE
+Lambeth North,Lambeth North (bs),180,250,b,s,134,134.2,,s,134,6,TRUE
+Lambeth North (bn),Lambeth North,180,250,b,s,134.1,134,n,,134,6,TRUE
+Lambeth North (bs),Lambeth North,180,250,b,s,134.2,134,s,,134,6,TRUE
+Lancaster Gate,Lancaster Gate (ce),180,250,c,s,135,135.1,,e,135,6,TRUE
+Lancaster Gate,Lancaster Gate (cw),180,250,c,s,135,135.2,,w,135,6,TRUE
+Lancaster Gate (ce),Lancaster Gate,180,250,c,s,135.1,135,e,,135,6,TRUE
+Lancaster Gate (cw),Lancaster Gate,180,250,c,s,135.2,135,w,,135,6,TRUE
+Latimer Road,Latimer Road (rhe),180,250,"r,h",s,136,136.1,,e,136,6,TRUE
+Latimer Road,Latimer Road (rhw),180,250,"r,h",s,136,136.2,,w,136,6,TRUE
+Latimer Road (rhe),Latimer Road,180,250,"r,h",s,136.1,136,e,,136,6,TRUE
+Latimer Road (rhw),Latimer Road,180,250,"r,h",s,136.2,136,w,,136,6,TRUE
+Leicester Square,Leicester Square (nn),180,250,n,s,137,137.1,,n,137,12,FALSE
+Leicester Square,Leicester Square (ns),180,250,n,s,137,137.2,,s,137,12,FALSE
+Leicester Square,Leicester Square (pe),180,250,p,s,137,137.3,,e,137,12,FALSE
+Leicester Square,Leicester Square (pw),180,250,p,s,137,137.3,,w,137,12,FALSE
+Leicester Square (nn),Leicester Square,180,250,n,s,137.1,137,n,,137,12,FALSE
+Leicester Square (ns),Leicester Square,180,250,n,s,137.2,137,s,,137,12,FALSE
+Leicester Square (pe),Leicester Square,180,250,p,s,137.3,137,e,,137,12,FALSE
+Leicester Square (pw),Leicester Square,180,250,p,s,137.3,137,w,,137,12,FALSE
+Leyton,Leyton (ce),180,250,c,s,138,138.1,,e,138,6,TRUE
+Leyton,Leyton (cw),180,250,c,s,138,138.2,,w,138,6,TRUE
+Leyton (ce),Leyton,180,250,c,s,138.1,138,e,,138,6,TRUE
+Leyton (cw),Leyton,180,250,c,s,138.2,138,w,,138,6,TRUE
+Leytonstone,Leytonstone (ce),180,250,c,s,139,139.1,,e,139,7,FALSE
+Leytonstone,Leytonstone (cw),180,250,c,s,139,139.2,,w,139,7,FALSE
+Leytonstone (ce),Leytonstone,180,250,c,s,139.1,139,e,,139,7,FALSE
+Leytonstone (cw),Leytonstone,180,250,c,s,139.2,139,w,,139,7,FALSE
+Liverpool Street,Liverpool Street (ce),180,250,c,s,140,140.1,,e,140,13,FALSE
+Liverpool Street,Liverpool Street (cw),180,250,c,s,140,140.2,,w,140,13,FALSE
+Liverpool Street,Liverpool Street (rhme),180,250,"r,h,m",s,140,140.3,,e,140,13,FALSE
+Liverpool Street,Liverpool Street (rhmw),180,250,"r,h,m",s,140,140.4,,w,140,13,FALSE
+Liverpool Street (ce),Liverpool Street,180,250,c,s,140.1,140,e,,140,13,FALSE
+Liverpool Street (cw),Liverpool Street,180,250,c,s,140.2,140,w,,140,13,FALSE
+Liverpool Street (rhme),Liverpool Street,180,250,"r,h,m",s,140.3,140,e,,140,13,FALSE
+Liverpool Street (rhmw),Liverpool Street,180,250,"r,h,m",s,140.4,140,w,,140,13,FALSE
+London Bridge,London Bridge (je),180,250,j,s,141,141.1,,e,141,12,FALSE
+London Bridge,London Bridge (jw),180,250,j,s,141,141.2,,w,141,12,FALSE
+London Bridge,London Bridge (nn),180,250,n,s,141,141.3,,n,141,12,FALSE
+London Bridge,London Bridge (ns),180,250,n,s,141,141.4,,s,141,12,FALSE
+London Bridge (je),London Bridge,180,250,j,s,141.1,141,e,,141,12,FALSE
+London Bridge (jw),London Bridge,180,250,j,s,141.2,141,w,,141,12,FALSE
+London Bridge (nn),London Bridge,180,250,n,s,141.3,141,n,,141,12,FALSE
+London Bridge (ns),London Bridge,180,250,n,s,141.4,141,s,,141,12,FALSE
+Loughton,Loughton (ce),180,250,c,s,142,142.1,,e,142,6,TRUE
+Loughton,Loughton (cw),180,250,c,s,142,142.2,,w,142,6,TRUE
+Loughton (ce),Loughton,180,250,c,s,142.1,142,e,,142,6,TRUE
+Loughton (cw),Loughton,180,250,c,s,142.2,142,w,,142,6,TRUE
+Maida Vale,Maida Vale (bn),180,250,b,s,143,143.1,,n,143,6,TRUE
+Maida Vale,Maida Vale (bs),180,250,b,s,143,143.3,,s,143,6,TRUE
+Maida Vale (bn),Maida Vale,180,250,b,s,143.1,143,n,,143,6,TRUE
+Maida Vale (bs),Maida Vale,180,250,b,s,143.3,143,s,,143,6,TRUE
+Manor House,Manor House (pe),180,250,p,s,144,144.1,,e,144,6,TRUE
+Manor House,Manor House (pw),180,250,p,s,144,144.2,,w,144,6,TRUE
+Manor House (pe),Manor House,180,250,p,s,144.1,144,e,,144,6,TRUE
+Manor House (pw),Manor House,180,250,p,s,144.2,144,w,,144,6,TRUE
+Mansion House,Mansion House (rde),180,250,"r,d",s,145,145.1,,e,145,6,TRUE
+Mansion House,Mansion House (rdw),180,250,"r,d",s,145,145.2,,w,145,6,TRUE
+Mansion House (rde),Mansion House,180,250,"r,d",s,145.1,145,e,,145,6,TRUE
+Mansion House (rdw),Mansion House,180,250,"r,d",s,145.2,145,w,,145,6,TRUE
+Marble Arch,Marble Arch (ce),180,250,c,s,146,146.1,,e,146,6,TRUE
+Marble Arch,Marble Arch (cw),180,250,c,s,146,146.2,,w,146,6,TRUE
+Marble Arch (ce),Marble Arch,180,250,c,s,146.1,146,e,,146,6,TRUE
+Marble Arch (cw),Marble Arch,180,250,c,s,146.2,146,w,,146,6,TRUE
+Marylebone,Marylebone (bn),180,250,b,s,147,147.1,,n,147,6,TRUE
+Marylebone,Marylebone (bs),180,250,b,s,147,147.2,,s,147,6,TRUE
+Marylebone (bn),Marylebone,180,250,b,s,147.1,147,n,,147,6,TRUE
+Marylebone (bs),Marylebone,180,250,b,s,147.2,147,s,,147,6,TRUE
+Mile End,Mile End (ce),180,250,c,s,148,148.1,,e,148,12,FALSE
+Mile End,Mile End (cw),180,250,c,s,148,148.2,,w,148,12,FALSE
+Mile End,Mile End (dhe),180,250,"d,h",s,148,148.3,,e,148,12,FALSE
+Mile End,Mile End (dhw),180,250,"d,h",s,148,148.4,,w,148,12,FALSE
+Mile End (ce),Mile End,180,250,c,s,148.1,148,e,,148,12,FALSE
+Mile End (cw),Mile End,180,250,c,s,148.2,148,w,,148,12,FALSE
+Mile End (dhe),Mile End,180,250,"d,h",s,148.3,148,e,,148,12,FALSE
+Mile End (dhw),Mile End,180,250,"d,h",s,148.4,148,w,,148,12,FALSE
+Mill Hill East,Mill Hill East (ns),180,250,n,s,149,149.2,,s,149,3,FALSE
+Mill Hill East (nn),Mill Hill East,180,250,n,s,149.1,149,n,,149,3,FALSE
+Monument,Monument (rde),180,250,"r,d",s,150,150.1,,e,150,7,FALSE
+Monument,Monument (rdw),180,250,"r,d",s,150,150.2,,w,150,7,FALSE
+Monument (rde),Monument,180,250,"r,d",s,150.1,150,e,,150,7,FALSE
+Monument (rdw),Monument,180,250,"r,d",s,150.2,150,w,,150,7,FALSE
+Moor Park,Moor Park (mn),180,250,m,s,151,151.1,,n,151,7,FALSE
+Moor Park,Moor Park (ms),180,250,m,s,151,151.2,,s,151,7,FALSE
+Moor Park (mn),Moor Park,180,250,m,s,151.1,151,n,,151,7,FALSE
+Moor Park (ms),Moor Park,180,250,m,s,151.2,151,s,,151,7,FALSE
+Moorgate,Moorgate (nn),180,250,n,s,152,152.1,,n,152,12,FALSE
+Moorgate,Moorgate (ns),180,250,n,s,152,152.2,,s,152,12,FALSE
+Moorgate,Moorgate (rhme),180,250,"r,h,m",s,152,152.3,,e,152,12,FALSE
+Moorgate,Moorgate (rhmw),180,250,"r,h,m",s,152,152.4,,w,152,12,FALSE
+Moorgate (nn),Moorgate,180,250,n,s,152.1,152,n,,152,12,FALSE
+Moorgate (ns),Moorgate,180,250,n,s,152.2,152,s,,152,12,FALSE
+Moorgate (rhme),Moorgate,180,250,"r,h,m",s,152.3,152,e,,152,12,FALSE
+Moorgate (rhmw),Moorgate,180,250,"r,h,m",s,152.4,152,w,,152,12,FALSE
+Morden,Morden (nn),180,250,n,s,153,153.1,,n,153,4,FALSE
+Morden (ns),Morden,180,250,n,s,153.2,153,s,,153,4,FALSE
+Mornington Crescent,Mornington Crescent (nn),180,250,n,s,154,154.1,,n,154,6,TRUE
+Mornington Crescent,Mornington Crescent (ns),180,250,n,s,154,154.2,,s,154,6,TRUE
+Mornington Crescent (nn),Mornington Crescent,180,250,n,s,154.1,154,n,,154,6,TRUE
+Mornington Crescent (ns),Mornington Crescent,180,250,n,s,154.2,154,s,,154,6,TRUE
+Neasden,Neasden (je),180,250,j,s,155,155.1,,e,155,6,TRUE
+Neasden,Neasden (jw),180,250,j,s,155,155.2,,w,155,6,TRUE
+Neasden (je),Neasden,180,250,j,s,155.1,155,e,,155,6,TRUE
+Neasden (jw),Neasden,180,250,j,s,155.2,155,w,,155,6,TRUE
+Newbury Park,Newbury Park (ce),180,250,c,s,156,156.1,,e,156,6,TRUE
+Newbury Park,Newbury Park (cw),180,250,c,s,156,156.2,,w,156,6,TRUE
+Newbury Park (ce),Newbury Park,180,250,c,s,156.1,156,e,,156,6,TRUE
+Newbury Park (cw),Newbury Park,180,250,c,s,156.2,156,w,,156,6,TRUE
+Nine Elms,Nine Elms (nn),180,250,n,s,157,157.1,,n,157,6,TRUE
+Nine Elms,Nine Elms (ns),180,250,n,s,157,157.2,,s,157,6,TRUE
+Nine Elms (nn),Nine Elms,180,250,n,s,157.1,157,n,,157,6,TRUE
+Nine Elms (ns),Nine Elms,180,250,n,s,157.2,157,s,,157,6,TRUE
+North Acton,North Acton (ce),180,250,c,s,158,158.1,,e,158,7,FALSE
+North Acton,North Acton (cw),180,250,c,s,158,158.2,,w,158,7,FALSE
+North Acton (ce),North Acton,180,250,c,s,158.1,158,e,,158,7,FALSE
+North Acton (cw),North Acton,180,250,c,s,158.2,158,w,,158,7,FALSE
+North Ealing,North Ealing (pe),180,250,p,s,159,159.1,,e,159,6,TRUE
+North Ealing,North Ealing (pw),180,250,p,s,159,159.2,,w,159,6,TRUE
+North Ealing (pe),North Ealing,180,250,p,s,159.1,159,e,,159,6,TRUE
+North Ealing (pw),North Ealing,180,250,p,s,159.2,159,w,,159,6,TRUE
+North Greenwich,North Greenwich (je),180,250,j,s,160,160.1,,e,160,6,TRUE
+North Greenwich,North Greenwich (jw),180,250,j,s,160,160.2,,w,160,6,TRUE
+North Greenwich (je),North Greenwich,180,250,j,s,160.1,160,e,,160,6,TRUE
+North Greenwich (jw),North Greenwich,180,250,j,s,160.2,160,w,,160,6,TRUE
+North Harrow,North Harrow (mn),180,250,m,s,161,161.1,,n,161,7,FALSE
+North Harrow,North Harrow (ms),180,250,m,s,161,161.2,,s,161,7,FALSE
+North Harrow (mn),North Harrow,180,250,m,s,161.1,161,n,,161,7,FALSE
+North Harrow (ms),North Harrow,180,250,m,s,161.2,161,s,,161,7,FALSE
+North Wembley,North Wembley (bn),180,250,b,s,162,162.1,,n,162,6,TRUE
+North Wembley,North Wembley (bs),180,250,b,s,162,162.2,,s,162,6,TRUE
+North Wembley (bn),North Wembley,180,250,b,s,162.1,162,n,,162,6,TRUE
+North Wembley (bs),North Wembley,180,250,b,s,162.2,162,s,,162,6,TRUE
+Northfields,Northfields (pe),180,250,p,s,163,163.1,,e,163,6,TRUE
+Northfields,Northfields (pw),180,250,p,s,163,163.2,,w,163,6,TRUE
+Northfields (pe),Northfields,180,250,p,s,163.1,163,e,,163,6,TRUE
+Northfields (pw),Northfields,180,250,p,s,163.2,163,w,,163,6,TRUE
+Northolt,Northolt (ce),180,250,c,s,164,164.1,,e,164,6,TRUE
+Northolt,Northolt (cw),180,250,c,s,164,164.2,,w,164,6,TRUE
+Northolt (ce),Northolt,180,250,c,s,164.1,164,e,,164,6,TRUE
+Northolt (cw),Northolt,180,250,c,s,164.2,164,w,,164,6,TRUE
+Northwick Park,Northwick Park (mn),180,250,m,s,165,165.1,,n,165,8,FALSE
+Northwick Park,Northwick Park (ms),180,250,m,s,165,165.2,,s,165,8,FALSE
+Northwick Park (mn),Northwick Park,180,250,m,s,165.1,165,n,,165,8,FALSE
+Northwick Park (ms),Northwick Park,180,250,m,s,165.2,165,s,,165,8,FALSE
+Northwood,Northwood (mn),180,250,m,s,166,166.1,,n,166,6,TRUE
+Northwood,Northwood (ms),180,250,m,s,166,166.2,,s,166,6,TRUE
+Northwood (mn),Northwood,180,250,m,s,166.1,166,n,,166,6,TRUE
+Northwood (ms),Northwood,180,250,m,s,166.2,166,s,,166,6,TRUE
+Northwood Hills,Northwood Hills (mn),180,250,m,s,167,167.1,,n,167,6,TRUE
+Northwood Hills,Northwood Hills (ms),180,250,m,s,167,167.2,,s,167,6,TRUE
+Northwood Hills (mn),Northwood Hills,180,250,m,s,167.1,167,n,,167,6,TRUE
+Northwood Hills (ms),Northwood Hills,180,250,m,s,167.2,167,s,,167,6,TRUE
+Notting Hill Gate,Notting Hill Gate (ce),180,250,c,s,168,168.1,,e,168,12,FALSE
+Notting Hill Gate,Notting Hill Gate (cw),180,250,c,s,168,168.2,,w,168,12,FALSE
+Notting Hill Gate,Notting Hill Gate (rde),180,250,"r,d",s,168,168.3,,e,168,12,FALSE
+Notting Hill Gate,Notting Hill Gate (rdw),180,250,"r,d",s,168,168.4,,w,168,12,FALSE
+Notting Hill Gate (ce),Notting Hill Gate,180,250,c,s,168.1,168,e,,168,12,FALSE
+Notting Hill Gate (cw),Notting Hill Gate,180,250,c,s,168.2,168,w,,168,12,FALSE
+Notting Hill Gate (rde),Notting Hill Gate,180,250,"r,d",s,168.3,168,e,,168,12,FALSE
+Notting Hill Gate (rdw),Notting Hill Gate,180,250,"r,d",s,168.4,168,w,,168,12,FALSE
+Oakwood,Oakwood (pe),180,250,p,s,169,169.1,,e,169,6,TRUE
+Oakwood,Oakwood (pw),180,250,p,s,169,169.2,,w,169,6,TRUE
+Oakwood (pe),Oakwood,180,250,p,s,169.1,169,e,,169,6,TRUE
+Oakwood (pw),Oakwood,180,250,p,s,169.2,169,w,,169,6,TRUE
+Old Street,Old Street (nn),180,250,n,s,170,170.1,,n,170,6,TRUE
+Old Street,Old Street (ns),180,250,n,s,170,170.2,,s,170,6,TRUE
+Old Street (nn),Old Street,180,250,n,s,170.1,170,n,,170,6,TRUE
+Old Street (ns),Old Street,180,250,n,s,170.2,170,s,,170,6,TRUE
+Osterley,Osterley (pe),180,250,p,s,171,171.1,,e,171,6,TRUE
+Osterley,Osterley (pw),180,250,p,s,171,171.2,,w,171,6,TRUE
+Osterley (pe),Osterley,180,250,p,s,171.1,171,e,,171,6,TRUE
+Osterley (pw),Osterley,180,250,p,s,171.2,171,w,,171,6,TRUE
+Oval,Oval (nn),180,250,n,s,172,172.1,,n,172,6,TRUE
+Oval,Oval (ns),180,250,n,s,172,172.2,,s,172,6,TRUE
+Oval (nn),Oval,180,250,n,s,172.1,172,n,,172,6,TRUE
+Oval (ns),Oval,180,250,n,s,172.2,172,s,,172,6,TRUE
+Oxford Circus,Oxford Circus (bn),180,250,b,s,173,173.1,,n,173,18,FALSE
+Oxford Circus,Oxford Circus (bs),180,250,b,s,173,173.2,,s,173,18,FALSE
+Oxford Circus,Oxford Circus (ce),180,250,c,s,173,173.3,,e,173,18,FALSE
+Oxford Circus,Oxford Circus (cw),180,250,c,s,173,173.4,,w,173,18,FALSE
+Oxford Circus,Oxford Circus (vn),180,250,v,s,173,173.5,,n,173,18,FALSE
+Oxford Circus,Oxford Circus (vs),180,250,v,s,173,173.6,,s,173,18,FALSE
+Oxford Circus (bn),Oxford Circus,180,250,b,s,173.1,173,n,,173,18,FALSE
+Oxford Circus (bs),Oxford Circus,180,250,b,s,173.2,173,s,,173,18,FALSE
+Oxford Circus (ce),Oxford Circus,180,250,c,s,173.3,173,e,,173,18,FALSE
+Oxford Circus (cw),Oxford Circus,180,250,c,s,173.4,173,w,,173,18,FALSE
+Oxford Circus (vn),Oxford Circus,180,250,v,s,173.5,173,n,,173,18,FALSE
+Oxford Circus (vs),Oxford Circus,180,250,v,s,173.6,173,s,,173,18,FALSE
+Paddington (BRD),Paddington (BRD) (bn),180,250,b,s,174,174.1,D,n,174,13,FALSE
+Paddington (BRD),Paddington (BRD) (bs),180,250,b,s,174,174.2,D,s,174,13,FALSE
+Paddington (BRD),Paddington (BRD) (rde),180,250,"r,d",s,174,174.3,D,e,174,13,FALSE
+Paddington (BRD),Paddington (BRD) (rdw),180,250,"r,d",s,174,174.4,D,w,174,13,FALSE
+Paddington (BRD) (bn),Paddington (BRD),180,250,b,s,174.1,174,n,D,174,13,FALSE
+Paddington (BRD) (bs),Paddington (BRD),180,250,b,s,174.2,174,s,D,174,13,FALSE
+Paddington (BRD) (rde),Paddington (BRD),180,250,"r,d",s,174.3,174,e,D,174,13,FALSE
+Paddington (BRD) (rdw),Paddington (BRD),180,250,"r,d",s,174.4,174,w,D,174,13,FALSE
+Paddington (RH),Paddington (RH) (rhe),180,250,"r,h",s,175,175.1,H,e,175,7,FALSE
+Paddington (RH),Paddington (RH) (rhw),180,250,"r,h",s,175,175.2,H,w,175,7,FALSE
+Paddington (RH) (rhe),Paddington (RH),180,250,"r,h",s,175.1,175,e,H,175,7,FALSE
+Paddington (RH) (rhw),Paddington (RH),180,250,"r,h",s,175.2,175,w,H,175,7,FALSE
+Park Royal,Park Royal (pe),180,250,p,s,176,176.1,,e,176,8,FALSE
+Park Royal,Park Royal (pw),180,250,p,s,176,176.2,,w,176,8,FALSE
+Park Royal (pe),Park Royal,180,250,p,s,176.1,176,e,,176,8,FALSE
+Park Royal (pw),Park Royal,180,250,p,s,176.2,176,w,,176,8,FALSE
+Parsons Green,Parsons Green (de),180,250,d,s,177,177.1,,e,177,6,TRUE
+Parsons Green,Parsons Green (dw),180,250,d,s,177,177.2,,w,177,6,TRUE
+Parsons Green (de),Parsons Green,180,250,d,s,177.1,177,e,,177,6,TRUE
+Parsons Green (dw),Parsons Green,180,250,d,s,177.2,177,w,,177,6,TRUE
+Perivale,Perivale (ce),180,250,c,s,178,178.1,,e,178,6,TRUE
+Perivale,Perivale (cw),180,250,c,s,178,178.2,,w,178,6,TRUE
+Perivale (ce),Perivale,180,250,c,s,178.1,178,e,,178,6,TRUE
+Perivale (cw),Perivale,180,250,c,s,178.2,178,w,,178,6,TRUE
+Piccadilly Circus,Piccadilly Circus (bn),180,250,b,s,179,179.1,,n,179,12,FALSE
+Piccadilly Circus,Piccadilly Circus (bs),180,250,b,s,179,179.2,,s,179,12,FALSE
+Piccadilly Circus,Piccadilly Circus (pe),180,250,p,s,179,179.3,,e,179,12,FALSE
+Piccadilly Circus,Piccadilly Circus (pw),180,250,p,s,179,179.4,,w,179,12,FALSE
+Piccadilly Circus (bn),Piccadilly Circus,180,250,b,s,179.1,179,n,,179,12,FALSE
+Piccadilly Circus (bs),Piccadilly Circus,180,250,b,s,179.2,179,s,,179,12,FALSE
+Piccadilly Circus (pe),Piccadilly Circus,180,250,p,s,179.3,179,e,,179,12,FALSE
+Piccadilly Circus (pw),Piccadilly Circus,180,250,p,s,179.4,179,w,,179,12,FALSE
+Pimlico,Pimlico (vn),180,250,v,s,180,180.1,,n,180,6,TRUE
+Pimlico,Pimlico (vs),180,250,v,s,180,180.2,,s,180,6,TRUE
+Pimlico (vn),Pimlico,180,250,v,s,180.1,180,n,,180,6,TRUE
+Pimlico (vs),Pimlico,180,250,v,s,180.2,180,s,,180,6,TRUE
+Pinner,Pinner (mn),180,250,m,s,181,181.1,,n,181,6,TRUE
+Pinner,Pinner (ms),180,250,m,s,181,181.2,,s,181,6,TRUE
+Pinner (mn),Pinner,180,250,m,s,181.1,181,n,,181,6,TRUE
+Pinner (ms),Pinner,180,250,m,s,181.2,181,s,,181,6,TRUE
+Plaistow,Plaistow (dhe),180,250,"d,h",s,182,182.1,,e,182,6,TRUE
+Plaistow,Plaistow (dhw),180,250,"d,h",s,182,182.2,,w,182,6,TRUE
+Plaistow (dhe),Plaistow,180,250,"d,h",s,182.1,182,e,,182,6,TRUE
+Plaistow (dhw),Plaistow,180,250,"d,h",s,182.2,182,w,,182,6,TRUE
+Preston Road,Preston Road (mn),180,250,m,s,183,183.1,,n,183,6,TRUE
+Preston Road,Preston Road (ms),180,250,m,s,183,183.2,,s,183,6,TRUE
+Preston Road (mn),Preston Road,180,250,m,s,183.1,183,n,,183,6,TRUE
+Preston Road (ms),Preston Road,180,250,m,s,183.2,183,s,,183,6,TRUE
+Putney Bridge,Putney Bridge (de),180,250,d,s,184,184.1,,e,184,6,TRUE
+Putney Bridge,Putney Bridge (dw),180,250,d,s,184,184.2,,w,184,6,TRUE
+Putney Bridge (de),Putney Bridge,180,250,d,s,184.1,184,e,,184,6,TRUE
+Putney Bridge (dw),Putney Bridge,180,250,d,s,184.2,184,w,,184,6,TRUE
+Queens Park,Queens Park (bn),180,250,b,s,185,185.1,,n,185,6,TRUE
+Queens Park,Queens Park (bs),180,250,b,s,185,185.2,,s,185,6,TRUE
+Queens Park (bn),Queens Park,180,250,b,s,185.1,185,n,,185,6,TRUE
+Queens Park (bs),Queens Park,180,250,b,s,185.2,185,s,,185,6,TRUE
+Queensbury,Queensbury (je),180,250,j,s,186,186.1,,e,186,6,TRUE
+Queensbury,Queensbury (jw),180,250,j,s,186,186.2,,w,186,6,TRUE
+Queensbury (je),Queensbury,180,250,j,s,186.1,186,e,,186,6,TRUE
+Queensbury (jw),Queensbury,180,250,j,s,186.2,186,w,,186,6,TRUE
+Queensway,Queensway (ce),180,250,c,s,187,187.1,,e,187,6,TRUE
+Queensway,Queensway (cw),180,250,c,s,187,187.2,,w,187,6,TRUE
+Queensway (ce),Queensway,180,250,c,s,187.1,187,e,,187,6,TRUE
+Queensway (cw),Queensway,180,250,c,s,187.2,187,w,,187,6,TRUE
+Ravenscourt Park,Ravenscourt Park (de),180,250,d,s,188,188.1,,e,188,6,TRUE
+Ravenscourt Park,Ravenscourt Park (dw),180,250,d,s,188,188.2,,w,188,6,TRUE
+Ravenscourt Park (de),Ravenscourt Park,180,250,d,s,188.1,188,e,,188,6,TRUE
+Ravenscourt Park (dw),Ravenscourt Park,180,250,d,s,188.2,188,w,,188,6,TRUE
+Rayners Lane,Rayners Lane (mpn),180,250,m,s,189,189.1,,n,189,8,FALSE
+Rayners Lane,Rayners Lane (mps),180,250,m,s,189,189.2,,s,189,8,FALSE
+Rayners Lane (mpn),Rayners Lane,180,250,m,s,189.1,189,n,,189,8,FALSE
+Rayners Lane (mps),Rayners Lane,180,250,m,s,189.2,189,s,,189,8,FALSE
+Redbridge,Redbridge (ce),180,250,c,s,190,190.1,,e,190,6,TRUE
+Redbridge,Redbridge (cw),180,250,c,s,190,190.2,,w,190,6,TRUE
+Redbridge (ce),Redbridge,180,250,c,s,190.1,190,e,,190,6,TRUE
+Redbridge (cw),Redbridge,180,250,c,s,190.2,190,w,,190,6,TRUE
+Regents Park,Regents Park (bn),180,250,b,s,191,191.1,,n,191,6,TRUE
+Regents Park,Regents Park (bs),180,250,b,s,191,191.2,,s,191,6,TRUE
+Regents Park (bn),Regents Park,180,250,b,s,191.1,191,n,,191,6,TRUE
+Regents Park (bs),Regents Park,180,250,b,s,191.2,191,s,,191,6,TRUE
+Richmond,Richmond (de),180,250,b,s,192,192.1,,e,192,3,FALSE
+Richmond (dw),Richmond,180,250,b,s,192.2,192,w,,192,3,FALSE
+Rickmansworth,Rickmansworth (mn),180,250,m,s,193,193.1,,n,193,6,TRUE
+Rickmansworth,Rickmansworth (ms),180,250,m,s,193,193.2,,s,193,6,TRUE
+Rickmansworth (mn),Rickmansworth,180,250,m,s,193.1,193,n,,193,6,TRUE
+Rickmansworth (ms),Rickmansworth,180,250,m,s,193.2,193,s,,193,6,TRUE
+Roding Valley,Roding Valley (ce),180,250,c,s,194,194.1,,e,194,6,TRUE
+Roding Valley,Roding Valley (cw),180,250,c,s,194,194.2,,w,194,6,TRUE
+Roding Valley (ce),Roding Valley,180,250,c,s,194.1,194,e,,194,6,TRUE
+Roding Valley (cw),Roding Valley,180,250,c,s,194.2,194,w,,194,6,TRUE
+Royal Oak,Royal Oak (rhe),180,250,"r,h",s,195,195.1,,e,195,6,TRUE
+Royal Oak,Royal Oak (rhw),180,250,"r,h",s,195,195.2,,w,195,6,TRUE
+Royal Oak (rhe),Royal Oak,180,250,"r,h",s,195.1,195,e,,195,6,TRUE
+Royal Oak (rhw),Royal Oak,180,250,"r,h",s,195.2,195,w,,195,6,TRUE
+Ruislip,Ruislip (mpn),180,250,m,s,196,196.1,,n,196,6,TRUE
+Ruislip,Ruislip (mps),180,250,m,s,196,196.2,,s,196,6,TRUE
+Ruislip (mpn),Ruislip,180,250,m,s,196.1,196,n,,196,6,TRUE
+Ruislip (mps),Ruislip,180,250,m,s,196.2,196,s,,196,6,TRUE
+Ruislip Gardens,Ruislip Gardens (ce),180,250,c,s,197,197.1,,e,197,6,TRUE
+Ruislip Gardens,Ruislip Gardens (cw),180,250,c,s,197,197.2,,w,197,6,TRUE
+Ruislip Gardens (ce),Ruislip Gardens,180,250,c,s,197.1,197,e,,197,6,TRUE
+Ruislip Gardens (cw),Ruislip Gardens,180,250,c,s,197.2,197,w,,197,6,TRUE
+Ruislip Manor,Ruislip Manor (mps),180,250,m,s,198,198.2,,s,198,6,TRUE
+Ruislip Manor,Ruislip Manor (mpn),180,250,m,s,198,198.1,,n,198,6,TRUE
+Ruislip Manor (mps),Ruislip Manor,180,250,m,s,198.2,198,s,,198,6,TRUE
+Ruislip Manor (mpn),Ruislip Manor,180,250,m,s,198.1,198,n,,198,6,TRUE
+Russell Square,Russell Square (pe),180,250,p,s,199,199.1,,e,199,6,TRUE
+Russell Square,Russell Square (pw),180,250,p,s,199,199.2,,w,199,6,TRUE
+Russell Square (pe),Russell Square,180,250,p,s,199.1,199,e,,199,6,TRUE
+Russell Square (pw),Russell Square,180,250,p,s,199.2,199,w,,199,6,TRUE
+Seven Sisters,Seven Sisters (vn),180,250,v,s,200,200.1,,n,200,6,TRUE
+Seven Sisters,Seven Sisters (vs),180,250,v,s,200,200.2,,s,200,6,TRUE
+Seven Sisters (vn),Seven Sisters,180,250,v,s,200.1,200,n,,200,6,TRUE
+Seven Sisters (vs),Seven Sisters,180,250,v,s,200.2,200,s,,200,6,TRUE
+Shepherds Bush,Shepherds Bush (ce),180,250,c,s,201,201.1,,e,201,7,FALSE
+Shepherds Bush,Shepherds Bush (cw),180,250,c,s,201,201.2,,w,201,7,FALSE
+Shepherds Bush (ce),Shepherds Bush,180,250,c,s,201.1,201,e,,201,7,FALSE
+Shepherds Bush (cw),Shepherds Bush,180,250,c,s,201.2,201,w,,201,7,FALSE
+Shepherds Bush Market,Shepherds Bush Market (rhe),180,250,"r,h",s,202,202.1,,e,202,6,TRUE
+Shepherds Bush Market,Shepherds Bush Market (rhw),180,250,"r,h",s,202,202.2,,w,202,6,TRUE
+Shepherds Bush Market (rhe),Shepherds Bush Market,180,250,"r,h",s,202.1,202,e,,202,6,TRUE
+Shepherds Bush Market (rhw),Shepherds Bush Market,180,250,"r,h",s,202.2,202,w,,202,6,TRUE
+Sloane Square,Sloane Square (rde),180,250,"r,d",s,203,203.1,,e,203,6,TRUE
+Sloane Square,Sloane Square (rdw),180,250,"r,d",s,203,203.2,,w,203,6,TRUE
+Sloane Square (rde),Sloane Square,180,250,"r,d",s,203.1,203,e,,203,6,TRUE
+Sloane Square (rdw),Sloane Square,180,250,"r,d",s,203.2,203,w,,203,6,TRUE
+Snaresbrook,Snaresbrook (ce),180,250,c,s,204,204.1,,e,204,7,FALSE
+Snaresbrook,Snaresbrook (cw),180,250,c,s,204,204.2,,w,204,7,FALSE
+Snaresbrook (ce),Snaresbrook,180,250,c,s,204.1,204,e,,204,7,FALSE
+Snaresbrook (cw),Snaresbrook,180,250,c,s,204.2,204,w,,204,7,FALSE
+South Ealing,South Ealing (pe),180,250,p,s,205,205.1,,e,205,6,TRUE
+South Ealing,South Ealing (pw),180,250,p,s,205,205.2,,w,205,6,TRUE
+South Ealing (pe),South Ealing,180,250,p,s,205.1,205,e,,205,6,TRUE
+South Ealing (pw),South Ealing,180,250,p,s,205.2,205,w,,205,6,TRUE
+South Harrow,South Harrow (pe),180,250,p,s,206,206.1,,e,206,6,TRUE
+South Harrow,South Harrow (pw),180,250,p,s,206,206.2,,w,206,6,TRUE
+South Harrow (pe),South Harrow,180,250,p,s,206.1,206,e,,206,6,TRUE
+South Harrow (pw),South Harrow,180,250,p,s,206.2,206,w,,206,6,TRUE
+South Kensington,South Kensington (pe),180,250,p,s,207,207.1,,e,207,12,FALSE
+South Kensington,South Kensington (pw),180,250,p,s,207,207.2,,w,207,12,FALSE
+South Kensington,South Kensington (rde),180,250,"r,d",s,207,207.3,,e,207,12,FALSE
+South Kensington,South Kensington (rdw),180,250,"r,d",s,207,207.4,,w,207,12,FALSE
+South Kensington (pe),South Kensington,180,250,p,s,207.1,207,e,,207,12,FALSE
+South Kensington (pw),South Kensington,180,250,p,s,207.2,207,w,,207,12,FALSE
+South Kensington (rde),South Kensington,180,250,"r,d",s,207.3,207,e,,207,12,FALSE
+South Kensington (rdw),South Kensington,180,250,"r,d",s,207.4,207,w,,207,12,FALSE
+South Kenton,South Kenton (bn),180,250,b,s,208,208.1,,n,208,6,TRUE
+South Kenton,South Kenton (bs),180,250,b,s,208,208.2,,s,208,6,TRUE
+South Kenton (bn),South Kenton,180,250,b,s,208.1,208,n,,208,6,TRUE
+South Kenton (bs),South Kenton,180,250,b,s,208.2,208,s,,208,6,TRUE
+South Ruislip,South Ruislip (ce),180,250,c,s,209,209.1,,e,209,6,TRUE
+South Ruislip,South Ruislip (cw),180,250,c,s,209,209.2,,w,209,6,TRUE
+South Ruislip (ce),South Ruislip,180,250,c,s,209.1,209,e,,209,6,TRUE
+South Ruislip (cw),South Ruislip,180,250,c,s,209.2,209,w,,209,6,TRUE
+South Wimbledon,South Wimbledon (nn),180,250,n,s,210,210.1,,n,210,6,TRUE
+South Wimbledon,South Wimbledon (ns),180,250,n,s,210,210.2,,s,210,6,TRUE
+South Wimbledon (nn),South Wimbledon,180,250,n,s,210.1,210,n,,210,6,TRUE
+South Wimbledon (ns),South Wimbledon,180,250,n,s,210.2,210,s,,210,6,TRUE
+South Woodford,South Woodford (ce),180,250,c,s,211,211.1,,e,211,6,TRUE
+South Woodford,South Woodford (cw),180,250,c,s,211,211.2,,w,211,6,TRUE
+South Woodford (ce),South Woodford,180,250,c,s,211.1,211,e,,211,6,TRUE
+South Woodford (cw),South Woodford,180,250,c,s,211.2,211,w,,211,6,TRUE
+Southfields,Southfields (de),180,250,d,s,212,212.1,,e,212,6,TRUE
+Southfields,Southfields (dw),180,250,d,s,212,212.2,,w,212,6,TRUE
+Southfields (de),Southfields,180,250,d,s,212.1,212,e,,212,6,TRUE
+Southfields (dw),Southfields,180,250,d,s,212.2,212,w,,212,6,TRUE
+Southgate,Southgate (pe),180,250,p,s,213,213.1,,e,213,6,TRUE
+Southgate,Southgate (pw),180,250,p,s,213,213.2,,w,213,6,TRUE
+Southgate (pe),Southgate,180,250,p,s,213.1,213,e,,213,6,TRUE
+Southgate (pw),Southgate,180,250,p,s,213.2,213,w,,213,6,TRUE
+Southwark,Southwark (je),180,250,j,s,214,214.1,,e,214,6,TRUE
+Southwark,Southwark (jw),180,250,j,s,214,214.2,,w,214,6,TRUE
+Southwark (je),Southwark,180,250,j,s,214.1,214,e,,214,6,TRUE
+Southwark (jw),Southwark,180,250,j,s,214.2,214,w,,214,6,TRUE
+St Jamess Park,St Jamess Park (rde),180,250,"r,d",s,215,215.1,,e,215,6,TRUE
+St Jamess Park,St Jamess Park (rdw),180,250,"r,d",s,215,215.2,,w,215,6,TRUE
+St Jamess Park (rde),St Jamess Park,180,250,"r,d",s,215.1,215,e,,215,6,TRUE
+St Jamess Park (rdw),St Jamess Park,180,250,"r,d",s,215.2,215,w,,215,6,TRUE
+St Johns Wood,St Johns Wood (je),180,250,j,s,216,216.1,,e,216,6,TRUE
+St Johns Wood,St Johns Wood (jw),180,250,j,s,216,216.2,,w,216,6,TRUE
+St Johns Wood (je),St Johns Wood,180,250,j,s,216.1,216,e,,216,6,TRUE
+St Johns Wood (jw),St Johns Wood,180,250,j,s,216.2,216,w,,216,6,TRUE
+St Pauls,St Pauls (ce),180,250,c,s,217,217.1,,e,217,6,TRUE
+St Pauls,St Pauls (cw),180,250,c,s,217,217.2,,w,217,6,TRUE
+St Pauls (ce),St Pauls,180,250,c,s,217.1,217,e,,217,6,TRUE
+St Pauls (cw),St Pauls,180,250,c,s,217.2,217,w,,217,6,TRUE
+Stamford Brook,Stamford Brook (de),180,250,d,s,218,218.1,,e,218,6,TRUE
+Stamford Brook,Stamford Brook (dw),180,250,d,s,218,218.2,,w,218,6,TRUE
+Stamford Brook (de),Stamford Brook,180,250,d,s,218.1,218,e,,218,6,TRUE
+Stamford Brook (dw),Stamford Brook,180,250,d,s,218.2,218,w,,218,6,TRUE
+Stanmore,Stanmore (je),180,250,j,s,219,219.1,,e,219,3,FALSE
+Stanmore (jw),Stanmore,180,250,j,s,219.2,219,w,,219,3,FALSE
+Stepney Green,Stepney Green (dhe),180,250,"d,h",s,220,220.1,,e,220,6,TRUE
+Stepney Green,Stepney Green (dhw),180,250,"d,h",s,220,220.2,,w,220,6,TRUE
+Stepney Green (dhe),Stepney Green,180,250,"d,h",s,220.1,220,e,,220,6,TRUE
+Stepney Green (dhw),Stepney Green,180,250,"d,h",s,220.2,220,w,,220,6,TRUE
+Stockwell,Stockwell (nn),180,250,n,s,221,221.1,,n,221,12,FALSE
+Stockwell,Stockwell (ns),180,250,n,s,221,221.2,,s,221,12,FALSE
+Stockwell,Stockwell (vn),180,250,v,s,221,221.3,,n,221,12,FALSE
+Stockwell,Stockwell (vs),180,250,v,s,221,221.4,,s,221,12,FALSE
+Stockwell (nn),Stockwell,180,250,n,s,221.1,221,n,,221,12,FALSE
+Stockwell (ns),Stockwell,180,250,n,s,221.2,221,s,,221,12,FALSE
+Stockwell (vn),Stockwell,180,250,v,s,221.3,221,n,,221,12,FALSE
+Stockwell (vs),Stockwell,180,250,v,s,221.4,221,s,,221,12,FALSE
+Stonebridge Park,Stonebridge Park (bn),180,250,b,s,222,222.1,,n,222,6,TRUE
+Stonebridge Park,Stonebridge Park (bs),180,250,b,s,222,222.2,,s,222,6,TRUE
+Stonebridge Park (bn),Stonebridge Park,180,250,b,s,222.1,222,n,,222,6,TRUE
+Stonebridge Park (bs),Stonebridge Park,180,250,b,s,222.2,222,s,,222,6,TRUE
+Stratford,Stratford (ce),180,250,c,s,223,223.1,,e,223,9,FALSE
+Stratford,Stratford (cw),180,250,c,s,223,223.2,,w,223,9,FALSE
+Stratford,Stratford (jw),180,250,j,s,223,223.4,,w,223,9,FALSE
+Stratford (ce),Stratford,180,250,c,s,223.1,223,e,,223,9,FALSE
+Stratford (cw),Stratford,180,250,c,s,223.2,223,w,,223,9,FALSE
+Stratford (je),Stratford,180,250,j,s,223.3,223,e,,223,9,FALSE
+Sudbury Hill,Sudbury Hill (pe),180,250,p,s,224,224.1,,e,224,6,TRUE
+Sudbury Hill,Sudbury Hill (pw),180,250,p,s,224,224.2,,w,224,6,TRUE
+Sudbury Hill (pe),Sudbury Hill,180,250,p,s,224.1,224,e,,224,6,TRUE
+Sudbury Hill (pw),Sudbury Hill,180,250,p,s,224.2,224,w,,224,6,TRUE
+Sudbury Town,Sudbury Town (pe),180,250,p,s,225,225.1,,e,225,6,TRUE
+Sudbury Town,Sudbury Town (pw),180,250,p,s,225,225.2,,w,225,6,TRUE
+Sudbury Town (pe),Sudbury Town,180,250,p,s,225.1,225,e,,225,6,TRUE
+Sudbury Town (pw),Sudbury Town,180,250,p,s,225.2,225,w,,225,6,TRUE
+Swiss Cottage,Swiss Cottage (je),180,250,j,s,226,226.1,,e,226,6,TRUE
+Swiss Cottage,Swiss Cottage (jw),180,250,j,s,226,226.2,,w,226,6,TRUE
+Swiss Cottage (je),Swiss Cottage,180,250,j,s,226.1,226,e,,226,6,TRUE
+Swiss Cottage (jw),Swiss Cottage,180,250,j,s,226.2,226,w,,226,6,TRUE
+Temple,Temple (rde),180,250,"r,d",s,227,227.1,,e,227,6,TRUE
+Temple,Temple (rdw),180,250,"r,d",s,227,227.2,,w,227,6,TRUE
+Temple (rde),Temple,180,250,"r,d",s,227.1,227,e,,227,6,TRUE
+Temple (rdw),Temple,180,250,"r,d",s,227.2,227,w,,227,6,TRUE
+Theydon Bois,Theydon Bois (ce),180,250,c,s,228,228.1,,e,228,6,TRUE
+Theydon Bois,Theydon Bois (cw),180,250,c,s,228,228.2,,w,228,6,TRUE
+Theydon Bois (ce),Theydon Bois,180,250,c,s,228.1,228,e,,228,6,TRUE
+Theydon Bois (cw),Theydon Bois,180,250,c,s,228.2,228,w,,228,6,TRUE
+Tooting Bec,Tooting Bec (nn),180,250,n,s,229,229.1,,n,229,6,TRUE
+Tooting Bec,Tooting Bec (ns),180,250,n,s,229,229.2,,s,229,6,TRUE
+Tooting Bec (nn),Tooting Bec,180,250,n,s,229.1,229,n,,229,6,TRUE
+Tooting Bec (ns),Tooting Bec,180,250,n,s,229.2,229,s,,229,6,TRUE
+Tooting Broadway,Tooting Broadway (nn),180,250,n,s,230,230.1,,n,230,6,TRUE
+Tooting Broadway,Tooting Broadway (ns),180,250,n,s,230,230.2,,s,230,6,TRUE
+Tooting Broadway (nn),Tooting Broadway,180,250,n,s,230.1,230,n,,230,6,TRUE
+Tooting Broadway (ns),Tooting Broadway,180,250,n,s,230.2,230,s,,230,6,TRUE
+Tottenham Court Road,Tottenham Court Road (ce),180,250,c,s,231,231.1,,e,231,12,FALSE
+Tottenham Court Road,Tottenham Court Road (cw),180,250,c,s,231,231.2,,w,231,12,FALSE
+Tottenham Court Road,Tottenham Court Road (nn),180,250,n,s,231,231.3,,n,231,12,FALSE
+Tottenham Court Road,Tottenham Court Road (ns),180,250,n,s,231,231.4,,s,231,12,FALSE
+Tottenham Court Road (ce),Tottenham Court Road,180,250,c,s,231.1,231,e,,231,12,FALSE
+Tottenham Court Road (cw),Tottenham Court Road,180,250,c,s,231.2,231,w,,231,12,FALSE
+Tottenham Court Road (nn),Tottenham Court Road,180,250,n,s,231.3,231,n,,231,12,FALSE
+Tottenham Court Road (ns),Tottenham Court Road,180,250,n,s,231.4,231,s,,231,12,FALSE
+Tottenham Hale,Tottenham Hale (vn),180,250,v,s,232,232.1,,n,232,6,TRUE
+Tottenham Hale,Tottenham Hale (vs),180,250,v,s,232,232.2,,s,232,6,TRUE
+Tottenham Hale (vn),Tottenham Hale,180,250,v,s,232.1,232,n,,232,6,TRUE
+Tottenham Hale (vs),Tottenham Hale,180,250,v,s,232.2,232,s,,232,6,TRUE
+Totteridge & Whetstone,Totteridge & Whetstone (nn),180,250,n,s,233,233.1,,n,233,6,TRUE
+Totteridge & Whetstone,Totteridge & Whetstone (ns),180,250,n,s,233,233.2,,s,233,6,TRUE
+Totteridge & Whetstone (nn),Totteridge & Whetstone,180,250,n,s,233.1,233,n,,233,6,TRUE
+Totteridge & Whetstone (ns),Totteridge & Whetstone,180,250,n,s,233.2,233,s,,233,6,TRUE
+Tower Hill,Tower Hill (rde),180,250,"r,d",s,234,234.1,,e,234,7,FALSE
+Tower Hill,Tower Hill (rdw),180,250,"r,d",s,234,234.2,,w,234,7,FALSE
+Tower Hill (rde),Tower Hill,180,250,"r,d",s,234.1,234,e,,234,7,FALSE
+Tower Hill (rdw),Tower Hill,180,250,"r,d",s,234.2,234,w,,234,7,FALSE
+Tufnell Park,Tufnell Park (nn),180,250,n,s,235,235.1,,n,235,6,TRUE
+Tufnell Park,Tufnell Park (ns),180,250,n,s,235,235.2,,s,235,6,TRUE
+Tufnell Park (nn),Tufnell Park,180,250,n,s,235.1,235,n,,235,6,TRUE
+Tufnell Park (ns),Tufnell Park,180,250,n,s,235.2,235,s,,235,6,TRUE
+Turnham Green,Turnham Green (de),180,250,d,s,236,236.1,,e,236,7,FALSE
+Turnham Green,Turnham Green (dw),180,250,d,s,236,236.2,,w,236,7,FALSE
+Turnham Green (de),Turnham Green,180,250,d,s,236.1,236,e,,236,7,FALSE
+Turnham Green (dw),Turnham Green,180,250,d,s,236.2,236,w,,236,7,FALSE
+Turnpike Lane,Turnpike Lane (pe),180,250,p,s,237,237.1,,e,237,6,TRUE
+Turnpike Lane,Turnpike Lane (pw),180,250,p,s,237,237.2,,w,237,6,TRUE
+Turnpike Lane (pe),Turnpike Lane,180,250,p,s,237.1,237,e,,237,6,TRUE
+Turnpike Lane (pw),Turnpike Lane,180,250,p,s,237.2,237,w,,237,6,TRUE
+Upminster,Upminster (dw),180,250,d,s,238,238.2,,w,238,3,FALSE
+Upminster (de),Upminster,180,250,d,s,238.1,238,e,,238,3,FALSE
+Upminster Bridge,Upminster Bridge (de),180,250,d,s,239,239.1,,e,239,6,TRUE
+Upminster Bridge,Upminster Bridge (dw),180,250,d,s,239,239.2,,w,239,6,TRUE
+Upminster Bridge (de),Upminster Bridge,180,250,d,s,239.1,239,e,,239,6,TRUE
+Upminster Bridge (dw),Upminster Bridge,180,250,d,s,239.2,239,w,,239,6,TRUE
+Upney,Upney (de),180,250,d,s,240,240.1,,e,240,6,TRUE
+Upney,Upney (dw),180,250,d,s,240,240.2,,w,240,6,TRUE
+Upney (de),Upney,180,250,d,s,240.1,240,e,,240,6,TRUE
+Upney (dw),Upney,180,250,d,s,240.2,240,w,,240,6,TRUE
+Upton Park,Upton Park (dhe),180,250,"d,h",s,241,241.1,,e,241,6,TRUE
+Upton Park,Upton Park (dhw),180,250,"d,h",s,241,241.2,,w,241,6,TRUE
+Upton Park (dhe),Upton Park,180,250,"d,h",s,241.1,241,e,,241,6,TRUE
+Upton Park (dhw),Upton Park,180,250,"d,h",s,241.2,241,w,,241,6,TRUE
+Uxbridge,Uxbridge (mps),180,250,m,s,242,242.2,,s,242,3,FALSE
+Uxbridge (mpn),Uxbridge,180,250,m,s,242.1,242,n,,242,3,FALSE
+Vauxhall,Vauxhall (vn),180,250,v,s,243,243.1,,n,243,6,TRUE
+Vauxhall,Vauxhall (vs),180,250,v,s,243,243.2,,s,243,6,TRUE
+Vauxhall (vn),Vauxhall,180,250,v,s,243.1,243,n,,243,6,TRUE
+Vauxhall (vs),Vauxhall,180,250,v,s,243.2,243,s,,243,6,TRUE
+Victoria,Victoria (rde),180,250,"r,d",s,244,244.1,,e,244,12,FALSE
+Victoria,Victoria (rdw),180,250,"r,d",s,244,244.2,,w,244,12,FALSE
+Victoria,Victoria (vn),180,250,v,s,244,244.3,,n,244,12,FALSE
+Victoria,Victoria (vs),180,250,v,s,244,244.4,,s,244,12,FALSE
+Victoria (rde),Victoria,180,250,"r,d",s,244.1,244,e,,244,12,FALSE
+Victoria (rdw),Victoria,180,250,"r,d",s,244.2,244,w,,244,12,FALSE
+Victoria (vn),Victoria,180,250,v,s,244.3,244,n,,244,12,FALSE
+Victoria (vs),Victoria,180,250,v,s,244.4,244,s,,244,12,FALSE
+Walthamstow Central,Walthamstow Central (vs),180,250,v,s,245,245.2,,s,245,4,FALSE
+Walthamstow Central (vn),Walthamstow Central,180,250,v,s,245.1,245,n,,245,4,FALSE
+Wanstead,Wanstead (ce),180,250,c,s,246,246.1,,e,246,6,TRUE
+Wanstead,Wanstead (cw),180,250,c,s,246,246.2,,w,246,6,TRUE
+Wanstead (ce),Wanstead,180,250,c,s,246.1,246,e,,246,6,TRUE
+Wanstead (cw),Wanstead,180,250,c,s,246.2,246,w,,246,6,TRUE
+Warren Street,Warren Street (nn),180,250,n,s,247,247.1,,n,247,12,FALSE
+Warren Street,Warren Street (ns),180,250,n,s,247,247.2,,s,247,12,FALSE
+Warren Street,Warren Street (vn),180,250,v,s,247,247.3,,n,247,12,FALSE
+Warren Street,Warren Street (vs),180,250,v,s,247,247.4,,s,247,12,FALSE
+Warren Street (nn),Warren Street,180,250,n,s,247.1,247,n,,247,12,FALSE
+Warren Street (ns),Warren Street,180,250,n,s,247.2,247,s,,247,12,FALSE
+Warren Street (vn),Warren Street,180,250,v,s,247.3,247,n,,247,12,FALSE
+Warren Street (vs),Warren Street,180,250,v,s,247.4,247,s,,247,12,FALSE
+Warwick Avenue,Warwick Avenue (bn),180,250,b,s,248,248.1,,n,248,6,TRUE
+Warwick Avenue,Warwick Avenue (bs),180,250,b,s,248,248.2,,s,248,6,TRUE
+Warwick Avenue (bn),Warwick Avenue,180,250,b,s,248.1,248,n,,248,6,TRUE
+Warwick Avenue (bs),Warwick Avenue,180,250,b,s,248.2,248,s,,248,6,TRUE
+Waterloo,Waterloo (bn),180,250,b,s,249,249.1,,n,249,21,FALSE
+Waterloo,Waterloo (bs),180,250,b,s,249,249.2,,s,249,21,FALSE
+Waterloo,Waterloo (je),180,250,j,s,249,249.3,,e,249,21,FALSE
+Waterloo,Waterloo (jw),180,250,j,s,249,249.4,,w,249,21,FALSE
+Waterloo,Waterloo (nn),180,250,n,s,249,249.5,,n,249,21,FALSE
+Waterloo,Waterloo (ns),180,250,n,s,249,249.6,,s,249,21,FALSE
+Waterloo,Waterloo (wn),180,250,v,s,249,249.7,,n,249,21,FALSE
+Waterloo (bn),Waterloo,180,250,b,s,249.1,249,n,,249,21,FALSE
+Waterloo (bs),Waterloo,180,250,b,s,249.2,249,s,,249,21,FALSE
+Waterloo (je),Waterloo,180,250,j,s,249.3,249,e,,249,21,FALSE
+Waterloo (jw),Waterloo,180,250,j,s,249.4,249,w,,249,21,FALSE
+Waterloo (nn),Waterloo,180,250,n,s,249.5,249,n,,249,21,FALSE
+Waterloo (ns),Waterloo,180,250,n,s,249.6,249,s,,249,21,FALSE
+Waterloo (ws),Waterloo,180,250,v,s,249.8,249,s,,249,21,FALSE
+Watford,Watford (ms),180,250,m,s,250,250.2,,s,250,4,FALSE
+Watford (mn),Watford,180,250,m,s,250.1,250,n,,250,4,FALSE
+Wembley Central,Wembley Central (bn),180,250,b,s,251,251.1,,n,251,6,TRUE
+Wembley Central,Wembley Central (bs),180,250,b,s,251,251.2,,s,251,6,TRUE
+Wembley Central (bn),Wembley Central,180,250,b,s,251.1,251,n,,251,6,TRUE
+Wembley Central (bs),Wembley Central,180,250,b,s,251.2,251,s,,251,6,TRUE
+Wembley Park,Wembley Park (je),180,250,j,s,252,252.1,,e,252,12,FALSE
+Wembley Park,Wembley Park (jw),180,250,j,s,252,252.2,,w,252,12,FALSE
+Wembley Park,Wembley Park (mn),180,250,m,s,252,252.3,,n,252,12,FALSE
+Wembley Park,Wembley Park (ms),180,250,m,s,252,252.4,,s,252,12,FALSE
+Wembley Park (je),Wembley Park,180,250,j,s,252.1,252,e,,252,12,FALSE
+Wembley Park (jw),Wembley Park,180,250,j,s,252.2,252,w,,252,12,FALSE
+Wembley Park (mn),Wembley Park,180,250,m,s,252.3,252,n,,252,12,FALSE
+Wembley Park (ms),Wembley Park,180,250,m,s,252.4,252,s,,252,12,FALSE
+West Acton,West Acton (ce),180,250,c,s,253,253.1,,e,253,6,TRUE
+West Acton,West Acton (cw),180,250,c,s,253,253.2,,w,253,6,TRUE
+West Acton (ce),West Acton,180,250,c,s,253.1,253,e,,253,6,TRUE
+West Acton (cw),West Acton,180,250,c,s,253.2,253,w,,253,6,TRUE
+West Brompton,West Brompton (de),180,250,d,s,254,254.1,,e,254,6,TRUE
+West Brompton,West Brompton (dw),180,250,d,s,254,254.2,,w,254,6,TRUE
+West Brompton (de),West Brompton,180,250,d,s,254.1,254,e,,254,6,TRUE
+West Brompton (dw),West Brompton,180,250,d,s,254.2,254,w,,254,6,TRUE
+West Finchley,West Finchley (nn),180,250,n,s,255,255.1,,n,255,6,TRUE
+West Finchley,West Finchley (ns),180,250,n,s,255,255.2,,s,255,6,TRUE
+West Finchley (nn),West Finchley,180,250,n,s,255.1,255,n,,255,6,TRUE
+West Finchley (ns),West Finchley,180,250,n,s,255.2,255,s,,255,6,TRUE
+West Ham,West Ham (dhe),180,250,"d,h",s,256,256.1,,e,256,12,FALSE
+West Ham,West Ham (dhw),180,250,"d,h",s,256,256.2,,w,256,12,FALSE
+West Ham,West Ham (je),180,250,j,s,256,256.3,,e,256,12,FALSE
+West Ham,West Ham (jw),180,250,j,s,256,256.4,,w,256,12,FALSE
+West Ham (dhe),West Ham,180,250,"d,h",s,256.1,256,e,,256,12,FALSE
+West Ham (dhw),West Ham,180,250,"d,h",s,256.2,256,w,,256,12,FALSE
+West Ham (je),West Ham,180,250,j,s,256.3,256,e,,256,12,FALSE
+West Ham (jw),West Ham,180,250,j,s,256.4,256,w,,256,12,FALSE
+West Hampstead,West Hampstead (je),180,250,j,s,257,257.1,,e,257,6,TRUE
+West Hampstead,West Hampstead (jw),180,250,j,s,257,257.2,,w,257,6,TRUE
+West Hampstead (je),West Hampstead,180,250,j,s,257.1,257,e,,257,6,TRUE
+West Hampstead (jw),West Hampstead,180,250,j,s,257.2,257,w,,257,6,TRUE
+West Harrow,West Harrow (mn),180,250,m,s,258,258.1,,n,258,6,TRUE
+West Harrow,West Harrow (ms),180,250,m,s,258,258.2,,s,258,6,TRUE
+West Harrow (mn),West Harrow,180,250,m,s,258.1,258,n,,258,6,TRUE
+West Harrow (ms),West Harrow,180,250,m,s,258.2,258,s,,258,6,TRUE
+West Kensington,West Kensington (de),180,250,d,s,259,259.1,,e,259,6,TRUE
+West Kensington,West Kensington (dw),180,250,d,s,259,259.2,,w,259,6,TRUE
+West Kensington (de),West Kensington,180,250,d,s,259.1,259,e,,259,6,TRUE
+West Kensington (dw),West Kensington,180,250,d,s,259.2,259,w,,259,6,TRUE
+West Ruislip,West Ruislip (ce),180,250,c,s,260,260.1,,e,260,4,FALSE
+West Ruislip (cw),West Ruislip,180,250,c,s,260.2,260,w,,260,4,FALSE
+Westbourne Park,Westbourne Park (rhe),180,250,"r,h",s,261,261.1,,e,261,6,TRUE
+Westbourne Park,Westbourne Park (rhw),180,250,"r,h",s,261,261.2,,w,261,6,TRUE
+Westbourne Park (rhe),Westbourne Park,180,250,"r,h",s,261.1,261,e,,261,6,TRUE
+Westbourne Park (rhw),Westbourne Park,180,250,"r,h",s,261.2,261,w,,261,6,TRUE
+Westminster,Westminster (je),180,250,j,s,262,262.1,,e,262,12,FALSE
+Westminster,Westminster (jw),180,250,j,s,262,262.2,,w,262,12,FALSE
+Westminster,Westminster (rde),180,250,"r,d",s,262,262.3,,e,262,12,FALSE
+Westminster,Westminster (rdw),180,250,"r,d",s,262,262.4,,w,262,12,FALSE
+Westminster (je),Westminster,180,250,j,s,262.1,262,e,,262,12,FALSE
+Westminster (jw),Westminster,180,250,j,s,262.2,262,w,,262,12,FALSE
+Westminster (rde),Westminster,180,250,"r,d",s,262.3,262,e,,262,12,FALSE
+Westminster (rdw),Westminster,180,250,"r,d",s,262.4,262,w,,262,12,FALSE
+White City,White City (ce),180,250,c,s,263,263.1,,e,263,6,TRUE
+White City,White City (cw),180,250,c,s,263,263.2,,w,263,6,TRUE
+White City (ce),White City,180,250,c,s,263.1,263,e,,263,6,TRUE
+White City (cw),White City,180,250,c,s,263.2,263,w,,263,6,TRUE
+Whitechapel,Whitechapel (dhe),180,250,"d,h",s,264,264.1,,e,264,6,TRUE
+Whitechapel,Whitechapel (dhw),180,250,"d,h",s,264,264.2,,w,264,6,TRUE
+Whitechapel (dhe),Whitechapel,180,250,"d,h",s,264.1,264,e,,264,6,TRUE
+Whitechapel (dhw),Whitechapel,180,250,"d,h",s,264.2,264,w,,264,6,TRUE
+Willesden Green,Willesden Green (je),180,250,j,s,265,265.1,,e,265,6,TRUE
+Willesden Green,Willesden Green (jw),180,250,j,s,265,265.2,,w,265,6,TRUE
+Willesden Green (je),Willesden Green,180,250,j,s,265.1,265,e,,265,6,TRUE
+Willesden Green (jw),Willesden Green,180,250,j,s,265.2,265,w,,265,6,TRUE
+Willesden Junction,Willesden Junction (bn),180,250,b,s,266,266.1,,n,266,6,TRUE
+Willesden Junction,Willesden Junction (bs),180,250,b,s,266,266.2,,s,266,6,TRUE
+Willesden Junction (bn),Willesden Junction,180,250,b,s,266.1,266,n,,266,6,TRUE
+Willesden Junction (bs),Willesden Junction,180,250,b,s,266.2,266,s,,266,6,TRUE
+Wimbledon,Wimbledon (de),180,250,d,s,267,267.1,,e,267,4,FALSE
+Wimbledon (dw),Wimbledon,180,250,d,s,267.2,267,w,,267,4,FALSE
+Wimbledon Park,Wimbledon Park (de),180,250,d,s,268,268.1,,e,268,6,TRUE
+Wimbledon Park,Wimbledon Park (dw),180,250,d,s,268,268.2,,w,268,6,TRUE
+Wimbledon Park (de),Wimbledon Park,180,250,d,s,268.1,268,e,,268,6,TRUE
+Wimbledon Park (dw),Wimbledon Park,180,250,d,s,268.2,268,w,,268,6,TRUE
+Wood Green,Wood Green (pe),180,250,p,s,269,269.1,,e,269,6,TRUE
+Wood Green,Wood Green (pw),180,250,p,s,269,269.2,,w,269,6,TRUE
+Wood Green (pe),Wood Green,180,250,p,s,269.1,269,e,,269,6,TRUE
+Wood Green (pw),Wood Green,180,250,p,s,269.2,269,w,,269,6,TRUE
+Wood Lane,Wood Lane (rhe),180,250,"r,h",s,270,270.1,,e,270,6,TRUE
+Wood Lane,Wood Lane (rhw),180,250,"r,h",s,270,270.2,,w,270,6,TRUE
+Wood Lane (rhe),Wood Lane,180,250,"r,h",s,270.1,270,e,,270,6,TRUE
+Wood Lane (rhw),Wood Lane,180,250,"r,h",s,270.2,270,w,,270,6,TRUE
+Woodford,Woodford (ce1),180,250,c,s,271,271.1,,e,271,9,FALSE
+Woodford,Woodford (cw1),180,250,c,s,271,271.3,,w,271,9,FALSE
+Woodford,Woodford (cw2),180,250,c,s,271,271.4,,w,271,9,FALSE
+Woodford (ce1),Woodford,180,250,c,s,271.1,271,e,,271,9,FALSE
+Woodford (ce2),Woodford,180,250,c,s,271.2,271,e,,271,9,FALSE
+Woodford (cw1),Woodford,180,250,c,s,271.3,271,w,,271,9,FALSE
+Woodside Park,Woodside Park (nn),180,250,v,s,272,272.1,,n,272,6,TRUE
+Woodside Park,Woodside Park (ns),180,250,v,s,272,272.2,,s,272,6,TRUE
+Woodside Park (nn),Woodside Park,180,250,v,s,272.1,272,n,,272,6,TRUE
+Woodside Park (ns),Woodside Park,180,250,v,s,272.2,272,s,,272,6,TRUE
+Bank,Monument,180,250,-,e,12,150,,,12,16,FALSE
+Monument,Bank,180,250,-,e,150,12,,,150,7,FALSE
+Paddington (BRD),Paddington (RH),180,250,-,e,174,175,,,174,13,FALSE
+Paddington (RH),Paddington (BRD),180,250,-,e,175,174,,,175,7,FALSE
+Hammersmith (RH),Hammersmith (DP),180,250,-,e,97,96,,,97,96,FALSE
+Hammersmith (DP),Hammersmith (RH),180,250,-,e,96,97,,,96,97,FALSE
+Northwick Park,Kenton,240,350,-,e,165,126,,,165,8,FALSE
+Kenton,Northwick Park,240,350,-,e,126,165,,,126,8,FALSE
+Hanger Lane,Park Royal,540,700,-,e,99,176,,,99,8,FALSE
+Park Royal,Hanger Lane,480,700,-,e,176,99,,,176,8,FALSE
+Euston,Euston Square,240,300,-,e,77,78,,,77,20,FALSE
+Euston Square,Euston,240,290,-,e,78,77,,,78,8,FALSE
+Northwick Park,Kenton,240,350,-,w,165,126,,,165,8,FALSE
+Kenton,Northwick Park,240,350,-,w,126,165,,,126,8,FALSE
+Start,Harrow & Wealdstone,0,0,-,a,0,101,,,0,28,FALSE
+Start,Epping,0,0,-,a,0,76,,,0,28,FALSE
+Start,Stanmore,0,0,-,a,0,219,,,0,28,FALSE
+Start,Cockfosters,0,0,-,a,0,53,,,0,28,FALSE
+High Barnet,Cockfosters,2760,3700,-,w,108,53,,,108,4,FALSE
+Start,Heathrow Terminal 5,0,0,-,a,0,105,,,0,28,FALSE
+Start,Walthamstow Central,0,0,-,a,0,245,,,0,28,FALSE
+Snaresbrook,Walthamstow Central,2640,3500,-,w,204,245,,,204,7,FALSE
+Start,Brixton,0,0,-,a,0,31,,,0,28,FALSE
+Start,Watford,0,0,-,a,0,250,,,0,28,FALSE
+Start,Chesham,0,0,-,a,0,46,,,0,28,FALSE
+Start,Amersham,0,0,-,a,0,5,,,0,28,FALSE
+Start,Morden,0,0,-,a,0,153,,,0,28,FALSE
+Wimbledon,Morden,1980,2700,-,w,267,153,,,267,4,FALSE
+Start,Edgware,0,0,-,a,0,70,,,0,28,FALSE
+Canons Park,Edgware,1200,1600,-,w,41,70,,,41,7,FALSE
+Edgware,Canons Park,1200,1600,-,w,70,41,,,70,3,FALSE
+Start,Mill Hill East,0,0,-,a,0,149,,,0,28,FALSE
+Start,High Barnet,0,0,-,a,0,108,,,0,28,FALSE
+Cockfosters,High Barnet,2820,3700,-,w,53,108,,,53,4,FALSE
+Aldgate East,Aldgate,240,270,-,w,3,2,,,3,8,FALSE
+Start,Wimbledon,0,0,-,a,0,267,,,0,28,FALSE
+Morden,Wimbledon,1980,2700,-,w,153,267,,,153,4,FALSE
+Start,Kensington (Olympia),0,0,-,a,0,124,,a,0,28,FALSE
+Shepherds Bush,Kensington (Olympia),840,1100,-,w,201,124,,a,201,7,FALSE
+Start,Richmond,0,0,-,a,0,192,,,0,28,FALSE
+Start,Ealing Broadway,0,0,-,a,0,62,,,0,28,FALSE
+Start,Upminster,0,0,-,a,0,238,,,0,28,FALSE
+Start,West Ruislip,0,0,-,a,0,260,,,0,28,FALSE
+Ickenham,West Ruislip,840,1100,-,w,121,260,,,121,7,FALSE
+Start,Uxbridge,0,0,-,a,0,242,,,0,28,FALSE
+Start,Battersea Power Station,0,0,-,a,0,17,,,0,28,FALSE
+Battersea Power Station (ns),Battersea Power Station,180,250,n,s,17.2,17,s,,17,3,FALSE
+Walthamstow Central,Snaresbrook,2640,3500,-,w,245,204,,,245,4,FALSE
+Kensington (Olympia),Shepherds Bush,840,1100,-,w,124,201,a,,124,5,FALSE
+Hanger Lane,Park Royal,540,700,-,w,99,176,,,99,8,FALSE
+Park Royal,Hanger Lane,480,700,-,w,176,99,,,176,8,FALSE
+West Ruislip,Ickenham,780,1100,-,w,260,121,,,260,4,FALSE
+Euston,Euston Square,240,300,-,w,77,78,,,77,20,FALSE
+Euston Square,Euston,240,290,-,w,78,77,,,78,8,FALSE
+North Harrow,Rayners Lane,1080,1400,-,w,161,189,,,161,7,FALSE
+Rayners Lane,North Harrow,1080,1400,-,w,189,161,,,189,8,FALSE
+Watford,Watford (ms),180,250,m,s,250,250.2,,s,250,4,FALSE
+Highgate,Highgate (ns),180,250,n,s,111,111.2,,s,111,7,FALSE
+Aldgate,Aldgate East,180,270,-,w,2,3,,,2,7,FALSE
+Battersea Power Station,Battersea Power Station (nn),180,250,n,s,17,17.1,,n,17,3,FALSE
